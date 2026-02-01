@@ -326,8 +326,61 @@
     <title lang="fr">Elles n'oublient jamais</title>
     <desc lang="fr">Fin estimée (+2h). Ajuster avec l’horaire suivant.</desc>
   </programme>
+    <programme start="20260209005700 -0500" stop="20260209022700 -0500" channel="studiocanal.qc">
+    <title lang="fr">Hôtel des Amériques</title>
+  </programme>
+
+  <programme start="20260209022700 -0500" stop="20260209052600 -0500" channel="studiocanal.qc">
+    <title lang="fr">Hors d'ondes</title>
+  </programme>
+
+  <programme start="20260209052600 -0500" stop="20260209081700 -0500" channel="studiocanal.qc">
+    <title lang="fr">Le regard d'Ulysse</title>
+  </programme>
+
+  <programme start="20260209081700 -0500" stop="20260209100000 -0500" channel="studiocanal.qc">
+    <title lang="fr">On ne meurt que deux fois</title>
+  </programme>
+
+  <programme start="20260209100000 -0500" stop="20260209111900 -0500" channel="studiocanal.qc">
+    <title lang="fr">Les infortunes de la beauté</title>
+  </programme>
+
+  <programme start="20260209111900 -0500" stop="20260209125100 -0500" channel="studiocanal.qc">
+    <title lang="fr">Un dimanche à la campagne</title>
+  </programme>
+
+  <programme start="20260209125100 -0500" stop="20260209150200 -0500" channel="studiocanal.qc">
+    <title lang="fr">Le grand carnaval</title>
+  </programme>
+
+  <programme start="20260209150200 -0500" stop="20260209163300 -0500" channel="studiocanal.qc">
+    <title lang="fr">Hôtel des Amériques</title>
+  </programme>
+
+  <programme start="20260209163300 -0500" stop="20260209183000 -0500" channel="studiocanal.qc">
+    <title lang="fr">Le crabe tambour</title>
+  </programme>
+
+  <programme start="20260209183000 -0500" stop="20260209200000 -0500" channel="studiocanal.qc">
+    <title lang="fr">Le traqué</title>
+  </programme>
+
+  <programme start="20260209200000 -0500" stop="20260209212300 -0500" channel="studiocanal.qc">
+    <title lang="fr">En plein feu</title>
+  </programme>
+
+  <programme start="20260209212300 -0500" stop="20260209231200 -0500" channel="studiocanal.qc">
+    <title lang="fr">Le cousin</title>
+  </programme>
+
+  <programme start="20260209231200 -0500" stop="20260210004400 -0500" channel="studiocanal.qc">
+    <title lang="fr">Au petit Marguery</title>
+  </programme>
+
 
 </tv>
+
 
 
 
