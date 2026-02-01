@@ -7,9 +7,11 @@
 
 <programme start="20260201000000 -0500" stop="20260201235959 -0500" channel="studiocanal.qc">
   <title lang="fr">Film à l'affiche</title>
-  <desc lang="fr">Programmation StudioCanal Québec (grille TV Hebdo).</desc>
+  <desc lang="fr">TEST DESC: Ceci est la description. Si tu lis ce texte dans TiviMate (OK/Info sur le programme), alors l’affichage des infos fonctionne.</desc>
 </programme>
 
 
+
 </tv>
+
 
