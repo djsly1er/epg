@@ -1,85 +1,150 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="StudioCanal QC XMLTV (TV Hebdo manual)">
 
-  <!--
-  Règle EPG :
-  Journée TV = 05:00 → 04:59
-  Compatible TiviMate / XMLTV
-  -->
-
   <channel id="studiocanal.qc">
     <display-name>StudioCanal Québec</display-name>
   </channel>
 
-  <!-- JEUDI 05 FÉVRIER 2026 -->
-  <programme start="20260205015300 -0500" stop="20260205034100 -0500" channel="studiocanal.qc"><title lang="fr">Le cousin</title></programme>
-  <programme start="20260205034100 -0500" stop="20260205073700 -0500" channel="studiocanal.qc"><title lang="fr">Hors d'ondes</title></programme>
-  <programme start="20260205073700 -0500" stop="20260205091800 -0500" channel="studiocanal.qc"><title lang="fr">Comédie d'été</title></programme>
-  <programme start="20260205091800 -0500" stop="20260205110700 -0500" channel="studiocanal.qc"><title lang="fr">Le cousin</title></programme>
-  <programme start="20260205110700 -0500" stop="20260205124900 -0500" channel="studiocanal.qc"><title lang="fr">Le troisième homme</title></programme>
-  <programme start="20260205124900 -0500" stop="20260205142400 -0500" channel="studiocanal.qc"><title lang="fr">Docteur Françoise Gailland</title></programme>
-  <programme start="20260205142400 -0500" stop="20260205155600 -0500" channel="studiocanal.qc"><title lang="fr">La duchesse de Langeais</title></programme>
-  <programme start="20260205155600 -0500" stop="20260205172100 -0500" channel="studiocanal.qc"><title lang="fr">Les bronzés font du ski</title></programme>
-  <programme start="20260205172100 -0500" stop="20260205200000 -0500" channel="studiocanal.qc"><title lang="fr">Justinien Trouvé ou le bâtard de Dieu</title></programme>
-  <programme start="20260205200000 -0500" stop="20260205212100 -0500" channel="studiocanal.qc"><title lang="fr">Cette sacrée gamine</title></programme>
-  <programme start="20260205212100 -0500" stop="20260205225000 -0500" channel="studiocanal.qc"><title lang="fr">A coeur joie</title></programme>
-  <programme start="20260205225000 -0500" stop="20260206004100 -0500" channel="studiocanal.qc"><title lang="fr">Monsieur vincent</title></programme>
+<!-- ===================== -->
+<!-- SAMEDI 07 FÉVRIER 2026 -->
+<!-- ===================== -->
 
-  <!-- VENDREDI 06 FÉVRIER 2026 -->
-  <programme start="20260206004100 -0500" stop="20260206025200 -0500" channel="studiocanal.qc"><title lang="fr">Le grand carnaval</title></programme>
-  <programme start="20260206025200 -0500" stop="20260206042300 -0500" channel="studiocanal.qc"><title lang="fr">Coplan FX 18 Casse Tout</title></programme>
-  <programme start="20260206042300 -0500" stop="20260206053900 -0500" channel="studiocanal.qc"><title lang="fr">Secret Lives</title></programme>
-  <programme start="20260206053900 -0500" stop="20260206071000 -0500" channel="studiocanal.qc"><title lang="fr">Hôtel des Amériques</title></programme>
-  <programme start="20260206071000 -0500" stop="20260206083200 -0500" channel="studiocanal.qc"><title lang="fr">Tenue de soirée</title></programme>
-  <programme start="20260206083200 -0500" stop="20260206102700 -0500" channel="studiocanal.qc"><title lang="fr">Merci la vie</title></programme>
-  <programme start="20260206102700 -0500" stop="20260206123900 -0500" channel="studiocanal.qc"><title lang="fr">Aux sources du Nil</title></programme>
-  <programme start="20260206123900 -0500" stop="20260206141000 -0500" channel="studiocanal.qc"><title lang="fr">Au petit Marguery</title></programme>
-  <programme start="20260206141000 -0500" stop="20260206155100 -0500" channel="studiocanal.qc"><title lang="fr">Comédie d'été</title></programme>
-  <programme start="20260206155100 -0500" stop="20260206182800 -0500" channel="studiocanal.qc"><title lang="fr">Édith et Marcel</title></programme>
-  <programme start="20260206182800 -0500" stop="20260206200000 -0500" channel="studiocanal.qc"><title lang="fr">Un dimanche à la campagne</title></programme>
-  <programme start="20260206200000 -0500" stop="20260206215700 -0500" channel="studiocanal.qc"><title lang="fr">Le crabe tambour</title></programme>
-  <programme start="20260206215700 -0500" stop="20260207001000 -0500" channel="studiocanal.qc"><title lang="fr">Les enfants du siècle</title></programme>
+<programme start="20260207141000 -0500" stop="20260207155100 -0500" channel="studiocanal.qc">
+<title lang="fr">Comédie d'été</title>
+<desc lang="fr"><![CDATA[
+1989. À la veille de la Première Guerre mondiale, un jeune homme s’éprend d’une amie divorcée de sa mère, avant que le conflit mondial ne bouleverse leur destin.
 
-  <!-- SAMEDI 07 FÉVRIER 2026 -->
-  <programme start="20260207001000 -0500" stop="20260207015200 -0500" channel="studiocanal.qc"><title lang="fr">Le pressentiment</title></programme>
-  <programme start="20260207015200 -0500" stop="20260207031700 -0500" channel="studiocanal.qc"><title lang="fr">Monsieur Naphtali</title></programme>
-  <programme start="20260207031700 -0500" stop="20260207045700 -0500" channel="studiocanal.qc"><title lang="fr">L'équipier</title></programme>
-  <programme start="20260207045700 -0500" stop="20260207064200 -0500" channel="studiocanal.qc"><title lang="fr">Hors d'ondes</title></programme>
-  <programme start="20260207064200 -0500" stop="20260207081700 -0500" channel="studiocanal.qc"><title lang="fr">Docteur Françoise Gailland</title></programme>
-  <programme start="20260207081700 -0500" stop="20260207094900 -0500" channel="studiocanal.qc"><title lang="fr">La vie à l'envers</title></programme>
-  <programme start="20260207094900 -0500" stop="20260207114600 -0500" channel="studiocanal.qc"><title lang="fr">Le crabe tambour</title></programme>
-  <programme start="20260207114600 -0500" stop="20260207131900 -0500" channel="studiocanal.qc"><title lang="fr">La duchesse de Langeais</title></programme>
-  <programme start="20260207131900 -0500" stop="20260207150200 -0500" channel="studiocanal.qc"><title lang="fr">On ne meurt que deux fois</title></programme>
-  <programme start="20260207150200 -0500" stop="20260207165200 -0500" channel="studiocanal.qc"><title lang="fr">Le Roi</title></programme>
-  <programme start="20260207165200 -0500" stop="20260207181900 -0500" channel="studiocanal.qc"><title lang="fr">Je crois que je l'aime</title></programme>
-  <programme start="20260207181900 -0500" stop="20260207200000 -0500" channel="studiocanal.qc"><title lang="fr">Voleur de vie</title></programme>
-  <programme start="20260207200000 -0500" stop="20260207211900 -0500" channel="studiocanal.qc"><title lang="fr">Les infortunes de la beauté</title></programme>
-  <programme start="20260207211900 -0500" stop="20260207231300 -0500" channel="studiocanal.qc"><title lang="fr">Gervaise</title></programme>
-  <programme start="20260207231300 -0500" stop="20260208000000 -0500" channel="studiocanal.qc"><title lang="fr">Elles n'oublient jamais</title></programme>
+Réalisation : Daniel Vigne
+Avec : Jean-Claude Brialy, Maruschka Detmers, Rémi Martin
+]]></desc>
+</programme>
 
-  <!-- DIMANCHE 08 FÉVRIER 2026 -->
-  <programme start="20260208000000 -0500" stop="20260208010200 -0500" channel="studiocanal.qc"><title lang="fr">Le trésor de la montagne sacrée</title></programme>
-  <programme start="20260208010200 -0500" stop="20260208023600 -0500" channel="studiocanal.qc"><title lang="fr">Hors d'ondes</title></programme>
-  <programme start="20260208023600 -0500" stop="20260208062200 -0500" channel="studiocanal.qc"><title lang="fr">Gervaise</title></programme>
-  <programme start="20260208062200 -0500" stop="20260208081600 -0500" channel="studiocanal.qc"><title lang="fr">Coplan FX 18 Casse Tout</title></programme>
-  <programme start="20260208081600 -0500" stop="20260208094700 -0500" channel="studiocanal.qc"><title lang="fr">Au petit Marguery</title></programme>
-  <programme start="20260208094700 -0500" stop="20260208111900 -0500" channel="studiocanal.qc"><title lang="fr">Le pressentiment</title></programme>
-  <programme start="20260208111900 -0500" stop="20260208130000 -0500" channel="studiocanal.qc"><title lang="fr">Monsieur Naphtali</title></programme>
-  <programme start="20260208130000 -0500" stop="20260208142500 -0500" channel="studiocanal.qc"><title lang="fr">Le cousin</title></programme>
-  <programme start="20260208142500 -0500" stop="20260208161400 -0500" channel="studiocanal.qc"><title lang="fr">Le grand carnaval</title></programme>
-  <programme start="20260208161400 -0500" stop="20260208182500 -0500" channel="studiocanal.qc"><title lang="fr">Le trésor de la montagne sacrée</title></programme>
-  <programme start="20260208182500 -0500" stop="20260208200000 -0500" channel="studiocanal.qc"><title lang="fr">Aux sources du Nil</title></programme>
-  <programme start="20260208200000 -0500" stop="20260208221200 -0500" channel="studiocanal.qc"><title lang="fr">Aux sources du Nil</title></programme>
-  <programme start="20260208221200 -0500" stop="20260208231259 -0500" channel="studiocanal.qc"><title lang="fr">Édith et Marcel</title></programme>
+<programme start="20260207155100 -0500" stop="20260207182800 -0500" channel="studiocanal.qc">
+<title lang="fr">Édith et Marcel</title>
+<desc lang="fr"><![CDATA[
+Fr. 1983. À la fin des années 40, l’histoire d’amour passionnée entre la chanteuse Édith Piaf et le boxeur Marcel Cerdan.
+
+Réalisation : Claude Lelouch
+Avec : Marcel Cerdan Jr., Jacques Villeret, Evelyne Bouix
+]]></desc>
+</programme>
+
+<programme start="20260207182800 -0500" stop="20260207200000 -0500" channel="studiocanal.qc">
+<title lang="fr">Un dimanche à la campagne</title>
+<desc lang="fr"><![CDATA[
+Fr. 1984. Un vieux peintre veuf reçoit ses enfants dans sa maison de campagne, ravivant souvenirs et non-dits.
+
+Réalisation : Bertrand Tavernier
+Avec : Louis Ducreux, Sabine Azéma, Michel Aumont
+]]></desc>
+</programme>
+
+<programme start="20260207200000 -0500" stop="20260207215700 -0500" channel="studiocanal.qc">
+<title lang="fr">Le crabe tambour</title>
+<desc lang="fr"><![CDATA[
+Fr. 1977. À bord d’un navire, trois hommes évoquent leurs souvenirs liés à un soldat au destin singulier.
+
+Réalisation : Pierre Schoendoerffer
+Avec : Jean Rochefort, Claude Rich, Jacques Perrin
+]]></desc>
+</programme>
+
+<programme start="20260207215700 -0500" stop="20260207233000 -0500" channel="studiocanal.qc">
+<title lang="fr">Les enfants du siècle</title>
+<desc lang="fr"><![CDATA[
+Fr. 1999. Les amours tumultueuses de l’écrivaine George Sand et du poète Alfred de Musset.
+
+Réalisation : Diane Kurys
+Avec : Juliette Binoche, Benoît Magimel, Robin Renucci
+]]></desc>
+</programme>
+
+<!-- ===================== -->
+<!-- DIMANCHE 08 FÉVRIER 2026 -->
+<!-- ===================== -->
+
+<programme start="20260208001000 -0500" stop="20260208015200 -0500" channel="studiocanal.qc">
+<title lang="fr">Le pressentiment</title>
+<desc lang="fr"><![CDATA[
+Fr. 2006. Déçu par le monde mesquin dans lequel il évolue, un avocat quitte sa vie bourgeoise pour un quartier populaire.
+
+Réalisation : Jean-Pierre Darroussin
+Avec : Valérie Strohl, Amandine Janin
+]]></desc>
+</programme>
+
+<programme start="20260208015200 -0500" stop="20260208031700 -0500" channel="studiocanal.qc">
+<title lang="fr">Monsieur Naphtali</title>
+<desc lang="fr"><![CDATA[
+Fr. 1998. Un homme candide et fragile est recueilli par un groupe d’intellectuels après avoir été rejeté d’une maison de repos.
+
+Réalisation : Olivier Schatzky
+Avec : Elie Kakou, Gilbert Melki, Isabelle Ferron
+]]></desc>
+</programme>
+
+<programme start="20260208031700 -0500" stop="20260208045700 -0500" channel="studiocanal.qc">
+<title lang="fr">L'équipier</title>
+<desc lang="fr"><![CDATA[
+Fr. 2004. En Bretagne en 1963, un gardien de phare blessé par la guerre d’Algérie tombe amoureux de la femme de son collègue.
+
+Réalisation : Philippe Lioret
+Avec : Grégori Derangère, Philippe Torreton, Sandrine Bonnaire
+]]></desc>
+</programme>
+
+<programme start="20260208045700 -0500" stop="20260208064200 -0500" channel="studiocanal.qc">
+<title lang="fr">Hors d'ondes</title>
+</programme>
+
+<programme start="20260208064200 -0500" stop="20260208081700 -0500" channel="studiocanal.qc">
+<title lang="fr">Docteur Françoise Gailland</title>
+<desc lang="fr"><![CDATA[
+Fr. 1976. Apprenant qu’elle est atteinte d’un cancer incurable, une femme médecin tente de se réconcilier avec les siens.
+
+Réalisation : Jean-Louis Bertuccelli
+Avec : Annie Girardot, Jean-Pierre Cassel, François Périer
+]]></desc>
+</programme>
+
+<programme start="20260208081700 -0500" stop="20260208094900 -0500" channel="studiocanal.qc">
+<title lang="fr">La vie à l'envers</title>
+<desc lang="fr"><![CDATA[
+Fr. 1964. Un trentenaire parisien s’extrait peu à peu de la réalité jusqu’à s’enfermer dans une solitude heureuse, puis inquiétante.
+
+Réalisation : Alain Jessua
+Avec : Anna Gaylor, Charles Denner
+]]></desc>
+</programme>
+
+<programme start="20260208094900 -0500" stop="20260208114600 -0500" channel="studiocanal.qc">
+<title lang="fr">Le crabe tambour</title>
+<desc lang="fr"><![CDATA[
+Fr. 1977. À bord d’un navire, trois hommes évoquent leurs souvenirs liés à un soldat au destin singulier.
+
+Réalisation : Pierre Schoendoerffer
+Avec : Jean Rochefort, Claude Rich, Jacques Perrin
+]]></desc>
+</programme>
+
+<programme start="20260208114600 -0500" stop="20260208131900 -0500" channel="studiocanal.qc">
+<title lang="fr">La duchesse de Langeais</title>
+<desc lang="fr"><![CDATA[
+Fr. 1944. Sous l’Empire, une intrigue amoureuse se noue entre un général et une aristocrate insaisissable.
+
+Réalisation : Jacques de Baroncelli
+Avec : Edwige Feuillère, Pierre Richard-Wilm
+]]></desc>
+</programme>
 
 <!-- ===================== -->
 <!-- LUNDI 09 FÉVRIER 2026 -->
 <!-- ===================== -->
 
 <programme start="20260209005700 -0500" stop="20260209022700 -0500" channel="studiocanal.qc">
-  <title lang="fr">Hôtel des Amériques</title>
-  <desc lang="fr"><![CDATA[
-Fr. 1981. La liaison tourmentée d'un jeune désoeuvré avec une anesthésiste réfugiée dans le souvenir d'un amour mort.
+<title lang="fr">Hôtel des Amériques</title>
+<desc lang="fr"><![CDATA[
+Fr. 1981. La liaison tourmentée d’un jeune homme désœuvré avec une anesthésiste réfugiée dans le souvenir d’un amour perdu.
 
 Réalisation : André Téchiné
 Avec : Patrick Dewaere, Catherine Deneuve, Étienne Chicot
@@ -87,119 +152,17 @@ Avec : Patrick Dewaere, Catherine Deneuve, Étienne Chicot
 </programme>
 
 <programme start="20260209022700 -0500" stop="20260209052600 -0500" channel="studiocanal.qc">
-  <title lang="fr">Hors d'ondes</title>
+<title lang="fr">Hors d'ondes</title>
 </programme>
 
 <programme start="20260209052600 -0500" stop="20260209081700 -0500" channel="studiocanal.qc">
-  <title lang="fr">Le regard d'Ulysse</title>
-  <desc lang="fr"><![CDATA[
-Gr. 1995. En pleine crise personnelle et professionnelle, un cinéaste américain d'origine grecque parcourt les Balkans dévastés par la guerre.
+<title lang="fr">Le regard d'Ulysse</title>
+<desc lang="fr"><![CDATA[
+Gr. 1995. En crise personnelle, un cinéaste d’origine grecque traverse les Balkans dévastés par la guerre.
 
 Réalisation : Theodoros Angelopoulos
-Avec : Maïa Morgenstern, Harvey Keitel, Erland Josephson
-]]></desc>
-</programme>
-
-<programme start="20260209081700 -0500" stop="20260209100000 -0500" channel="studiocanal.qc">
-  <title lang="fr">On ne meurt que deux fois</title>
-  <desc lang="fr"><![CDATA[
-Fr. 1985. Un inspecteur aux méthodes originales enquête sur le meurtre d'un pianiste réputé.
-
-Réalisation : Jacques Deray
-Avec : Michel Serrault, Charlotte Rampling, Xavier Deluc
-]]></desc>
-</programme>
-
-<programme start="20260209100000 -0500" stop="20260209111900 -0500" channel="studiocanal.qc">
-  <title lang="fr">Les infortunes de la beauté</title>
-  <desc lang="fr"><![CDATA[
-1999. Deux amies se lancent un pari et remuent ciel et terre pour dénicher la femme idéale, afin de convaincre un don juan que la femme parfaite peut exister.
-
-Réalisation : John Lvoff
-Avec : Arielle Dombasle, Maria de Medeiros, Thibault de Montalembert
-]]></desc>
-</programme>
-
-<programme start="20260209111900 -0500" stop="20260209125100 -0500" channel="studiocanal.qc">
-  <title lang="fr">Un dimanche à la campagne</title>
-  <desc lang="fr"><![CDATA[
-Fr. 1984. Un vieux peintre veuf reçoit son fils et sa fille dans sa villa à la campagne.
-
-Réalisation : Bertrand Tavernier
-Avec : Louis Ducreux, Sabine Azéma, Michel Aumont
-]]></desc>
-</programme>
-
-<programme start="20260209125100 -0500" stop="20260209150200 -0500" channel="studiocanal.qc">
-  <title lang="fr">Le grand carnaval</title>
-  <desc lang="fr"><![CDATA[
-Fr. 1983. En novembre 1942, le maire d'un village algérien et son ami cafetier profitent de l'arrivée des troupes américaines.
-
-Réalisation : Alexandre Arcady
-Avec : Fiona Gélin, Roger Hanin, Philippe Noiret
-]]></desc>
-</programme>
-
-<programme start="20260209150200 -0500" stop="20260209163300 -0500" channel="studiocanal.qc">
-  <title lang="fr">Hôtel des Amériques</title>
-  <desc lang="fr"><![CDATA[
-Fr. 1981. La liaison tourmentée d'un jeune désoeuvré avec une anesthésiste réfugiée dans le souvenir d'un amour mort.
-
-Réalisation : André Téchiné
-Avec : Patrick Dewaere, Catherine Deneuve, Étienne Chicot
-]]></desc>
-</programme>
-
-<programme start="20260209163300 -0500" stop="20260209183000 -0500" channel="studiocanal.qc">
-  <title lang="fr">Le crabe tambour</title>
-  <desc lang="fr"><![CDATA[
-Fr. 1977. À bord d'un navire, trois hommes échangent leurs souvenirs sur un soldat à la destinée singulière.
-
-Réalisation : Pierre Schoendoerffer
-Avec : Jean Rochefort, Claude Rich, Jacques Perrin
-]]></desc>
-</programme>
-
-<programme start="20260209183000 -0500" stop="20260209200000 -0500" channel="studiocanal.qc">
-  <title lang="fr">Le traqué</title>
-  <desc lang="fr"><![CDATA[
-Fr. 1950. Un déserteur de l'armée américaine devenu un criminel est poursuivi par la police à Paris.
-
-Réalisation : Frank Tuttle
-Avec : Dane Clark, Simone Signoret, Fernand Gravey
-]]></desc>
-</programme>
-
-<programme start="20260209200000 -0500" stop="20260209212300 -0500" channel="studiocanal.qc">
-  <title lang="fr">En plein feu</title>
-  <desc lang="fr"><![CDATA[
-Bel. 2021. Alors qu'un incendie incontrôlable ravage la forêt landaise, un père et son fils se retrouvent coincés dans leur véhicule, cerné par les flammes.
-
-Réalisation : Quentin Reynaud
-Avec : Alex Lutz, André Dussollier, Laura Sepul
-]]></desc>
-</programme>
-
-<programme start="20260209212300 -0500" stop="20260209231200 -0500" channel="studiocanal.qc">
-  <title lang="fr">Le cousin</title>
-  <desc lang="fr"><![CDATA[
-Fr. 1997. Après le suicide de son équipier, un policier fait affaire avec l'indicateur de celui-ci.
-
-Réalisation : Alain Corneau
-Avec : Alain Chabat, Patrick Timsit, Agnès Jaoui
-]]></desc>
-</programme>
-
-<programme start="20260209231200 -0500" stop="20260210004400 -0500" channel="studiocanal.qc">
-  <title lang="fr">Au petit Marguery</title>
-  <desc lang="fr"><![CDATA[
-Fr. 1995. Des restaurateurs offrent un ultime dîner à leurs amis avant la fermeture définitive de leur établissement.
-
-Réalisation : Laurent Bénégui
-Avec : Michel Aumont, Stéphane Audran, Jacques Gamblin
+Avec : Harvey Keitel, Maïa Morgenstern
 ]]></desc>
 </programme>
 
 </tv>
-
-
