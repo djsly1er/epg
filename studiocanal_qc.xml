@@ -72,13 +72,193 @@
   <programme start="20260208200000 -0500" stop="20260208221200 -0500" channel="studiocanal.qc"><title lang="fr">Aux sources du Nil</title></programme>
   <programme start="20260208221200 -0500" stop="20260208231259 -0500" channel="studiocanal.qc"><title lang="fr">Édith et Marcel</title></programme>
 
-  <!-- LUNDI 09 FÉVRIER 2026 (TEST MULTI-LIGNES) -->
-  <programme start="20260209005700 -0500" stop="20260209022700 -0500" channel="studiocanal.qc">
-    <title lang="fr">Hôtel des Amériques</title>
-    <desc lang="fr">
-Fr. 1981. La liaison tourmentée d'un jeune désoeuvré avec une anesthésiste,
-réfugiée dans le souvenir d'un amour mort.
-    </desc>
-  </programme>
+ <!-- ===================== -->
+<!-- LUNDI 09 FÉVRIER 2026 -->
+<!-- ===================== -->
+
+<programme start="20260209005700 -0500" stop="20260209022700 -0500" channel="studiocanal.qc">
+  <title lang="fr">Hôtel des Amériques</title>
+  <desc lang="fr"><![CDATA[
+Fr. 1981. La liaison tourmentée d'un jeune désoeuvré avec une anesthésiste réfugiée dans le souvenir d'un amour mort.
+]]></desc>
+  <date>1981</date>
+  <category lang="fr">Drame</category>
+  <credits>
+    <director>André Téchiné</director>
+    <actor>Patrick Dewaere</actor>
+    <actor>Catherine Deneuve</actor>
+    <actor>Étienne Chicot</actor>
+  </credits>
+</programme>
+
+<programme start="20260209022700 -0500" stop="20260209052600 -0500" channel="studiocanal.qc">
+  <title lang="fr">Hors d'ondes</title>
+</programme>
+
+<programme start="20260209052600 -0500" stop="20260209081700 -0500" channel="studiocanal.qc">
+  <title lang="fr">Le regard d'Ulysse</title>
+  <desc lang="fr"><![CDATA[
+Gr. 1995. En pleine crise personnelle et professionnelle, un cinéaste américain d'origine grecque parcourt les Balkans dévastés par la guerre.
+]]></desc>
+  <date>1995</date>
+  <category lang="fr">Drame</category>
+  <credits>
+    <director>Theodoros Angelopoulos</director>
+    <actor>Maïa Morgenstern</actor>
+    <actor>Harvey Keitel</actor>
+    <actor>Erland Josephson</actor>
+  </credits>
+</programme>
+
+<programme start="20260209081700 -0500" stop="20260209100000 -0500" channel="studiocanal.qc">
+  <title lang="fr">On ne meurt que deux fois</title>
+  <desc lang="fr"><![CDATA[
+Fr. 1985. Un inspecteur aux méthodes originales enquête sur le meurtre d'un pianiste réputé.
+]]></desc>
+  <date>1985</date>
+  <category lang="fr">Drame</category>
+  <credits>
+    <director>Jacques Deray</director>
+    <actor>Michel Serrault</actor>
+    <actor>Charlotte Rampling</actor>
+    <actor>Xavier Deluc</actor>
+  </credits>
+</programme>
+
+<programme start="20260209100000 -0500" stop="20260209111900 -0500" channel="studiocanal.qc">
+  <title lang="fr">Les infortunes de la beauté</title>
+  <desc lang="fr"><![CDATA[
+1999. Deux amies se lancent un pari et remuent ciel et terre pour dénicher la femme idéale, afin de convaincre un don juan que la femme parfaite peut exister.
+]]></desc>
+  <date>1999</date>
+  <category lang="fr">Comédie</category>
+  <credits>
+    <director>John Lvoff</director>
+    <actor>Arielle Dombasle</actor>
+    <actor>Maria de Medeiros</actor>
+    <actor>Thibault de Montalembert</actor>
+  </credits>
+</programme>
+
+<programme start="20260209111900 -0500" stop="20260209125100 -0500" channel="studiocanal.qc">
+  <title lang="fr">Un dimanche à la campagne</title>
+  <desc lang="fr"><![CDATA[
+Fr. 1984. Un vieux peintre veuf reçoit son fils et sa fille dans sa villa à la campagne.
+]]></desc>
+  <date>1984</date>
+  <category lang="fr">Comédie</category>
+  <credits>
+    <director>Bertrand Tavernier</director>
+    <actor>Louis Ducreux</actor>
+    <actor>Sabine Azéma</actor>
+    <actor>Michel Aumont</actor>
+  </credits>
+</programme>
+
+<programme start="20260209125100 -0500" stop="20260209150200 -0500" channel="studiocanal.qc">
+  <title lang="fr">Le grand carnaval</title>
+  <desc lang="fr"><![CDATA[
+Fr. 1983. En novembre 1942, le maire d'un village algérien et son ami cafetier profitent de l'arrivée des troupes américaines.
+]]></desc>
+  <date>1983</date>
+  <category lang="fr">Comédie</category>
+  <credits>
+    <director>Alexandre Arcady</director>
+    <actor>Fiona Gélin</actor>
+    <actor>Roger Hanin</actor>
+    <actor>Philippe Noiret</actor>
+  </credits>
+</programme>
+
+<programme start="20260209150200 -0500" stop="20260209163300 -0500" channel="studiocanal.qc">
+  <title lang="fr">Hôtel des Amériques</title>
+  <desc lang="fr"><![CDATA[
+Fr. 1981. La liaison tourmentée d'un jeune désoeuvré avec une anesthésiste réfugiée dans le souvenir d'un amour mort.
+]]></desc>
+  <date>1981</date>
+  <category lang="fr">Drame</category>
+  <credits>
+    <director>André Téchiné</director>
+    <actor>Patrick Dewaere</actor>
+    <actor>Catherine Deneuve</actor>
+    <actor>Étienne Chicot</actor>
+  </credits>
+</programme>
+
+<programme start="20260209163300 -0500" stop="20260209183000 -0500" channel="studiocanal.qc">
+  <title lang="fr">Le crabe tambour</title>
+  <desc lang="fr"><![CDATA[
+Fr. 1977. À bord d'un navire, trois hommes échangent leurs souvenirs sur un soldat à la destinée singulière.
+]]></desc>
+  <date>1977</date>
+  <category lang="fr">Drame</category>
+  <credits>
+    <director>Pierre Schoendoerffer</director>
+    <actor>Jean Rochefort</actor>
+    <actor>Claude Rich</actor>
+    <actor>Jacques Perrin</actor>
+  </credits>
+</programme>
+
+<programme start="20260209183000 -0500" stop="20260209200000 -0500" channel="studiocanal.qc">
+  <title lang="fr">Le traqué</title>
+  <desc lang="fr"><![CDATA[
+Fr. 1950. Un déserteur de l'armée américaine devenu un criminel est poursuivi par la police à Paris.
+]]></desc>
+  <date>1950</date>
+  <category lang="fr">Drame</category>
+  <credits>
+    <director>Frank Tuttle</director>
+    <actor>Dane Clark</actor>
+    <actor>Simone Signoret</actor>
+    <actor>Fernand Gravey</actor>
+  </credits>
+</programme>
+
+<programme start="20260209200000 -0500" stop="20260209212300 -0500" channel="studiocanal.qc">
+  <title lang="fr">En plein feu</title>
+  <desc lang="fr"><![CDATA[
+Bel. 2021. Alors qu'un incendie incontrôlable ravage la forêt landaise, un père et son fils se retrouvent coincés dans leur véhicule, cerné par les flammes.
+]]></desc>
+  <date>2021</date>
+  <category lang="fr">Suspense</category>
+  <credits>
+    <director>Quentin Reynaud</director>
+    <actor>Alex Lutz</actor>
+    <actor>André Dussollier</actor>
+    <actor>Laura Sepul</actor>
+  </credits>
+</programme>
+
+<programme start="20260209212300 -0500" stop="20260209231200 -0500" channel="studiocanal.qc">
+  <title lang="fr">Le cousin</title>
+  <desc lang="fr"><![CDATA[
+Fr. 1997. Après le suicide de son équipier, un policier fait affaire avec l'indicateur de celui-ci.
+]]></desc>
+  <date>1997</date>
+  <category lang="fr">Drame</category>
+  <credits>
+    <director>Alain Corneau</director>
+    <actor>Alain Chabat</actor>
+    <actor>Patrick Timsit</actor>
+    <actor>Agnès Jaoui</actor>
+  </credits>
+</programme>
+
+<programme start="20260209231200 -0500" stop="20260210004400 -0500" channel="studiocanal.qc">
+  <title lang="fr">Au petit Marguery</title>
+  <desc lang="fr"><![CDATA[
+Fr. 1995. Des restaurateurs offrent un ultime dîner à leurs amis avant la fermeture définitive de leur établissement.
+]]></desc>
+  <date>1995</date>
+  <category lang="fr">Comédie</category>
+  <credits>
+    <director>Laurent Bénégui</director>
+    <actor>Michel Aumont</actor>
+    <actor>Stéphane Audran</actor>
+    <actor>Jacques Gamblin</actor>
+  </credits>
+</programme>
 
 </tv>
+
