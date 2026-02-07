@@ -547,4 +547,22 @@ Un ancien truand devenu industriel se bat pour défendre son fils accusé du meu
 ]]></desc>
 </programme>
 
+  <programme start="20260216213900 -0500" stop="20260216225700 -0500" channel="studiocanal.hd"> 
+  <title>Le crime de monsieur Lange</title> 
+  <desc><![CDATA[ 
+1936 • Drame Réalisation : Jean Renoir 
+Avec : Jules Berry, René Lefèvre, Florelle Après une faillite frauduleuse, un éditeur se fait passer pour mort afin d’échapper à ses créanciers. 
+]]></desc> 
+</programme> 
+
+  <programme start="20260216225700 -0500" stop="20260217004200 -0500" channel="studiocanal.hd"> 
+<title>Josette</title> 
+<desc><![CDATA[ 
+1936 • Comédie Réalisation : Allan Dwan 
+Avec : Don Ameche, Simone Simon, Robert Young
+Un brave garçon reçoit l’aide d’un vieil homme pour réaliser son rêve de devenir chanteur de music-hall. 
+]]></desc> 
+</programme>
+
 </tv>
+
