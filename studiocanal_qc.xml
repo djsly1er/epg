@@ -4,99 +4,81 @@
   <!--
   Règle EPG :
   Journée TV = 05:00 → 04:59
-  Les programmes avant 05:00 appartiennent à la journée TV précédente.
-  Compatible TiviMate / XMLTV.
+  Compatible TiviMate / XMLTV
   -->
 
   <channel id="studiocanal.qc">
     <display-name>StudioCanal Québec</display-name>
   </channel>
 
-  <!-- ===================== -->
   <!-- JEUDI 05 FÉVRIER 2026 -->
-  <!-- Journée TV 05:00 → 04:59 -->
-  <!-- ===================== -->
+  <programme start="20260205015300 -0500" stop="20260205034100 -0500" channel="studiocanal.qc"><title lang="fr">Le cousin</title></programme>
+  <programme start="20260205034100 -0500" stop="20260205073700 -0500" channel="studiocanal.qc"><title lang="fr">Hors d'ondes</title></programme>
+  <programme start="20260205073700 -0500" stop="20260205091800 -0500" channel="studiocanal.qc"><title lang="fr">Comédie d'été</title></programme>
+  <programme start="20260205091800 -0500" stop="20260205110700 -0500" channel="studiocanal.qc"><title lang="fr">Le cousin</title></programme>
+  <programme start="20260205110700 -0500" stop="20260205124900 -0500" channel="studiocanal.qc"><title lang="fr">Le troisième homme</title></programme>
+  <programme start="20260205124900 -0500" stop="20260205142400 -0500" channel="studiocanal.qc"><title lang="fr">Docteur Françoise Gailland</title></programme>
+  <programme start="20260205142400 -0500" stop="20260205155600 -0500" channel="studiocanal.qc"><title lang="fr">La duchesse de Langeais</title></programme>
+  <programme start="20260205155600 -0500" stop="20260205172100 -0500" channel="studiocanal.qc"><title lang="fr">Les bronzés font du ski</title></programme>
+  <programme start="20260205172100 -0500" stop="20260205200000 -0500" channel="studiocanal.qc"><title lang="fr">Justinien Trouvé ou le bâtard de Dieu</title></programme>
+  <programme start="20260205200000 -0500" stop="20260205212100 -0500" channel="studiocanal.qc"><title lang="fr">Cette sacrée gamine</title></programme>
+  <programme start="20260205212100 -0500" stop="20260205225000 -0500" channel="studiocanal.qc"><title lang="fr">A coeur joie</title></programme>
+  <programme start="20260205225000 -0500" stop="20260206004100 -0500" channel="studiocanal.qc"><title lang="fr">Monsieur vincent</title></programme>
 
-  <programme start="20260205015300 -0500" stop="20260205034100 -0500" channel="studiocanal.qc">
-    <title lang="fr">Le cousin</title>
-  </programme>
-  <programme start="20260205034100 -0500" stop="20260205073700 -0500" channel="studiocanal.qc">
-    <title lang="fr">Hors d'ondes</title>
-  </programme>
-  <programme start="20260205073700 -0500" stop="20260205091800 -0500" channel="studiocanal.qc">
-    <title lang="fr">Comédie d'été</title>
-  </programme>
-  <programme start="20260205091800 -0500" stop="20260205110700 -0500" channel="studiocanal.qc">
-    <title lang="fr">Le cousin</title>
-  </programme>
-  <programme start="20260205110700 -0500" stop="20260205124900 -0500" channel="studiocanal.qc">
-    <title lang="fr">Le troisième homme</title>
-  </programme>
-  <programme start="20260205124900 -0500" stop="20260205142400 -0500" channel="studiocanal.qc">
-    <title lang="fr">Docteur Françoise Gailland</title>
-  </programme>
-  <programme start="20260205142400 -0500" stop="20260205155600 -0500" channel="studiocanal.qc">
-    <title lang="fr">La duchesse de Langeais</title>
-  </programme>
-  <programme start="20260205155600 -0500" stop="20260205172100 -0500" channel="studiocanal.qc">
-    <title lang="fr">Les bronzés font du ski</title>
-  </programme>
-  <programme start="20260205172100 -0500" stop="20260205200000 -0500" channel="studiocanal.qc">
-    <title lang="fr">Justinien Trouvé ou le bâtard de Dieu</title>
-  </programme>
-  <programme start="20260205200000 -0500" stop="20260205212100 -0500" channel="studiocanal.qc">
-    <title lang="fr">Cette sacrée gamine</title>
-  </programme>
-  <programme start="20260205212100 -0500" stop="20260205225000 -0500" channel="studiocanal.qc">
-    <title lang="fr">A coeur joie</title>
-  </programme>
-  <programme start="20260205225000 -0500" stop="20260206004100 -0500" channel="studiocanal.qc">
-    <title lang="fr">Monsieur vincent</title>
-  </programme>
-
-  <!-- ===================== -->
   <!-- VENDREDI 06 FÉVRIER 2026 -->
-  <!-- Journée TV 05:00 → 04:59 -->
-  <!-- ===================== -->
+  <programme start="20260206004100 -0500" stop="20260206025200 -0500" channel="studiocanal.qc"><title lang="fr">Le grand carnaval</title></programme>
+  <programme start="20260206025200 -0500" stop="20260206042300 -0500" channel="studiocanal.qc"><title lang="fr">Coplan FX 18 Casse Tout</title></programme>
+  <programme start="20260206042300 -0500" stop="20260206053900 -0500" channel="studiocanal.qc"><title lang="fr">Secret Lives</title></programme>
+  <programme start="20260206053900 -0500" stop="20260206071000 -0500" channel="studiocanal.qc"><title lang="fr">Hôtel des Amériques</title></programme>
+  <programme start="20260206071000 -0500" stop="20260206083200 -0500" channel="studiocanal.qc"><title lang="fr">Tenue de soirée</title></programme>
+  <programme start="20260206083200 -0500" stop="20260206102700 -0500" channel="studiocanal.qc"><title lang="fr">Merci la vie</title></programme>
+  <programme start="20260206102700 -0500" stop="20260206123900 -0500" channel="studiocanal.qc"><title lang="fr">Aux sources du Nil</title></programme>
+  <programme start="20260206123900 -0500" stop="20260206141000 -0500" channel="studiocanal.qc"><title lang="fr">Au petit Marguery</title></programme>
+  <programme start="20260206141000 -0500" stop="20260206155100 -0500" channel="studiocanal.qc"><title lang="fr">Comédie d'été</title></programme>
+  <programme start="20260206155100 -0500" stop="20260206182800 -0500" channel="studiocanal.qc"><title lang="fr">Édith et Marcel</title></programme>
+  <programme start="20260206182800 -0500" stop="20260206200000 -0500" channel="studiocanal.qc"><title lang="fr">Un dimanche à la campagne</title></programme>
+  <programme start="20260206200000 -0500" stop="20260206215700 -0500" channel="studiocanal.qc"><title lang="fr">Le crabe tambour</title></programme>
+  <programme start="20260206215700 -0500" stop="20260207001000 -0500" channel="studiocanal.qc"><title lang="fr">Les enfants du siècle</title></programme>
 
-  <programme start="20260206004100 -0500" stop="20260206025200 -0500" channel="studiocanal.qc">
-    <title lang="fr">Le grand carnaval</title>
-  </programme>
-  <programme start="20260206025200 -0500" stop="20260206042300 -0500" channel="studiocanal.qc">
-    <title lang="fr">Coplan FX 18 Casse Tout</title>
-  </programme>
-  <programme start="20260206042300 -0500" stop="20260206053900 -0500" channel="studiocanal.qc">
-    <title lang="fr">Secret Lives</title>
-  </programme>
-  <programme start="20260206053900 -0500" stop="20260206071000 -0500" channel="studiocanal.qc">
+  <!-- SAMEDI 07 FÉVRIER 2026 -->
+  <programme start="20260207001000 -0500" stop="20260207015200 -0500" channel="studiocanal.qc"><title lang="fr">Le pressentiment</title></programme>
+  <programme start="20260207015200 -0500" stop="20260207031700 -0500" channel="studiocanal.qc"><title lang="fr">Monsieur Naphtali</title></programme>
+  <programme start="20260207031700 -0500" stop="20260207045700 -0500" channel="studiocanal.qc"><title lang="fr">L'équipier</title></programme>
+  <programme start="20260207045700 -0500" stop="20260207064200 -0500" channel="studiocanal.qc"><title lang="fr">Hors d'ondes</title></programme>
+  <programme start="20260207064200 -0500" stop="20260207081700 -0500" channel="studiocanal.qc"><title lang="fr">Docteur Françoise Gailland</title></programme>
+  <programme start="20260207081700 -0500" stop="20260207094900 -0500" channel="studiocanal.qc"><title lang="fr">La vie à l'envers</title></programme>
+  <programme start="20260207094900 -0500" stop="20260207114600 -0500" channel="studiocanal.qc"><title lang="fr">Le crabe tambour</title></programme>
+  <programme start="20260207114600 -0500" stop="20260207131900 -0500" channel="studiocanal.qc"><title lang="fr">La duchesse de Langeais</title></programme>
+  <programme start="20260207131900 -0500" stop="20260207150200 -0500" channel="studiocanal.qc"><title lang="fr">On ne meurt que deux fois</title></programme>
+  <programme start="20260207150200 -0500" stop="20260207165200 -0500" channel="studiocanal.qc"><title lang="fr">Le Roi</title></programme>
+  <programme start="20260207165200 -0500" stop="20260207181900 -0500" channel="studiocanal.qc"><title lang="fr">Je crois que je l'aime</title></programme>
+  <programme start="20260207181900 -0500" stop="20260207200000 -0500" channel="studiocanal.qc"><title lang="fr">Voleur de vie</title></programme>
+  <programme start="20260207200000 -0500" stop="20260207211900 -0500" channel="studiocanal.qc"><title lang="fr">Les infortunes de la beauté</title></programme>
+  <programme start="20260207211900 -0500" stop="20260207231300 -0500" channel="studiocanal.qc"><title lang="fr">Gervaise</title></programme>
+  <programme start="20260207231300 -0500" stop="20260208000000 -0500" channel="studiocanal.qc"><title lang="fr">Elles n'oublient jamais</title></programme>
+
+  <!-- DIMANCHE 08 FÉVRIER 2026 -->
+  <programme start="20260208000000 -0500" stop="20260208010200 -0500" channel="studiocanal.qc"><title lang="fr">Le trésor de la montagne sacrée</title></programme>
+  <programme start="20260208010200 -0500" stop="20260208023600 -0500" channel="studiocanal.qc"><title lang="fr">Hors d'ondes</title></programme>
+  <programme start="20260208023600 -0500" stop="20260208062200 -0500" channel="studiocanal.qc"><title lang="fr">Gervaise</title></programme>
+  <programme start="20260208062200 -0500" stop="20260208081600 -0500" channel="studiocanal.qc"><title lang="fr">Coplan FX 18 Casse Tout</title></programme>
+  <programme start="20260208081600 -0500" stop="20260208094700 -0500" channel="studiocanal.qc"><title lang="fr">Au petit Marguery</title></programme>
+  <programme start="20260208094700 -0500" stop="20260208111900 -0500" channel="studiocanal.qc"><title lang="fr">Le pressentiment</title></programme>
+  <programme start="20260208111900 -0500" stop="20260208130000 -0500" channel="studiocanal.qc"><title lang="fr">Monsieur Naphtali</title></programme>
+  <programme start="20260208130000 -0500" stop="20260208142500 -0500" channel="studiocanal.qc"><title lang="fr">Le cousin</title></programme>
+  <programme start="20260208142500 -0500" stop="20260208161400 -0500" channel="studiocanal.qc"><title lang="fr">Le grand carnaval</title></programme>
+  <programme start="20260208161400 -0500" stop="20260208182500 -0500" channel="studiocanal.qc"><title lang="fr">Le trésor de la montagne sacrée</title></programme>
+  <programme start="20260208182500 -0500" stop="20260208200000 -0500" channel="studiocanal.qc"><title lang="fr">Aux sources du Nil</title></programme>
+  <programme start="20260208200000 -0500" stop="20260208221200 -0500" channel="studiocanal.qc"><title lang="fr">Aux sources du Nil</title></programme>
+  <programme start="20260208221200 -0500" stop="20260208231259 -0500" channel="studiocanal.qc"><title lang="fr">Édith et Marcel</title></programme>
+
+  <!-- LUNDI 09 FÉVRIER 2026 (TEST MULTI-LIGNES) -->
+  <programme start="20260209005700 -0500" stop="20260209022700 -0500" channel="studiocanal.qc">
     <title lang="fr">Hôtel des Amériques</title>
-  </programme>
-  <programme start="20260206071000 -0500" stop="20260206083200 -0500" channel="studiocanal.qc">
-    <title lang="fr">Tenue de soirée</title>
-  </programme>
-  <programme start="20260206083200 -0500" stop="20260206102700 -0500" channel="studiocanal.qc">
-    <title lang="fr">Merci la vie</title>
-  </programme>
-  <programme start="20260206102700 -0500" stop="20260206123900 -0500" channel="studiocanal.qc">
-    <title lang="fr">Aux sources du Nil</title>
-  </programme>
-  <programme start="20260206123900 -0500" stop="20260206141000 -0500" channel="studiocanal.qc">
-    <title lang="fr">Au petit Marguery</title>
-  </programme>
-  <programme start="20260206141000 -0500" stop="20260206155100 -0500" channel="studiocanal.qc">
-    <title lang="fr">Comédie d'été</title>
-  </programme>
-  <programme start="20260206155100 -0500" stop="20260206182800 -0500" channel="studiocanal.qc">
-    <title lang="fr">Édith et Marcel</title>
-  </programme>
-  <programme start="20260206182800 -0500" stop="20260206200000 -0500" channel="studiocanal.qc">
-    <title lang="fr">Un dimanche à la campagne</title>
-  </programme>
-  <programme start="20260206200000 -0500" stop="20260206215700 -0500" channel="studiocanal.qc">
-    <title lang="fr">Le crabe tambour</title>
-  </programme>
-  <programme start="20260206215700 -0500" stop="20260207001000 -0500" channel="studiocanal.qc">
-    <title lang="fr">Les enfants du siècle</title>
+    <desc lang="fr">
+Fr. 1981. La liaison tourmentée d'un jeune désoeuvré avec une anesthésiste,
+réfugiée dans le souvenir d'un amour mort.
+    </desc>
   </programme>
 
 </tv>
