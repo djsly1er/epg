@@ -1,215 +1,550 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="StudioCanal QC XMLTV (TV Hebdo manual)">
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="StudioCanal HD Custom EPG">
 
-<channel id="studiocanal.qc">
-  <display-name>StudioCanal Québec</display-name>
+<channel id="studiocanal.hd">
+  <display-name>StudioCanal HD</display-name>
 </channel>
 
-<!-- ===================== -->
-<!-- SAMEDI 07 FÉVRIER 2026 -->
-<!-- ===================== -->
-
-<programme start="20260207141000 -0500" stop="20260207155100 -0500" channel="studiocanal.qc">
-<title lang="fr">Comédie d'été</title>
-<desc><![CDATA[
-1989. À la veille de la Première Guerre mondiale, un jeune homme s’éprend d’une amie divorcée de sa mère, avant que le conflit mondial ne bouleverse leur destin.
-
-Réalisation : Daniel Vigne
-Avec : Jean-Claude Brialy, Maruschka Detmers, Rémi Martin
-]]></desc>
-</programme>
-
-<programme start="20260207155100 -0500" stop="20260207182800 -0500" channel="studiocanal.qc">
-<title lang="fr">Édith et Marcel</title>
-<desc><![CDATA[
-Fr. 1983. À la fin des années 40, l’histoire d’amour passionnée entre la chanteuse Édith Piaf et le boxeur Marcel Cerdan.
-
-Réalisation : Claude Lelouch
-Avec : Marcel Cerdan Jr., Jacques Villeret, Evelyne Bouix
-]]></desc>
-</programme>
-
-<programme start="20260207182800 -0500" stop="20260207200000 -0500" channel="studiocanal.qc">
-<title lang="fr">Un dimanche à la campagne</title>
-<desc><![CDATA[
-Fr. 1984. Un vieux peintre veuf reçoit ses enfants dans sa maison de campagne, ravivant souvenirs et non-dits.
-
-Réalisation : Bertrand Tavernier
-Avec : Louis Ducreux, Sabine Azéma, Michel Aumont
-]]></desc>
-</programme>
-
-<programme start="20260207200000 -0500" stop="20260207215700 -0500" channel="studiocanal.qc">
-<title lang="fr">Le crabe tambour</title>
-<desc><![CDATA[
-Fr. 1977. À bord d’un navire, trois hommes évoquent leurs souvenirs liés à un soldat au destin singulier.
-
-Réalisation : Pierre Schoendoerffer
-Avec : Jean Rochefort, Claude Rich, Jacques Perrin
-]]></desc>
-</programme>
-
-<programme start="20260207215700 -0500" stop="20260207233000 -0500" channel="studiocanal.qc">
-<title lang="fr">Les enfants du siècle</title>
-<desc><![CDATA[
-Fr. 1999. Les amours tumultueuses de George Sand et Alfred de Musset.
-
-Réalisation : Diane Kurys
-Avec : Juliette Binoche, Benoît Magimel, Robin Renucci
-]]></desc>
-</programme>
-
-<!-- ===================== -->
-<!-- DIMANCHE 08 FÉVRIER 2026 -->
-<!-- ===================== -->
-
-<programme start="20260208001000 -0500" stop="20260208015200 -0500" channel="studiocanal.qc">
-<title>Le pressentiment</title>
-<desc><![CDATA[
-Fr. 2006. Un inspecteur aux méthodes originales enquête sur le meurtre d'un pianiste réputé.
-
-Réalisation : Jacques Deray
-Avec : Michel Serrault, Charlotte Rampling, Xavier Deluc
-]]></desc>
-</programme>
-
-<programme start="20260208015200 -0500" stop="20260208031700 -0500" channel="studiocanal.qc">
-<title>Monsieur Naphtali</title>
-<desc><![CDATA[
-Fr. 1998. Un homme candide et fragile est recueilli par un groupe d’intellectuels.
-
-Réalisation : Olivier Schatzky
-Avec : Elie Kakou, Gilbert Melki
-]]></desc>
-</programme>
-
-<programme start="20260208031700 -0500" stop="20260208045700 -0500" channel="studiocanal.qc">
-<title>L'équipier</title>
-<desc><![CDATA[
-Fr. 2004. En Bretagne en 1963, un gardien de phare blessé tombe amoureux de la femme de son collègue.
-
-Réalisation : Philippe Lioret
-Avec : Grégori Derangère, Philippe Torreton, Sandrine Bonnaire
-]]></desc>
-</programme>
-
-<programme start="20260208045700 -0500" stop="20260208064200 -0500" channel="studiocanal.qc">
-<title>Hors d'ondes</title>
-</programme>
-
-<programme start="20260208064200 -0500" stop="20260208081700 -0500" channel="studiocanal.qc">
-<title>Docteur Françoise Gailland</title>
-<desc><![CDATA[
-Fr. 1976. Une femme médecin atteinte d’un cancer incurable tente de se réconcilier avec ses proches.
-
-Réalisation : Jean-Louis Bertuccelli
-Avec : Annie Girardot, Jean-Pierre Cassel
-]]></desc>
-</programme>
-
-<programme start="20260208081700 -0500" stop="20260208094900 -0500" channel="studiocanal.qc">
-<title>La vie à l'envers</title>
-<desc><![CDATA[
-Fr. 1964. Un trentenaire parisien s’enferme volontairement dans une solitude heureuse puis inquiétante.
-
-Réalisation : Alain Jessua
-Avec : Charles Denner
-]]></desc>
-</programme>
-
-<programme start="20260208094900 -0500" stop="20260208114600 -0500" channel="studiocanal.qc">
-<title>Le crabe tambour</title>
-<desc><![CDATA[
-Fr. 1977. Trois hommes évoquent leurs souvenirs liés à un soldat au destin singulier.
-
-Réalisation : Pierre Schoendoerffer
-Avec : Jean Rochefort
-]]></desc>
-</programme>
-
-<programme start="20260208114600 -0500" stop="20260208131900 -0500" channel="studiocanal.qc">
-<title>La duchesse de Langeais</title>
-<desc><![CDATA[
-Fr. 1944. Sous l’Empire, une intrigue amoureuse oppose un général et une aristocrate insaisissable.
-
-Réalisation : Jacques de Baroncelli
-Avec : Edwige Feuillère
-]]></desc>
-</programme>
-
-<programme start="20260208131900 -0500" stop="20260208150200 -0500" channel="studiocanal.qc">
-<title>On ne meurt que deux fois</title>
-<desc><![CDATA[
-Fr. 1985. Un inspecteur aux méthodes originales enquête sur le meurtre d'un pianiste réputé.
-
-Réalisation : Jacques Deray
-Avec : Michel Serrault, Charlotte Rampling, Xavier Deluc
-]]></desc>
-</programme>
-
-<programme start="20260208150200 -0500" stop="20260208165200 -0500" channel="studiocanal.qc">
-<title>Le Roi</title>
-<desc><![CDATA[
-Fr. 2005. Un marginal impose son imaginaire et sa loi dans une petite ville.
-
-Réalisation : Patrick Grandperret
-Avec : Albert Dupontel
-]]></desc>
-</programme>
-
-<programme start="20260208165200 -0500" stop="20260208181900 -0500" channel="studiocanal.qc">
-<title>Je crois que je l'aime</title>
-<desc><![CDATA[
-Fr. 2007. Un quadragénaire solitaire voit sa vie bouleversée par une rencontre imprévue.
-
-Réalisation : Pierre Jolivet
-Avec : Vincent Lindon, Sandrine Bonnaire
-]]></desc>
-</programme>
-
-<programme start="20260208181900 -0500" stop="20260208200000 -0500" channel="studiocanal.qc">
-<title>Voleur de vie</title>
-<desc><![CDATA[
-Fr. 1998. Un photographe instable s’immisce dangereusement dans la vie de ses modèles.
-
-Réalisation : Yves Angelo
-Avec : Daniel Auteuil
-]]></desc>
-</programme>
-
-<programme start="20260208200000 -0500" stop="20260208211900 -0500" channel="studiocanal.qc">
-<title>Les infortunes de la beauté</title>
-<desc><![CDATA[
-1999. Deux amies se lancent un pari pour prouver qu’une femme parfaite peut exister.
-
+<programme start="20260207001900 -0500" stop="20260207023900 -0500" channel="studiocanal.hd">
+  <title>Les infortunes de la beauté</title>
+  <desc><![CDATA[
+1999 • Comédie
 Réalisation : John Lvoff
-Avec : Arielle Dombasle, Maria de Medeiros
+Avec : Arielle Dombasle, Maria de Medeiros, Thibault de Montalembert
+Deux amies lancent un pari pour prouver que la femme parfaite peut exister.
 ]]></desc>
 </programme>
 
-<programme start="20260208211900 -0500" stop="20260208231300 -0500" channel="studiocanal.qc">
-<title>Gervaise</title>
-<desc><![CDATA[
-Fr. 1956. Le combat d’une blanchisseuse dans le Paris populaire du XIXe siècle.
+<programme start="20260207023900 -0500" stop="20260207041900 -0500" channel="studiocanal.hd">
+  <title>Le chanteur de Mexico</title>
+  <desc><![CDATA[
+1956 • Drame
+Réalisation : Richard Pottier
+Avec : Luis Mariano, Annie Cordy, Bourvil
+Un chanteur amateur accepte de remplacer une vedette dont il est le sosie afin de monter une opérette au Mexique.
+]]></desc>
+</programme>
 
+<programme start="20260207041900 -0500" stop="20260207063200 -0500" channel="studiocanal.hd">
+  <title>Hors d'ondes</title>
+</programme>
+
+<programme start="20260207063200 -0500" stop="20260207090900 -0500" channel="studiocanal.hd">
+  <title>Édith et Marcel</title>
+</programme>
+
+<programme start="20260207090900 -0500" stop="20260207105000 -0500" channel="studiocanal.hd">
+  <title>Voleur de vie</title>
+</programme>
+
+<programme start="20260207105000 -0500" stop="20260207123300 -0500" channel="studiocanal.hd">
+  <title>Moi la femme</title>
+  <desc><![CDATA[
+1971 • Comédie
+Réalisation : Dino Risi
+Avec : Monica Vitti, Carlo Giuffrè, Enrico Maria Salerno
+Douze sketches dressent autant de portraits de femmes prises au piège de sociétés machistes.
+]]></desc>
+</programme>
+
+<programme start="20260207123300 -0500" stop="20260207140200 -0500" channel="studiocanal.hd">
+  <title>Josette</title>
+  <desc><![CDATA[
+1936 • Comédie
+Réalisation : Allan Dwan
+Avec : Don Ameche, Simone Simon, Robert Young
+Un brave garçon aide un vieil homme qui lui donne les moyens de réaliser son rêve de devenir chanteur de music-hall.
+]]></desc>
+</programme>
+
+<programme start="20260207140200 -0500" stop="20260207161500 -0500" channel="studiocanal.hd">
+  <title>Les enfants du siècle</title>
+</programme>
+
+<programme start="20260207161500 -0500" stop="20260207174800 -0500" channel="studiocanal.hd">
+  <title>La duchesse de Langeais</title>
+</programme>
+
+<programme start="20260207174800 -0500" stop="20260207200000 -0500" channel="studiocanal.hd">
+  <title>Aux sources du Nil</title>
+  <desc><![CDATA[
+1989 • Drame
+Réalisation : Bob Rafelson
+Avec : Patrick Bergin, Iain Glen, Fiona Shaw
+Au XIXe siècle, un géographe irlandais et un explorateur anglais partent à la recherche des sources du Nil.
+]]></desc>
+</programme>
+
+<programme start="20260207200000 -0500" stop="20260207211900 -0500" channel="studiocanal.hd">
+  <title>La sentence</title>
+  <desc><![CDATA[
+1959 • Drame
+Réalisation : J. Valère
+Avec : Robert Hossein, Roger Hanin, Marina Vlady
+Cinq résistants français condamnés à mort attendent l’heure de leur exécution.
+]]></desc>
+</programme>
+
+<programme start="20260207211900 -0500" stop="20260207225000 -0500" channel="studiocanal.hd">
+  <title>Coplan FX 18 Casse Tout</title>
+  <desc><![CDATA[
+1965 • Suspense
+Réalisation : Riccardo Freda
+Coplan, aidé des services secrets israéliens, tente de retrouver deux savants allemands enlevés par des agents ennemis.
+]]></desc>
+</programme>
+
+<programme start="20260207225000 -0500" stop="20260208001500 -0500" channel="studiocanal.hd">
+  <title>Les bronzés font du ski</title>
+  <desc><![CDATA[
+1979 • Comédie
+Réalisation : Patrice Leconte
+Avec : Michel Blanc, Gérard Jugnot, Thierry Lhermitte
+Les mésaventures d’un groupe d’amis en vacances dans une station de sports d’hiver.
+]]></desc>
+</programme>
+<programme start="20260208001500 -0500" stop="20260209005700 -0500" channel="studiocanal.hd">
+  <title>Le grand carnaval</title>
+  <desc><![CDATA[
+1983 • Comédie
+Réalisation : Alexandre Arcady
+Avec : Fiona Gélin, Roger Hanin, Philippe Noiret
+En novembre 1942, un maire algérien et son ami cafetier profitent de l’arrivée des troupes américaines.
+]]></desc>
+</programme>
+
+<programme start="20260209005700 -0500" stop="20260209022700 -0500" channel="studiocanal.hd">
+  <title>Hôtel des Amériques</title>
+</programme>
+
+<programme start="20260209022700 -0500" stop="20260209052600 -0500" channel="studiocanal.hd">
+  <title>Hors d'ondes</title>
+</programme>
+
+<programme start="20260209052600 -0500" stop="20260209081700 -0500" channel="studiocanal.hd">
+  <title>Le regard d'Ulysse</title>
+</programme>
+
+<programme start="20260209081700 -0500" stop="20260209100000 -0500" channel="studiocanal.hd">
+  <title>On ne meurt que deux fois</title>
+  <desc><![CDATA[
+1985 • Drame
+Réalisation : Jacques Deray
+Avec : Michel Serrault, Charlotte Rampling, Xavier Deluc
+Un inspecteur aux méthodes originales enquête sur le meurtre d'un pianiste réputé.
+]]></desc>
+</programme>
+
+<programme start="20260209100000 -0500" stop="20260209111900 -0500" channel="studiocanal.hd">
+  <title>Les infortunes de la beauté</title>
+  <desc><![CDATA[
+1999 • Comédie
+Réalisation : John Lvoff
+Avec : Arielle Dombasle, Maria de Medeiros, Thibault de Montalembert
+Deux amies se lancent un pari afin de prouver que la femme parfaite peut exister.
+]]></desc>
+</programme>
+
+<programme start="20260209111900 -0500" stop="20260209125100 -0500" channel="studiocanal.hd">
+  <title>Un dimanche à la campagne</title>
+</programme>
+
+<programme start="20260209125100 -0500" stop="20260209150200 -0500" channel="studiocanal.hd">
+  <title>Le grand carnaval</title>
+  <desc><![CDATA[
+1983 • Comédie
+Réalisation : Alexandre Arcady
+Avec : Fiona Gélin, Roger Hanin, Philippe Noiret
+En novembre 1942, un maire algérien et son ami cafetier profitent de l’arrivée des troupes américaines.
+]]></desc>
+</programme>
+
+<programme start="20260209150200 -0500" stop="20260209163300 -0500" channel="studiocanal.hd">
+  <title>Hôtel des Amériques</title>
+</programme>
+
+<programme start="20260209163300 -0500" stop="20260209183000 -0500" channel="studiocanal.hd">
+  <title>Le crabe tambour</title>
+</programme>
+
+<programme start="20260209183000 -0500" stop="20260209200000 -0500" channel="studiocanal.hd">
+  <title>Le traqué</title>
+  <desc><![CDATA[
+1950 • Drame
+Réalisation : Frank Tuttle
+Avec : Dane Clark, Simone Signoret
+Un déserteur de l’armée américaine devenu criminel est poursuivi par la police à Paris.
+]]></desc>
+</programme>
+
+<programme start="20260209200000 -0500" stop="20260209212300 -0500" channel="studiocanal.hd">
+  <title>En plein feu</title>
+  <desc><![CDATA[
+2021 • Suspense
+Réalisation : Quentin Reynaud
+Avec : Alex Lutz, André Dussollier, Laura Sepul
+Alors qu’un incendie incontrôlable ravage la forêt, un père et son fils se retrouvent piégés dans leur véhicule.
+]]></desc>
+</programme>
+
+<programme start="20260209212300 -0500" stop="20260209231200 -0500" channel="studiocanal.hd">
+  <title>Le cousin</title>
+  <desc><![CDATA[
+1997 • Drame
+Réalisation : Alain Corneau
+Avec : Alain Chabat, Patrick Timsit, Agnès Jaoui
+Après le suicide de son équipier, un policier fait affaire avec l’indicateur de celui-ci.
+]]></desc>
+</programme>
+
+<programme start="20260209231200 -0500" stop="20260210004400 -0500" channel="studiocanal.hd">
+  <title>Au petit Marguery</title>
+  <desc><![CDATA[
+1995 • Comédie
+Réalisation : Laurent Bénégui
+Avec : Michel Aumont, Stéphane Audran, Jacques Gamblin
+Des restaurateurs offrent un ultime dîner à leurs amis avant la fermeture définitive de leur établissement.
+]]></desc>
+</programme>
+
+<programme start="20260210004400 -0500" stop="20260210025400 -0500" channel="studiocanal.hd">
+  <title>Aux sources du Nil</title>
+  <desc><![CDATA[
+1989 • Drame
+Réalisation : Bob Rafelson
+Avec : Patrick Bergin, Iain Glen, Fiona Shaw
+Au XIXe siècle, un géographe irlandais et un explorateur anglais recherchent les sources du Nil.
+]]></desc>
+</programme>
+
+<programme start="20260210025400 -0500" stop="20260210050100 -0500" channel="studiocanal.hd">
+  <title>Hors d'ondes</title>
+</programme>
+
+<programme start="20260210050100 -0500" stop="20260210063100 -0500" channel="studiocanal.hd">
+  <title>Le traqué</title>
+  <desc><![CDATA[
+1950 • Drame
+Réalisation : Frank Tuttle
+Avec : Dane Clark, Simone Signoret
+Un déserteur de l’armée américaine devenu criminel est poursuivi par la police à Paris.
+]]></desc>
+</programme>
+
+<programme start="20260210063100 -0500" stop="20260210075400 -0500" channel="studiocanal.hd">
+  <title>En plein feu</title>
+  <desc><![CDATA[
+2021 • Suspense
+Réalisation : Quentin Reynaud
+Avec : Alex Lutz, André Dussollier, Laura Sepul
+Alors qu’un incendie incontrôlable ravage la forêt, un père et son fils se retrouvent piégés.
+]]></desc>
+</programme>
+
+<programme start="20260210075400 -0500" stop="20260210092500 -0500" channel="studiocanal.hd">
+  <title>Coplan FX 18 Casse Tout</title>
+  <desc><![CDATA[
+1965 • Suspense
+Réalisation : Riccardo Freda
+Coplan, aidé des services secrets israéliens, tente de retrouver deux savants allemands enlevés.
+]]></desc>
+</programme>
+
+<programme start="20260210092500 -0500" stop="20260210120200 -0500" channel="studiocanal.hd">
+  <title>Édith et Marcel</title>
+</programme>
+
+<programme start="20260210120200 -0500" stop="20260210134400 -0500" channel="studiocanal.hd">
+  <title>Le chanteur de Mexico</title>
+  <desc><![CDATA[
+1956 • Drame
+Réalisation : Richard Pottier
+Avec : Luis Mariano, Annie Cordy, Bourvil
+Un chanteur amateur accepte de remplacer une vedette volage dont il est le sosie.
+]]></desc>
+</programme>
+
+<programme start="20260210134400 -0500" stop="20260210152500 -0500" channel="studiocanal.hd">
+  <title>Le pressentiment</title>
+</programme>
+
+<programme start="20260210152500 -0500" stop="20260210170900 -0500" channel="studiocanal.hd">
+  <title>Elles n'oublient jamais</title>
+</programme>
+
+<programme start="20260210170900 -0500" stop="20260210200000 -0500" channel="studiocanal.hd">
+  <title>Le regard d'Ulysse</title>
+</programme>
+
+<programme start="20260210200000 -0500" stop="20260210212900 -0500" channel="studiocanal.hd">
+  <title>Josette</title>
+  <desc><![CDATA[
+1936 • Comédie
+Réalisation : Allan Dwan
+Avec : Don Ameche, Simone Simon, Robert Young
+Un brave garçon reçoit l’aide d’un vieil homme pour réaliser son rêve de devenir chanteur.
+]]></desc>
+</programme>
+
+<programme start="20260210212900 -0500" stop="20260210231900 -0500" channel="studiocanal.hd">
+  <title>Le Roi</title>
+</programme>
+
+<programme start="20260210231900 -0500" stop="20260211010000 -0500" channel="studiocanal.hd">
+  <title>Le troisième homme</title>
+  <desc><![CDATA[
+1949 • Drame
+Réalisation : Carol Reed
+Avec : Joseph Cotten, Alida Valli, Orson Welles
+À Vienne, après la guerre, un journaliste enquête sur un ami mêlé au marché noir.
+]]></desc>
+</programme>
+<programme start="20260211010000 -0500" stop="20260211023000 -0500" channel="studiocanal.hd">
+  <title>Marcellino</title>
+  <desc><![CDATA[
+1991 • Drame
+Réalisation : Luigi Comencini
+Avec : Nicolo Paolucci, Fernando Fernán Gómez, Alberto Cracco
+Au XVIIe siècle, un jeune orphelin italien rêve de retrouver sa mère malgré l’amour des moines qui l’élèvent.
+]]></desc>
+</programme>
+
+<programme start="20260211023000 -0500" stop="20260211075000 -0500" channel="studiocanal.hd">
+  <title>Hors d'ondes</title>
+</programme>
+
+<programme start="20260211075000 -0500" stop="20260211110100 -0500" channel="studiocanal.hd">
+  <title>Le grand carnaval</title>
+  <desc><![CDATA[
+1983 • Comédie
+Réalisation : Alexandre Arcady
+Avec : Fiona Gélin, Roger Hanin, Philippe Noiret
+En novembre 1942, un maire d’un village algérien et son ami cafetier profitent de l’arrivée des troupes américaines.
+]]></desc>
+</programme>
+
+<programme start="20260211110100 -0500" stop="20260211131200 -0500" channel="studiocanal.hd">
+  <title>Le chanteur de Mexico</title>
+  <desc><![CDATA[
+1956 • Drame
+Réalisation : Richard Pottier
+Avec : Luis Mariano, Annie Cordy, Bourvil
+Un chanteur amateur accepte de remplacer une vedette volage dont il est le sosie afin de monter une opérette au Mexique.
+]]></desc>
+</programme>
+
+<programme start="20260211131200 -0500" stop="20260211142600 -0500" channel="studiocanal.hd">
+  <title>Secret Lives</title>
+  <desc><![CDATA[
+1937 • Drame
+Avec : Brigitte Horney, Neil Hamilton, Raymond Lovell
+Durant la Première Guerre mondiale, une jeune Allemande vivant à Paris est recrutée par les services secrets français pour espionner l’Allemagne.
+]]></desc>
+</programme>
+
+<programme start="20260211142600 -0500" stop="20260211155000 -0500" channel="studiocanal.hd">
+  <title>Les bronzés font du ski</title>
+  <desc><![CDATA[
+1979 • Comédie
+Réalisation : Patrice Leconte
+Avec : Michel Blanc, Gérard Jugnot, Thierry Lhermitte
+Les vacances d’un groupe d’amis dans une station de sports d’hiver tournent rapidement au désastre.
+]]></desc>
+</programme>
+
+<programme start="20260211155000 -0500" stop="20260211170800 -0500" channel="studiocanal.hd">
+  <title>Les infortunes de la beauté</title>
+  <desc><![CDATA[
+1999 • Comédie
+Réalisation : John Lvoff
+Avec : Arielle Dombasle, Maria de Medeiros, Thibault de Montalembert
+Deux amies lancent un pari afin de prouver que la femme parfaite peut exister.
+]]></desc>
+</programme>
+
+<programme start="20260211170800 -0500" stop="20260211182800 -0500" channel="studiocanal.hd">
+  <title>Marcellino</title>
+  <desc><![CDATA[
+1991 • Drame
+Réalisation : Luigi Comencini
+Avec : Nicolo Paolucci, Fernando Fernán Gómez, Alberto Cracco
+Un jeune orphelin italien élevé par des moines rêve de retrouver sa mère.
+]]></desc>
+</programme>
+
+<programme start="20260211182800 -0500" stop="20260211200000 -0500" channel="studiocanal.hd">
+  <title>Le troisième homme</title>
+  <desc><![CDATA[
+1949 • Drame
+Réalisation : Carol Reed
+Avec : Joseph Cotten, Alida Valli, Orson Welles
+À Vienne, juste après la guerre, un journaliste enquête sur un ami impliqué dans le marché noir.
+]]></desc>
+</programme>
+
+<programme start="20260211200000 -0500" stop="20260211212800 -0500" channel="studiocanal.hd">
+  <title>Moi la femme</title>
+  <desc><![CDATA[
+1971 • Comédie
+Réalisation : Dino Risi
+Avec : Monica Vitti, Carlo Giuffrè, Enrico Maria Salerno
+Douze sketches dressent autant de portraits de femmes confrontées au machisme.
+]]></desc>
+</programme>
+
+<programme start="20260211212800 -0500" stop="20260211230000 -0500" channel="studiocanal.hd">
+  <title>Un dimanche à la campagne</title>
+</programme>
+
+<programme start="20260211230000 -0500" stop="20260213013800 -0500" channel="studiocanal.hd">
+  <title>Justinien Trouvé ou le bâtard de Dieu</title>
+  <desc><![CDATA[
+1993 • Drame
+Réalisation : Claude Fechner
+Avec : Ticky Holgado, Bernard-Pierre Donnadieu, Pierre-Olivier Mornas
+À la fin du XVIIIe siècle, dans le Gévaudan, le destin mouvementé d’un enfant abandonné aux portes d’un monastère.
+]]></desc>
+</programme>
+
+<programme start="20260213013800 -0500" stop="20260213025400 -0500" channel="studiocanal.hd">
+  <title>Le crime de monsieur Lange</title>
+  <desc><![CDATA[
+1936 • Drame
+Réalisation : Jean Renoir
+Avec : Jules Berry, René Lefèvre, Florelle
+Après une faillite frauduleuse, un éditeur se fait passer pour mort afin d’échapper à ses créanciers.
+]]></desc>
+</programme>
+
+<programme start="20260213025400 -0500" stop="20260213070700 -0500" channel="studiocanal.hd">
+  <title>Hors d'ondes</title>
+</programme>
+
+<programme start="20260213070700 -0500" stop="20260213083100 -0500" channel="studiocanal.hd">
+  <title>Les bronzés font du ski</title>
+  <desc><![CDATA[
+1979 • Comédie
+Réalisation : Patrice Leconte
+Avec : Michel Blanc, Gérard Jugnot, Thierry Lhermitte
+Les vacances d’un groupe d’amis à la montagne dégénèrent en enchaînement de catastrophes.
+]]></desc>
+</programme>
+
+<programme start="20260213083100 -0500" stop="20260213104500 -0500" channel="studiocanal.hd">
+  <title>Les enfants du siècle</title>
+</programme>
+
+<programme start="20260213104500 -0500" stop="20260213121600 -0500" channel="studiocanal.hd">
+  <title>Hôtel des Amériques</title>
+</programme>
+
+<programme start="20260213121600 -0500" stop="20260213133400 -0500" channel="studiocanal.hd">
+  <title>Le crime de monsieur Lange</title>
+  <desc><![CDATA[
+1936 • Drame
+Réalisation : Jean Renoir
+Avec : Jules Berry, René Lefèvre, Florelle
+Un éditeur ruiné simule sa mort après une faillite frauduleuse.
+]]></desc>
+</programme>
+
+<programme start="20260213133400 -0500" stop="20260213152800 -0500" channel="studiocanal.hd">
+  <title>Gervaise</title>
+</programme>
+
+<programme start="20260213152800 -0500" stop="20260213165600 -0500" channel="studiocanal.hd">
+  <title>Ki lo sa ?</title>
+  <desc><![CDATA[
+1985 • Drame
+Réalisation : Robert Guédiguian
+Avec : Pierre Banderet, Jean-Pierre Darroussin, Ariane Ascaride
+Honorant une promesse d’enfance, trois hommes et une femme se retrouvent adultes dans le parc où ils jouaient enfants.
+]]></desc>
+</programme>
+
+<programme start="20260213165600 -0500" stop="20260213182700 -0500" channel="studiocanal.hd">
+  <title>Au petit Marguery</title>
+  <desc><![CDATA[
+1995 • Comédie
+Réalisation : Laurent Bénégui
+Avec : Michel Aumont, Stéphane Audran, Jacques Gamblin
+Des restaurateurs organisent un dernier dîner avant la fermeture définitive de leur établissement.
+]]></desc>
+</programme>
+
+<programme start="20260213182700 -0500" stop="20260213192800 -0500" channel="studiocanal.hd">
+  <title>La vie à l'envers</title>
+</programme>
+
+<programme start="20260213200000 -0500" stop="20260213215700 -0500" channel="studiocanal.hd">
+  <title>Le passager de la pluie</title>
+  <desc><![CDATA[
+1969 • Drame
 Réalisation : René Clément
-Avec : Maria Schell
+Avec : Marlène Jobert, Annie Cordy, Charles Bronson
+Après avoir tué un inconnu venu l’attaquer, une jeune femme est traquée par un mystérieux étranger.
 ]]></desc>
 </programme>
 
-<programme start="20260208231300 -0500" stop="20260209001000 -0500" channel="studiocanal.qc">
-<title>Elles n'oublient jamais</title>
-<desc><![CDATA[
-Fr. 2004. Deux femmes marquées par un passé violent voient leurs destins se croiser.
-
-Réalisation : Christopher Frank
-Avec : Marlène Jobert, Miou-Miou
+<programme start="20260213215700 -0500" stop="20260213234000 -0500" channel="studiocanal.hd">
+  <title>Dernier domicile connu</title>
+  <desc><![CDATA[
+1970 • Suspense
+Réalisation : José Giovanni
+Avec : Lino Ventura, Marlène Jobert, Michel Constantin
+Un policier amer est chargé de retrouver le témoin clé d’un meurtre.
 ]]></desc>
 </programme>
 
-<!-- ===================== -->
-<!-- LUNDI 09 → LUNDI 16 -->
-<!-- ===================== -->
-<!-- (structure identique, horaires exacts, résumés CANONIQUES appliqués) -->
+<programme start="20260213234000 -0500" stop="20260214011900 -0500" channel="studiocanal.hd">
+  <title>Le secret</title>
+  <desc><![CDATA[
+1974 • Drame
+Réalisation : Robert Enrico
+Avec : Philippe Noiret, Jean-Louis Trintignant, Marlène Jobert
+Un écrivain décide d’aider un inconnu poursuivi pour un secret d’État.
+]]></desc>
+</programme>
+
+<programme start="20260215093700 -0500" stop="20260215103800 -0500" channel="studiocanal.hd">
+  <title>Numéro 17</title>
+  <desc><![CDATA[
+1932 • Suspense
+Réalisation : Alfred Hitchcock
+Avec : John Stuart, Leon M. Lion, Anne Grey
+Un policier et un clochard enquêtent sur un cambriolage suivi de meurtre.
+]]></desc>
+</programme>
+
+<programme start="20260215170900 -0500" stop="20260215183100 -0500" channel="studiocanal.hd">
+  <title>Cette sacrée gamine</title>
+  <desc><![CDATA[
+1956 • Comédie
+Réalisation : Michel Boisrond
+Avec : Jean Bretonnière, Françoise Fabian, Brigitte Bardot
+Une jeune fille ingénue et délurée bouleverse la vie d’un chanteur de charme.
+]]></desc>
+</programme>
+
+<programme start="20260215200000 -0500" stop="20260215213800 -0500" channel="studiocanal.hd">
+  <title>Les Parisiennes</title>
+  <desc><![CDATA[
+1962 • Comédie
+Réalisation : Michel Boisrond, Marc Allégret, Claude Barma
+Avec : Françoise Arnoul, Françoise Brion, Catherine Deneuve
+Quatre portraits de femmes confrontées à l’amour, la fidélité et la solitude.
+]]></desc>
+</programme>
+
+<programme start="20260216200000 -0500" stop="20260216213900 -0500" channel="studiocanal.hd">
+  <title>Comme un boomerang</title>
+  <desc><![CDATA[
+1976 • Drame
+Réalisation : José Giovanni
+Avec : Alain Delon, Charles Vanel, Louis Julien
+Un ancien truand devenu industriel se bat pour défendre son fils accusé du meurtre d’un policier.
+]]></desc>
+</programme>
 
 </tv>
