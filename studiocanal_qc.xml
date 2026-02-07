@@ -321,11 +321,7 @@
     <title lang="fr">Édith et Marcel</title>
   </programme>
 
-  <!-- Fin estimée: dernier item non fourni après 23:13, donc +2h -->
-  <programme start="20260208231300 -0500" stop="20260209011300 -0500" channel="studiocanal.qc">
-    <title lang="fr">Elles n'oublient jamais</title>
-    <desc lang="fr">Fin estimée (+2h). Ajuster avec l’horaire suivant.</desc>
-  </programme>
+  
     <programme start="20260209005700 -0500" stop="20260209022700 -0500" channel="studiocanal.qc">
     <title lang="fr">Hôtel des Amériques</title>
   </programme>
@@ -380,6 +376,7 @@
 
 
 </tv>
+
 
 
 
