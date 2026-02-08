@@ -1017,7 +1017,9 @@ Lors de la Première Guerre mondiale, une jeune Allemande vivant à Paris est re
 <programme start="20260215040000 -0500" stop="20260215061500 -0500" channel="StudioCanal">
   <title>Hors d'ondes</title>
   </programme>
-  <!-- DIMANCHE 15 FÉVRIER 2026 -->
+<!-- =============================== -->
+<!-- 🔵 DIMANCHE 15 FÉVRIER 2026 🔵 -->
+<!-- =============================== -->
 
 <programme start="20260215061500 -0500" stop="20260215075700 -0500" channel="StudioCanal">
   <title>L'équipier</title>
@@ -1165,7 +1167,9 @@ Deux histoires d’amour se croisent autour de la figure tragique d’Édith Pia
   <title>Hors d'ondes</title>
   </programme>
 
-  <!-- LUNDI 16 FÉVRIER 2026 -->
+<!-- =============================== -->
+<!-- 🔵 LUNDI 16 FÉVRIER 2026 🔵 -->
+<!-- =============================== -->
 
 <programme start="20260216060900 -0500" stop="20260216075900 -0500" channel="StudioCanal">
   <title>Le cousin</title>
@@ -1312,7 +1316,9 @@ Un vieux peintre reçoit la visite dominicale de ses enfants, mais le dimanche v
     <programme start="20260217022500 -0500" stop="20260217065700 -0500" channel="StudioCanal">
   <title>Hors d'ondes</title>
   </programme>
-<!-- MARDI 17 FÉVRIER 2026 -->
+<!-- =============================== -->
+<!-- 🔵 MARDI 17 FÉVRIER 2026 🔵 -->
+<!-- =============================== -->
 
 <programme start="20260217065700 -0500" stop="20260217083600 -0500" channel="StudioCanal">
   <title>Comme un boomerang</title>
@@ -1434,8 +1440,290 @@ Avec : Jean-Louis Trintignant, Marlène Jobert
 Un homme accusé à tort tente d’échapper à une implacable traque tout en cherchant à prouver son innocence.
 ]]></desc>
 </programme>
+<!-- =============================== -->
+<!-- 🔵 MERCREDI 18 FÉVRIER 2026 🔵 -->
+<!-- =============================== -->
+
+<programme start="20260218060200 -0500" stop="20260218075900 -0500" channel="StudioCanal">
+  <title>Le crabe-tambour</title>
+  <desc><![CDATA[
+1977 · Drame
+Réalisation : Pierre Schoendoerffer
+Avec : Jean Rochefort, Jacques Perrin, Claude Rich
+
+Un officier de marine, gravement malade, entreprend une dernière mission pour retrouver un ancien compagnon d’armes et méditer sur leur passé commun.
+]]></desc>
+</programme>
+
+<programme start="20260218075900 -0500" stop="20260218092700 -0500" channel="StudioCanal">
+  <title>Je suis timide, mais je me soigne</title>
+  <desc><![CDATA[
+1978 · Comédie
+Réalisation : Pierre Richard
+Avec : Pierre Richard, Jane Birkin, Michel Aumont
+
+Pour séduire la femme qu’il aime, un jeune homme excessivement timide tente de vaincre son handicap avec l’aide d’un psychologue.
+]]></desc>
+</programme>
+
+<programme start="20260218092700 -0500" stop="20260218104600 -0500" channel="StudioCanal">
+  <title>Les infortunes de la beauté</title>
+  <desc><![CDATA[
+1999 · Drame
+Réalisation : John Lvoff
+Avec : Arielle Dombasle, Richard Bohringer
+
+Deux amies se lancent un pari et remuent ciel et terre pour prouver qu’une femme idéale peut exister.
+]]></desc>
+</programme>
+
+<programme start="20260218104600 -0500" stop="20260218133700 -0500" channel="StudioCanal">
+  <title>Le regard d’Ulysse</title>
+  <desc><![CDATA[
+1995 · Drame
+Réalisation : Theo Angelopoulos
+Avec : Harvey Keitel, Maia Morgenstern
+
+Alors que la guerre fait rage dans les Balkans, un cinéaste part à la recherche des premiers films jamais tournés dans la région.
+]]></desc>
+</programme>
+
+<programme start="20260218133700 -0500" stop="20260218150800 -0500" channel="StudioCanal">
+  <title>Au petit Marguery</title>
+  <desc><![CDATA[
+1995 · Comédie dramatique
+Réalisation : Laurent Bénégui
+Avec : Stéphane Audran, Michel Aumont
+
+De vieux amis se retrouvent lors de la fermeture d’un restaurant tenu par les parents de l’un d’entre eux.
+]]></desc>
+</programme>
+
+<programme start="20260218150800 -0500" stop="20260218165200 -0500" channel="StudioCanal">
+  <title>Elles n’oublient jamais</title>
+  <desc><![CDATA[
+2002 · Drame
+Réalisation : Christopher Frank
+Avec : Thierry Lhermitte, Maruschka Detmers
+
+Déchiré entre son épouse et sa maîtresse, un homme se perd dans le mensonge, le désir et la trahison.
+]]></desc>
+</programme>
+
+<programme start="20260218165200 -0500" stop="20260218183000 -0500" channel="StudioCanal">
+  <title>Les Parisiennes</title>
+  <desc><![CDATA[
+1962 · Comédie
+Réalisation : Marc Allégret, Michel Boisrond
+Avec : Catherine Deneuve, Danielle Darrieux
+
+Quatre portraits de femmes confrontées à l’amour, la fidélité et la solitude dans le Paris des années 60.
+]]></desc>
+</programme>
+
+<programme start="20260218183000 -0500" stop="20260218200000 -0500" channel="StudioCanal">
+  <title>Le traqué</title>
+  <desc><![CDATA[
+1975 · Policier
+Réalisation : René Clément
+Avec : Jean-Louis Trintignant, Marlène Jobert
+
+Un homme accusé à tort parvient à s’évader et tente de prouver son innocence tout en échappant à une traque implacable.
+]]></desc>
+</programme>
+
+<programme start="20260218200000 -0500" stop="20260218220400 -0500" channel="StudioCanal">
+  <title>All or Nothing</title>
+  <desc><![CDATA[
+2002 · Drame
+Réalisation : Mike Leigh
+Avec : Timothy Spall, Lesley Manville
+
+La vie morose d’un chauffeur de taxi est bouleversée lorsque son fils est hospitalisé, révélant les tensions au sein de sa famille.
+]]></desc>
+</programme>
+
+<programme start="20260218220400 -0500" stop="20260218233200 -0500" channel="StudioCanal">
+  <title>Ki lo sa ?</title>
+  <desc><![CDATA[
+1986 · Comédie dramatique
+Réalisation : Robert Guédiguian
+Avec : Gérard Meylan, Ariane Ascaride
+
+Trois amis, liés par une vieille promesse, se retrouvent dans le parc où ils jouaient enfants.
+]]></desc>
+</programme>
+
+<programme start="20260218233200 -0500" stop="20260219005200 -0500" channel="StudioCanal">
+  <title>La sentence</title>
+  <desc><![CDATA[
+1974 · Drame
+Réalisation : Pierre Granier-Deferre
+Avec : Jean Gabin, Sophia Loren
+
+Un homme est confronté à une décision judiciaire qui va bouleverser son existence.
+]]></desc>
+</programme>
+
+<programme start="20260219005200 -0500" stop="20260219015300 -0500" channel="StudioCanal">
+  <title>Numéro 17</title>
+  <desc><![CDATA[
+1932 · Thriller
+Réalisation : Alfred Hitchcock
+Avec : John Stuart, Anne Grey
+
+Un policier et un clochard enquêtent sur un cambriolage qui les mène sur la piste d’un dangereux criminel.
+]]></desc>
+</programme>
+
+<programme start="20260219015300 -0500" stop="20260219040000 -0500" channel="StudioCanal">
+  <title>Monsieur Vincent</title>
+  <desc><![CDATA[
+1947 · Drame historique
+Réalisation : Maurice Cloche
+Avec : Pierre Fresnay
+
+Au XVIIe siècle, Vincent de Paul consacre sa vie aux plus démunis avant d’être nommé aumônier des galères royales.
+]]></desc>
+</programme>
+<!-- =============================== -->
+<!-- 🔵 JEUDI 19 FÉVRIER 2026 🔵 -->
+<!-- =============================== -->
+
+<programme start="20260219062900 -0500" stop="20260219084000 -0500" channel="StudioCanal">
+  <title>Le grand carnaval</title>
+  <desc><![CDATA[
+1983 · Drame
+Réalisation : Alexandre Arcady
+Avec : Richard Berry, Jean Carmet, Macha Méril
+
+En Algérie, deux hommes engagent une lutte acharnée pour conquérir le cœur d’une jeune femme, au risque de détruire leur profonde amitié.
+]]></desc>
+</programme>
+
+<programme start="20260219084000 -0500" stop="20260219100900 -0500" channel="StudioCanal">
+  <title>Josette</title>
+  <desc><![CDATA[
+1938 · Comédie
+Réalisation : Christian-Jaque
+Avec : Fernandel, Mona Goya
+
+Un brave garçon porte secours à un vieil homme qui lui donne les moyens de réaliser son rêve : devenir chanteur de music-hall.
+]]></desc>
+</programme>
+
+<programme start="20260219100900 -0500" stop="20260219113200 -0500" channel="StudioCanal">
+  <title>En plein feu</title>
+  <desc><![CDATA[
+1982 · Drame
+Réalisation : Roger Kahane
+Avec : Jacques Dutronc, Michel Galabru
+
+Alors qu’un incendie ravage la forêt landaise, un père et son fils se retrouvent coincés dans leur véhicule, encerclés par les flammes.
+]]></desc>
+</programme>
+
+<programme start="20260219113200 -0500" stop="20260219130400 -0500" channel="StudioCanal">
+  <title>Un dimanche à la campagne</title>
+  <desc><![CDATA[
+1984 · Drame
+Réalisation : Bertrand Tavernier
+Avec : Louis Ducreux, Michel Aumont, Sabine Azéma
+
+Dans la France d’avant-guerre, un vieux peintre reçoit la visite dominicale de son fils et de sa fille, réveillant souvenirs et regrets.
+]]></desc>
+</programme>
+
+<programme start="20260219130400 -0500" stop="20260219144200 -0500" channel="StudioCanal">
+  <title>Comme un boomerang</title>
+  <desc><![CDATA[
+1976 · Policier
+Réalisation : José Giovanni
+Avec : Alain Delon, Carla Gravina
+
+Afin de sauver son fils accusé de meurtre, un riche homme d’affaires renoue avec un passé trouble que la justice n’a pas oublié.
+]]></desc>
+</programme>
+
+<programme start="20260219144200 -0500" stop="20260219162400 -0500" channel="StudioCanal">
+  <title>Le chanteur de Mexico</title>
+  <desc><![CDATA[
+1956 · Comédie musicale
+Réalisation : Richard Pottier
+Avec : Luis Mariano, Bourvil, Annie Cordy
+
+Les mésaventures d’un chanteur amateur qui accepte de remplacer une vedette capricieuse lors d’une tournée au Mexique.
+]]></desc>
+</programme>
+
+<programme start="20260219162400 -0500" stop="20260219182800 -0500" channel="StudioCanal">
+  <title>All or Nothing</title>
+  <desc><![CDATA[
+2002 · Drame
+Réalisation : Mike Leigh
+Avec : Timothy Spall, Lesley Manville
+
+La vie d’un chauffeur de taxi londonien, déjà morose, bascule lorsque son fils est hospitalisé, révélant les fractures familiales.
+]]></desc>
+</programme>
+
+<programme start="20260219182800 -0500" stop="20260219200000 -0500" channel="StudioCanal">
+  <title>Hôtel des Amériques</title>
+  <desc><![CDATA[
+1981 · Drame
+Réalisation : André Téchiné
+Avec : Catherine Deneuve, Patrick Dewaere
+
+À Biarritz, la rencontre passionnelle entre une femme blessée par la vie et un homme hanté par son passé.
+]]></desc>
+</programme>
+
+<programme start="20260219200000 -0500" stop="20260219220000 -0500" channel="StudioCanal">
+  <title>Monsieur Klein</title>
+  <desc><![CDATA[
+1976 · Drame
+Réalisation : Joseph Losey
+Avec : Alain Delon, Jeanne Moreau
+
+À Paris en 1942, un homme est confondu avec un homonyme juif recherché par la police, et se retrouve pris dans une spirale kafkaïenne.
+]]></desc>
+</programme>
+
+<programme start="20260219220000 -0500" stop="20260220001200 -0500" channel="StudioCanal">
+  <title>Aux sources du Nil</title>
+  <desc><![CDATA[
+1959 · Aventure
+Réalisation : Ralph Thomas
+Avec : Robert Taylor, George Sanders
+
+À la fin du XIXe siècle, deux explorateurs britanniques partent à la recherche des sources mythiques du Nil.
+]]></desc>
+</programme>
+
+<programme start="20260220001200 -0500" stop="20260220014400 -0500" channel="StudioCanal">
+  <title>La vie à l’envers</title>
+  <desc><![CDATA[
+1964 · Drame
+Réalisation : Alain Jessua
+Avec : Charles Denner, Anna Gaylor
+
+Un trentenaire parisien s’extrait peu à peu de la réalité et s’enferme dans une solitude heureuse, jusqu’à basculer dans la folie.
+]]></desc>
+</programme>
+
+<programme start="20260220014400 -0500" stop="20260220040000 -0500" channel="StudioCanal">
+  <title>Elles n’oublient jamais</title>
+  <desc><![CDATA[
+2002 · Drame
+Réalisation : Christopher Frank
+Avec : Thierry Lhermitte, Maruschka Detmers
+
+Écartelé entre son épouse et sa maîtresse, un homme se débat entre peur, mensonge, désir et trahison, jusqu’à perdre le contrôle.
+]]></desc>
+</programme>
 
 </tv>
+
 
 
 
