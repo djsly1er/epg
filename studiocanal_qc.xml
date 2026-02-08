@@ -77,17 +77,23 @@ Avec : Sandrine Bonnaire, Philippe Torreton
 Un homme bouleverse la vie d’un couple sur une île bretonne.
 ]]></desc>
 </programme>
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="StudioCanal XMLTV FIX FINAL">
+
+  <channel id="StudioCanal">
+    <display-name>StudioCanal</display-name>
+  </channel>
 
   <!-- DIMANCHE 08 FÉVRIER 2026 -->
 
-  <programme start="20260208064700 -0500" stop="20260208081700 -0500" channel="StudioCanal">
+  <programme start="20260208064200 -0500" stop="20260208081700 -0500" channel="StudioCanal">
     <title>Docteur Françoise Gailland</title>
     <desc><![CDATA[
 1976 • Drame
 Réalisation : Jean-Louis Bertuccelli
 Avec : Annie Girardot, Bernard Blier
 
-Une femme médecin se retrouve accusée de faute professionnelle alors qu’elle lutte pour sauver un patient.
+Une femme médecin est accusée de faute professionnelle alors qu’elle tente de sauver un patient.
 ]]></desc>
   </programme>
 
@@ -96,31 +102,42 @@ Une femme médecin se retrouve accusée de faute professionnelle alors qu’elle
     <desc><![CDATA[
 1964 • Drame
 Réalisation : Alain Jessua
-Avec : Charles Aznavour, Annie Girardot
+Avec : Annie Girardot, Charles Aznavour
 
-Une femme mariée découvre une passion destructrice qui bouleverse toutes ses certitudes.
+Une femme mariée découvre une passion qui bouleverse toute son existence.
 ]]></desc>
   </programme>
 
   <programme start="20260208094900 -0500" stop="20260208114600 -0500" channel="StudioCanal">
-    <title>Le crabe tambour</title>
+    <title>Le Crabe-Tambour</title>
     <desc><![CDATA[
 1977 • Drame
 Réalisation : Pierre Schoendoerffer
-Avec : Jean Rochefort, Jacques Perrin, Claude Rich
+Avec : Jean Rochefort, Jacques Perrin
 
-Un officier de marine malade tente de retrouver un ancien compagnon de guerre devenu une figure mythique.
+Un officier de marine malade tente de retrouver un ancien compagnon de guerre devenu légendaire.
 ]]></desc>
   </programme>
 
-  <programme start="20260208114600 -0500" stop="20260208150200 -0500" channel="StudioCanal">
-    <title>La duchesse de Langeais</title>
+  <programme start="20260208114600 -0500" stop="20260208131900 -0500" channel="StudioCanal">
+    <title>La Duchesse de Langeais</title>
     <desc><![CDATA[
 2007 • Drame
 Réalisation : Jacques Rivette
 Avec : Jeanne Balibar, Guillaume Depardieu
 
 Une duchesse manipule un général avant de découvrir trop tard la profondeur de ses sentiments.
+]]></desc>
+  </programme>
+
+  <programme start="20260208131900 -0500" stop="20260208150200 -0500" channel="StudioCanal">
+    <title>On ne meurt que deux fois</title>
+    <desc><![CDATA[
+1985 • Policier
+Réalisation : Jacques Deray
+Avec : Michel Serrault, Charlotte Rampling
+
+Au cours de ses investigations, un policier se laisse séduire par une femme énigmatique, soupçonnée d’un meurtre.
 ]]></desc>
   </programme>
 
@@ -131,7 +148,7 @@ Une duchesse manipule un général avant de découvrir trop tard la profondeur d
 Réalisation : Fabrice Genestal
 Avec : Vincent Pérez, Sophie Marceau
 
-Un homme simple tente de retrouver sa dignité dans un monde brutal et sans pitié.
+Un homme simple tente de retrouver sa dignité dans un monde brutal.
 ]]></desc>
   </programme>
 
@@ -142,7 +159,7 @@ Un homme simple tente de retrouver sa dignité dans un monde brutal et sans piti
 Réalisation : Pierre Jolivet
 Avec : Vincent Lindon, Sandrine Kiberlain
 
-Une femme mûre s’éprend d’un homme plus jeune et remet en question sa vie rangée.
+Une relation inattendue bouleverse une vie bien rangée.
 ]]></desc>
   </programme>
 
@@ -153,89 +170,66 @@ Une femme mûre s’éprend d’un homme plus jeune et remet en question sa vie 
 Réalisation : Yves Angelo
 Avec : Daniel Auteuil, Anne Parillaud
 
-Deux sœurs voient leur destin bouleversé par un secret familial enfoui depuis des années.
+Deux sœurs voient leur destin bouleversé par un secret familial.
 ]]></desc>
   </programme>
 
-  <programme start="20260208200000 -0500" stop="20260208215900 -0500" channel="StudioCanal">
-    <title>Les infortunes de la beauté</title>
+  <programme start="20260208200000 -0500" stop="20260208211900 -0500" channel="StudioCanal">
+    <title>Les Infortunes de la beauté</title>
     <desc><![CDATA[
 1999 • Comédie dramatique
 Réalisation : John Lvoff
 Avec : Arielle Dombasle, Maria de Medeiros
 
-Deux amies lancent un pari pour prouver que la femme parfaite peut exister.
+Deux femmes lancent un pari absurde pour prouver que la perfection existe.
 ]]></desc>
   </programme>
 
- <!-- DIMANCHE 08 FÉVRIER 2026 – APRÈS-MIDI / SOIRÉE -->
-
-<programme start="20260208163300 -0500" stop="20260208194900 -0500" channel="StudioCanal">
-  <title>Gervaise</title>
-  <desc><![CDATA[
+  <programme start="20260208211900 -0500" stop="20260208231300 -0500" channel="StudioCanal">
+    <title>Gervaise</title>
+    <desc><![CDATA[
 1956 • Drame
 Réalisation : René Clément
 Avec : Maria Schell, François Périer
 
-Une ouvrière parisienne lutte pour préserver sa dignité face à la misère et à l’alcoolisme.
+Une ouvrière parisienne lutte contre la misère et l’alcoolisme.
 ]]></desc>
-</programme>
+  </programme>
 
-<programme start="20260208194900 -0500" stop="20260208231300 -0500" channel="StudioCanal">
-  <title>Elles n'oublient jamais</title>
-  <desc><![CDATA[
+  <programme start="20260208231300 -0500" stop="20260209005700 -0500" channel="StudioCanal">
+    <title>Elles n’oublient jamais</title>
+    <desc><![CDATA[
 1975 • Drame
 Réalisation : Pierre Forget
 Avec : Claude Jade, Michel Bouquet
 
-Écartée de son époux et meurtrie, une femme se débat entre amour, mensonge et désir.
+Une femme meurtrie se débat entre amour, mensonge et désir.
 ]]></desc>
-</programme>
+  </programme>
 
-<!-- NUIT -->
-
-<programme start="20260208231300 -0500" stop="20260209005700 -0500" channel="StudioCanal">
-  <title>Aux sources du Nil</title>
-  <desc><![CDATA[
-1959 • Aventure
-Réalisation : John Guillermin
-Avec : Robert Taylor, Robert Morley
-
-Une expédition britannique remonte le Nil à la recherche de ses origines mythiques.
-]]></desc>
-</programme>
-
-<programme start="20260209005700 -0500" stop="20260209052600 -0500" channel="StudioCanal">
-  <title>Hôtel des Amériques</title>
-  <desc><![CDATA[
+  <programme start="20260209005700 -0500" stop="20260209052600 -0500" channel="StudioCanal">
+    <title>Hôtel des Amériques</title>
+    <desc><![CDATA[
 1981 • Drame
 Réalisation : André Téchiné
 Avec : Catherine Deneuve, Patrick Dewaere
 
-À Biarritz, la passion douloureuse entre une femme libre et un homme blessé par la vie.
+À Biarritz, une passion douloureuse entre deux êtres blessés.
 ]]></desc>
-</programme>
+  </programme>
 
-<programme start="20260209052600 -0500" stop="20260209081700 -0500" channel="StudioCanal">
-  <title>Le regard d'Ulysse</title>
-  <desc><![CDATA[
+  <programme start="20260209052600 -0500" stop="20260209100000 -0500" channel="StudioCanal">
+    <title>Le Regard d’Ulysse</title>
+    <desc><![CDATA[
 1995 • Drame
 Réalisation : Theo Angelopoulos
 Avec : Harvey Keitel, Maia Morgenstern
 
-Un cinéaste parcourt les Balkans à la recherche des premières images du cinéma.
+Un cinéaste parcourt les Balkans à la recherche des origines du cinéma.
 ]]></desc>
-</programme>
+  </programme>
 
-
-<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="StudioCanal XMLTV clean fix">
-
-  <channel id="StudioCanal">
-    <display-name>StudioCanal</display-name>
-  </channel>
-
-  <!-- LUNDI 09 FÉVRIER 2026 -->
+ <!-- LUNDI 09 FÉVRIER 2026 -->
 
   <programme start="20260209081700 -0500" stop="20260209100000 -0500" channel="StudioCanal">
     <title>On ne meurt que deux fois</title>
@@ -359,6 +353,7 @@ Rediffusion nocturne du thriller de Jacques Deray.
   </programme>
 
 </tv>
+
 
 
 
