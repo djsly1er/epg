@@ -1,72 +1,110 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="StudioCanal TEST">
+<tv generator-info-name="StudioCanal QC XMLTV (TV Hebdo manual)">
 
-  <channel id="studiocanal">
-    <display-name>StudioCanal HD</display-name>
+  <channel id="studiocanal.qc">
+    <display-name>StudioCanal Québec</display-name>
   </channel>
+ <!-- À PARTIR D’ICI : +24h APPLIQUÉ -->
 
-  <programme start="20260207071000 -0500" stop="20260207083200 -0500" channel="studiocanal">
-    <title>Tenue de soirée</title>
-    <desc><![CDATA[
-Deux êtres en quête d'amour s'enfoncent dans la déchéance et la fausseté, entraînés par un troisième larron dans une série de cambriolages et d'embrouilles.
-]]></desc>
+  <!-- Vendredi 06 février 2026 (soir corrigé) -->
+  <programme start="20260207200000 -0500" stop="20260207212100 -0500" channel="studiocanal.qc">
+    <title lang="fr">Cette sacrée gamine</title>
+  </programme>
+  <programme start="20260207212100 -0500" stop="20260207225000 -0500" channel="studiocanal.qc">
+    <title lang="fr">A coeur joie</title>
+  </programme>
+  <programme start="20260207225000 -0500" stop="20260208004100 -0500" channel="studiocanal.qc">
+    <title lang="fr">Monsieur vincent</title>
   </programme>
 
-  <programme start="20260207083200 -0500" stop="20260207102700 -0500" channel="studiocanal">
-    <title>Merci la vie</title>
-    <desc><![CDATA[
-Une lycéenne un peu perdue et une jeune fille atteinte du sida se lient d'amitié et affrontent ensemble une succession d'épreuves.
-]]></desc>
+  <!-- Samedi 07 février 2026 -->
+  <programme start="20260208004100 -0500" stop="20260208025200 -0500" channel="studiocanal.qc">
+    <title lang="fr">Le grand carnaval</title>
+  </programme>
+  <programme start="20260208025200 -0500" stop="20260208042300 -0500" channel="studiocanal.qc">
+    <title lang="fr">Coplan FX 18 Casse Tout</title>
+  </programme>
+  <programme start="20260208042300 -0500" stop="20260208053900 -0500" channel="studiocanal.qc">
+    <title lang="fr">Secret Lives</title>
+  </programme>
+  <programme start="20260208053900 -0500" stop="20260208071000 -0500" channel="studiocanal.qc">
+    <title lang="fr">Hôtel des Amériques</title>
+  </programme>
+  <programme start="20260208071000 -0500" stop="20260208083200 -0500" channel="studiocanal.qc">
+    <title lang="fr">Tenue de soirée</title>
+  </programme>
+  <programme start="20260208083200 -0500" stop="20260208102700 -0500" channel="studiocanal.qc">
+    <title lang="fr">Merci la vie</title>
+  </programme>
+  <programme start="20260208102700 -0500" stop="20260208123900 -0500" channel="studiocanal.qc">
+    <title lang="fr">Aux sources du Nil</title>
+  </programme>
+  <programme start="20260208123900 -0500" stop="20260208141000 -0500" channel="studiocanal.qc">
+    <title lang="fr">Au petit Marguery</title>
+  </programme>
+  <programme start="20260208141000 -0500" stop="20260208155100 -0500" channel="studiocanal.qc">
+    <title lang="fr">Comédie d'été</title>
+  </programme>
+  <programme start="20260208155100 -0500" stop="20260208182800 -0500" channel="studiocanal.qc">
+    <title lang="fr">Édith et Marcel</title>
+  </programme>
+  <programme start="20260208182800 -0500" stop="20260208200000 -0500" channel="studiocanal.qc">
+    <title lang="fr">Un dimanche à la campagne</title>
+  </programme>
+  <programme start="20260208200000 -0500" stop="20260208215700 -0500" channel="studiocanal.qc">
+    <title lang="fr">Le crabe tambour</title>
+  </programme>
+  <programme start="20260208215700 -0500" stop="20260208233100 -0500" channel="studiocanal.qc">
+    <title lang="fr">Les enfants du siècle</title>
   </programme>
 
-  <programme start="20260207102700 -0500" stop="20260207123900 -0500" channel="studiocanal">
-    <title>Aux sources du Nil</title>
-    <desc><![CDATA[
-À la fin du XIXe siècle, deux explorateurs britanniques remontent le Nil à la recherche de ses sources.
-]]></desc>
+  <!-- Dimanche 08 février 2026 -->
+  <programme start="20260208233100 -0500" stop="20260209011200 -0500" channel="studiocanal.qc">
+    <title lang="fr">Le pressentiment</title>
+  </programme>
+  <programme start="20260209011200 -0500" stop="20260209024700 -0500" channel="studiocanal.qc">
+    <title lang="fr">Monsieur Naphtali</title>
+  </programme>
+  <programme start="20260209024700 -0500" stop="20260209042700 -0500" channel="studiocanal.qc">
+    <title lang="fr">L'équipier</title>
+  </programme>
+  <programme start="20260209042700 -0500" stop="20260209060000 -0500" channel="studiocanal.qc">
+    <title lang="fr">Hors d'ondes</title>
+  </programme>
+  <programme start="20260209060000 -0500" stop="20260209064200 -0500" channel="studiocanal.qc">
+    <title lang="fr">Hors d'ondes</title>
+  </programme>
+  <programme start="20260209064200 -0500" stop="20260209081700 -0500" channel="studiocanal.qc">
+    <title lang="fr">Docteur Françoise Gailland</title>
+  </programme>
+  <programme start="20260209081700 -0500" stop="20260209094900 -0500" channel="studiocanal.qc">
+    <title lang="fr">La vie à l'envers</title>
+  </programme>
+  <programme start="20260209094900 -0500" stop="20260209114600 -0500" channel="studiocanal.qc">
+    <title lang="fr">Le crabe tambour</title>
+  </programme>
+  <programme start="20260209114600 -0500" stop="20260209131900 -0500" channel="studiocanal.qc">
+    <title lang="fr">La duchesse de Langeais</title>
+  </programme>
+  <programme start="20260209131900 -0500" stop="20260209150200 -0500" channel="studiocanal.qc">
+    <title lang="fr">On ne meurt que deux fois</title>
+  </programme>
+  <programme start="20260209150200 -0500" stop="20260209165200 -0500" channel="studiocanal.qc">
+    <title lang="fr">Le Roi</title>
+  </programme>
+  <programme start="20260209165200 -0500" stop="20260209181900 -0500" channel="studiocanal.qc">
+    <title lang="fr">Je crois que je l'aime</title>
+  </programme>
+  <programme start="20260209181900 -0500" stop="20260209200000 -0500" channel="studiocanal.qc">
+    <title lang="fr">Voleur de vie</title>
   </programme>
 
-  <programme start="20260207123900 -0500" stop="20260207141000 -0500" channel="studiocanal">
-    <title>Au petit Marguery</title>
-    <desc><![CDATA[
-De vieux amis se retrouvent pour une soirée organisée à l'occasion de la fermeture d'un restaurant.
-]]></desc>
+  <!-- Lundi 09 février 2026 -->
+  <programme start="20260209200000 -0500" stop="20260209221200 -0500" channel="studiocanal.qc">
+    <title lang="fr">Les infortunes de la beauté</title>
   </programme>
-
-  <programme start="20260207141000 -0500" stop="20260207155100 -0500" channel="studiocanal">
-    <title>Comédie d'été</title>
-    <desc><![CDATA[
-À la veille de la Première Guerre mondiale, un jeune homme s'éprend d'une amie récemment divorcée de sa mère.
-]]></desc>
-  </programme>
-
-  <programme start="20260207155100 -0500" stop="20260207182800 -0500" channel="studiocanal">
-    <title>Édith et Marcel</title>
-    <desc><![CDATA[
-L'histoire d'amour passionnée entre la chanteuse Édith Piaf et le boxeur Marcel Cerdan.
-]]></desc>
-  </programme>
-
-  <programme start="20260207182800 -0500" stop="20260207200000 -0500" channel="studiocanal">
-    <title>Un dimanche à la campagne</title>
-    <desc><![CDATA[
-Dans sa maison de campagne, un vieux peintre reçoit la visite dominicale de ses enfants.
-]]></desc>
-  </programme>
-
-  <programme start="20260207200000 -0500" stop="20260207215700 -0500" channel="studiocanal">
-    <title>Le crabe-tambour</title>
-    <desc><![CDATA[
-Un officier de marine malade médite sur son passé et ses engagements.
-]]></desc>
-  </programme>
-
-  <programme start="20260207215700 -0500" stop="20260208001000 -0500" channel="studiocanal">
-    <title>Les enfants du siècle</title>
-    <desc><![CDATA[
-Les amours tourmentées de George Sand et Alfred de Musset dans les années 1830.
-]]></desc>
+  <programme start="20260209221200 -0500" stop="20260209235200 -0500" channel="studiocanal.qc">
+    <title lang="fr">Gervaise</title>
   </programme>
 
 </tv>
