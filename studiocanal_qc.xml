@@ -67,7 +67,7 @@ Un homme réalise trop tard qu’il a gâché sa vie en cherchant le repos.
 </programme>
 
 <!-- L'équipier -->
-<programme start="20260208031700 -0500" stop="20260208064700 -0500" channel="StudioCanal">
+<programme start="20260208031700 -0500" stop="20260208064200 -0500" channel="StudioCanal">
   <title>L’équipier</title>
   <desc><![CDATA[
 2004 • Drame
@@ -348,6 +348,7 @@ Rediffusion nocturne du thriller de Jacques Deray.
   </programme>
 
 </tv>
+
 
 
 
