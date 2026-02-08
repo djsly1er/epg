@@ -733,8 +733,153 @@ Avec : René Lefèvre, Jules Berry
 Des ouvriers fondent une coopérative après la disparition de leur patron, mais son retour change tout.
 ]]></desc>
 </programme>
+<!-- VENDREDI 13 FÉVRIER 2026 -->
+
+<programme start="20260213070700 -0500" stop="20260213083100 -0500" channel="StudioCanal">
+  <title>Les Bronzés font du ski</title>
+  <desc><![CDATA[
+1979 · Comédie
+Réalisation : Patrice Leconte
+Avec : Michel Blanc, Gérard Jugnot, Josiane Balasko
+
+Un groupe de vacanciers parisiens découvre les joies et les catastrophes des sports d’hiver.
+]]></desc>
+</programme>
+
+<programme start="20260213083100 -0500" stop="20260213104500 -0500" channel="StudioCanal">
+  <title>Les enfants du siècle</title>
+  <desc><![CDATA[
+1999 · Drame romantique
+Réalisation : Diane Kurys
+Avec : Juliette Binoche, Benoît Magimel
+
+À Paris au XIXe siècle, la passion tumultueuse entre George Sand et Alfred de Musset.
+]]></desc>
+</programme>
+
+<programme start="20260213104500 -0500" stop="20260213121600 -0500" channel="StudioCanal">
+  <title>Hôtel des Amériques</title>
+  <desc><![CDATA[
+1981 · Drame
+Réalisation : André Téchiné
+Avec : Catherine Deneuve, Patrick Dewaere
+
+À Biarritz, une femme marquée par le passé croise la route d’un homme en quête de sens.
+]]></desc>
+</programme>
+
+<programme start="20260213121600 -0500" stop="20260213133400 -0500" channel="StudioCanal">
+  <title>Le crime de Monsieur Lange</title>
+  <desc><![CDATA[
+1936 · Drame
+Réalisation : Jean Renoir
+Avec : René Lefèvre, Jules Berry
+
+Des ouvriers montent une coopérative après la fuite de leur patron, mais son retour bouleverse tout.
+]]></desc>
+</programme>
+
+<programme start="20260213133400 -0500" stop="20260213152800 -0500" channel="StudioCanal">
+  <title>Gervaise</title>
+  <desc><![CDATA[
+1956 · Drame
+Réalisation : René Clément
+Avec : Maria Schell, François Périer
+
+À Paris au XIXe siècle, une blanchisseuse lutte contre la misère et l’alcoolisme.
+]]></desc>
+</programme>
+
+<programme start="20260213152800 -0500" stop="20260213165600 -0500" channel="StudioCanal">
+  <title>Ki lo sa ?</title>
+  <desc><![CDATA[
+1985 · Drame
+Réalisation : Robert Guédiguian
+Avec : Ariane Ascaride, Gérard Meylan
+
+Trois hommes et une femme se retrouvent dans un parc, hantés par leurs souvenirs d’enfance.
+]]></desc>
+</programme>
+
+<programme start="20260213165600 -0500" stop="20260213182700 -0500" channel="StudioCanal">
+  <title>Au petit Marguery</title>
+  <desc><![CDATA[
+1995 · Comédie dramatique
+Réalisation : Laurent Bénégui
+Avec : Stéphane Audran, Michel Aumont
+
+D’anciens amis se réunissent pour une soirée d’adieu dans un restaurant chargé d’histoire.
+]]></desc>
+</programme>
+
+<programme start="20260213182700 -0500" stop="20260213200000 -0500" channel="StudioCanal">
+  <title>La vie à l'envers</title>
+  <desc><![CDATA[
+1964 · Drame
+Réalisation : Alain Jessua
+Avec : Charles Denner, Anna Gaylor
+
+Un homme se coupe progressivement du monde et sombre dans une solitude radicale.
+]]></desc>
+</programme>
+
+<programme start="20260213200000 -0500" stop="20260213215700 -0500" channel="StudioCanal">
+  <title>Le passager de la pluie</title>
+  <desc><![CDATA[
+1970 · Thriller
+Réalisation : René Clément
+Avec : Marlène Jobert, Charles Bronson
+
+Une jeune femme se retrouve mêlée à une affaire violente qui bouleverse sa vie.
+]]></desc>
+</programme>
+
+<programme start="20260213215700 -0500" stop="20260213234000 -0500" channel="StudioCanal">
+  <title>Dernier domicile connu</title>
+  <desc><![CDATA[
+1970 · Policier
+Réalisation : José Giovanni
+Avec : Lino Ventura, Marlène Jobert
+
+Un policier solitaire enquête sur la disparition d’un témoin clé.
+]]></desc>
+</programme>
+
+<programme start="20260213234000 -0500" stop="20260214011900 -0500" channel="StudioCanal">
+  <title>Le secret</title>
+  <desc><![CDATA[
+1974 · Policier
+Réalisation : Robert Enrico
+Avec : Jean-Louis Trintignant, Marlène Jobert
+
+Un homme détenteur d’un secret d’État entraîne un couple dans une cavale dangereuse.
+]]></desc>
+</programme>
+
+<programme start="20260214011900 -0500" stop="20260214023900 -0500" channel="StudioCanal">
+  <title>Les infortunes de la beauté</title>
+  <desc><![CDATA[
+1999 · Drame
+Réalisation : John Lvoff
+Avec : Arielle Dombasle, Richard Bohringer
+
+Deux amies défient le hasard dans un pari absurde sur l’existence de la femme idéale.
+]]></desc>
+</programme>
+
+<programme start="20260214023900 -0500" stop="20260214040000 -0500" channel="StudioCanal">
+  <title>Le chanteur de Mexico</title>
+  <desc><![CDATA[
+1956 · Comédie musicale
+Réalisation : Richard Pottier
+Avec : Luis Mariano, Bourvil
+
+Un chanteur amateur se retrouve propulsé vedette au Mexique à la suite d’un quiproquo.
+]]></desc>
+</programme>
 
 </tv>
+
 
 
 
