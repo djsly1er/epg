@@ -77,12 +77,7 @@ Avec : Sandrine Bonnaire, Philippe Torreton
 Un homme bouleverse la vie d’un couple sur une île bretonne.
 ]]></desc>
 </programme>
-<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="StudioCanal XMLTV FIX FINAL">
 
-  <channel id="StudioCanal">
-    <display-name>StudioCanal</display-name>
-  </channel>
 
   <!-- DIMANCHE 08 FÉVRIER 2026 -->
 
@@ -353,6 +348,7 @@ Rediffusion nocturne du thriller de Jacques Deray.
   </programme>
 
 </tv>
+
 
 
 
