@@ -955,7 +955,7 @@ Avec : Robert Taylor, George Sanders
 ]]></desc>
 </programme>
 
-<programme start="20260214200000 -0500" stop="20260214221900 -0500" channel="StudioCanal">
+<programme start="20260214200000 -0500" stop="20260214211900 -0500" channel="StudioCanal">
   <title>La sentence</title>
   <desc><![CDATA[
 1974 · Drame
@@ -966,7 +966,7 @@ Un homme confronté à la justice et à son passé tente de faire face aux cons�
 ]]></desc>
 </programme>
 
-<programme start="20260214221900 -0500" stop="20260214225000 -0500" channel="StudioCanal">
+<programme start="20260214211900 -0500" stop="20260214225000 -0500" channel="StudioCanal">
   <title>Coplan FX 18 casse tout</title>
   <desc><![CDATA[
 1970 · Policier
@@ -1158,6 +1158,7 @@ Deux histoires d’amour se croisent autour de la figure tragique d’Édith Pia
 </programme>
 
 </tv>
+
 
 
 
