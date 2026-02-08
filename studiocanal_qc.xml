@@ -459,7 +459,7 @@ Dans la Vienne d’après-guerre, une enquête mystérieuse mène à une vérit�
 ]]></desc>
 </programme>
 
-<programme start="20260211010000 -0500" stop="20260211030000 -0500" channel="StudioCanal">
+<programme start="20260211010000 -0500" stop="20260211075000 -0500" channel="StudioCanal">
   <title>Marcellino</title>
   <desc><![CDATA[
 1955 · Drame
@@ -469,8 +469,141 @@ Avec : Pablito Calvo, Rafael Rivelles
 Un jeune orphelin découvre l’amitié et la foi dans un monastère espagnol.
 ]]></desc>
 </programme>
+<!-- MERCREDI 11 FÉVRIER 2026 -->
+
+<programme start="20260211075000 -0500" stop="20260211093200 -0500" channel="StudioCanal">
+  <title>Le chanteur de Mexico</title>
+  <desc><![CDATA[
+1956 · Comédie musicale
+Réalisation : Richard Pottier
+Avec : Luis Mariano, Bourvil
+
+Les mésaventures d’un chanteur amateur qui accepte de remplacer une vedette volage et se retrouve entraîné dans une série de quiproquos exotiques.
+]]></desc>
+</programme>
+
+<programme start="20260211093200 -0500" stop="20260211110100 -0500" channel="StudioCanal">
+  <title>Josette</title>
+  <desc><![CDATA[
+1938 · Comédie
+Réalisation : Christian-Jaque
+Avec : Fernandel, Mona Goya
+
+Un brave garçon secourt une jeune femme et se retrouve embarqué dans une aventure pleine de malentendus et de tendresse.
+]]></desc>
+</programme>
+
+<programme start="20260211110100 -0500" stop="20260211131200 -0500" channel="StudioCanal">
+  <title>Le grand carnaval</title>
+  <desc><![CDATA[
+1983 · Comédie dramatique
+Réalisation : Alexandre Arcady
+Avec : Richard Berry, Maurice Bénichou
+
+En Algérie, deux amis se disputent l’amour d’une jeune femme, mettant à l’épreuve leur amitié.
+]]></desc>
+</programme>
+
+<programme start="20260211131200 -0500" stop="20260211142600 -0500" channel="StudioCanal">
+  <title>Secret Lives</title>
+  <desc><![CDATA[
+2002 · Drame historique
+Réalisation : Norman Stone
+Avec : Michelle Dockery, Kenneth Cranham
+
+Lors de la Première Guerre mondiale, une jeune femme est recrutée par les services secrets britanniques.
+]]></desc>
+</programme>
+
+<programme start="20260211142600 -0500" stop="20260211155000 -0500" channel="StudioCanal">
+  <title>Les Bronzés font du ski</title>
+  <desc><![CDATA[
+1979 · Comédie
+Réalisation : Patrice Leconte
+Avec : Michel Blanc, Gérard Jugnot, Josiane Balasko
+
+La joyeuse bande des Bronzés se retrouve en vacances d’hiver pour une succession de catastrophes hilarantes.
+]]></desc>
+</programme>
+
+<programme start="20260211155000 -0500" stop="20260211170800 -0500" channel="StudioCanal">
+  <title>Le crime de Monsieur Lange</title>
+  <desc><![CDATA[
+1936 · Drame
+Réalisation : Jean Renoir
+Avec : René Lefèvre, Jules Berry
+
+Des ouvriers forment une coopérative après la disparition de leur patron, mais son retour bouleverse l’équilibre.
+]]></desc>
+</programme>
+
+<programme start="20260211170800 -0500" stop="20260211182800 -0500" channel="StudioCanal">
+  <title>Les infortunes de la beauté</title>
+  <desc><![CDATA[
+1999 · Drame
+Réalisation : John Lvoff
+Avec : Arielle Dombasle, Richard Bohringer
+
+Deux amies lancent un pari insensé pour définir la femme idéale, révélant les failles du désir et de l’image.
+]]></desc>
+</programme>
+
+<programme start="20260211182800 -0500" stop="20260211200000 -0500" channel="StudioCanal">
+  <title>Marcellino pan y vino</title>
+  <desc><![CDATA[
+1955 · Drame
+Réalisation : Ladislao Vajda
+Avec : Pablito Calvo, Rafael Rivelles
+
+Un jeune orphelin élevé dans un monastère découvre une amitié mystérieuse et bouleversante.
+]]></desc>
+</programme>
+
+<programme start="20260211200000 -0500" stop="20260211214300 -0500" channel="StudioCanal">
+  <title>Moi la femme</title>
+  <desc><![CDATA[
+1973 · Documentaire
+Réalisation : Yannick Bellon
+
+Douze portraits de femmes confrontées aux normes et aux contraintes d’une société dominée par les hommes.
+]]></desc>
+</programme>
+
+<programme start="20260211214300 -0500" stop="20260211231500 -0500" channel="StudioCanal">
+  <title>La duchesse de Langeais</title>
+  <desc><![CDATA[
+1942 · Drame
+Réalisation : Jacques de Baroncelli
+Avec : Edwige Feuillère, Pierre Richard-Willm
+
+Une duchesse brillante et inaccessible voit sa vie bouleversée par un amour sincère et obstiné.
+]]></desc>
+</programme>
+
+<programme start="20260211231500 -0500" stop="20260212011200 -0500" channel="StudioCanal">
+  <title>Le crabe-tambour</title>
+  <desc><![CDATA[
+1977 · Drame
+Réalisation : Pierre Schoendoerffer
+Avec : Jean Rochefort, Jacques Perrin, Claude Rich
+
+Un officier de marine malade revisite son passé et ses engagements à l’approche de la mort.
+]]></desc>
+</programme>
+
+<programme start="20260212011200 -0500" stop="20260212030000 -0500" channel="StudioCanal">
+  <title>La vie à l’envers</title>
+  <desc><![CDATA[
+1964 · Drame
+Réalisation : Alain Jessua
+Avec : Charles Denner, Anna Gaylor
+
+Un homme se coupe progressivement du monde jusqu’à basculer dans une solitude radicale.
+]]></desc>
+</programme>
 
 </tv>
+
 
 
 
