@@ -18,60 +18,65 @@ Dans la France d’avant-guerre, un vieux peintre reçoit la visite dominicale d
 ]]></desc>
   </programme>
 
-  <programme start="20260207200000 -0500" stop="20260207215700 -0500" channel="StudioCanal">
-    <title>Le crabe tambour</title>
-    <desc><![CDATA[
+  <!-- Le crabe tambour -->
+<programme start="20260207200000 -0500" stop="20260207215700 -0500" channel="StudioCanal">
+  <title>Le crabe tambour</title>
+  <desc><![CDATA[
 1977 • Drame
 Réalisation : Pierre Schoendoerffer
 Avec : Jean Rochefort, Jacques Perrin, Claude Rich
 
 Un officier de marine malade tente de retrouver un ancien compagnon de guerre devenu une figure mythique.
 ]]></desc>
-  </programme>
+</programme>
 
-  <programme start="20260207215700 -0500" stop="20260207231300 -0500" channel="StudioCanal">
-    <title>Les enfants du siècle</title>
-    <desc><![CDATA[
+<!-- Les enfants du siècle -->
+<programme start="20260207215700 -0500" stop="20260208001000 -0500" channel="StudioCanal">
+  <title>Les enfants du siècle</title>
+  <desc><![CDATA[
 1999 • Drame romantique
 Réalisation : Diane Kurys
 Avec : Juliette Binoche, Benoît Magimel
 
-L’histoire passionnée et tourmentée de George Sand et Alfred de Musset dans la France romantique du XIXe siècle.
+L’histoire passionnée de George Sand et Alfred de Musset.
 ]]></desc>
-  </programme>
+</programme>
 
-  <programme start="20260207231300 -0500" stop="20260208001000 -0500" channel="StudioCanal">
-    <title>Le pressentiment</title>
-    <desc><![CDATA[
+<!-- Le pressentiment -->
+<programme start="20260208001000 -0500" stop="20260208015200 -0500" channel="StudioCanal">
+  <title>Le pressentiment</title>
+  <desc><![CDATA[
 1976 • Drame
 Réalisation : Jean-Pierre Mocky
-Avec : Michel Serrault, Michèle Mercier
+Avec : Michel Serrault
 
-Un homme paisible voit sa vie basculer lorsque des événements anodins révèlent des tensions enfouies.
+Un homme décide de quitter son milieu bourgeois pour vivre selon ses propres règles.
 ]]></desc>
-  </programme>
+</programme>
 
-  <programme start="20260208001000 -0500" stop="20260208015200 -0500" channel="StudioCanal">
-    <title>Monsieur Naphtali</title>
-    <desc><![CDATA[
+<!-- Monsieur Naphtali -->
+<programme start="20260208015200 -0500" stop="20260208031700 -0500" channel="StudioCanal">
+  <title>Monsieur Naphtali</title>
+  <desc><![CDATA[
 1938 • Comédie
 Réalisation : Julien Duvivier
-Avec : Harry Baur, Raymond Aimos
+Avec : Harry Baur
 
-Un bourgeois découvre trop tard qu’il a sacrifié sa vie à l’illusion du repos et du confort.
+Un homme réalise trop tard qu’il a gâché sa vie en cherchant le repos.
 ]]></desc>
-  </programme>
+</programme>
 
-  <programme start="20260208015200 -0500" stop="20260208031700 -0500" channel="StudioCanal">
-    <title>L’équipier</title>
-    <desc><![CDATA[
+<!-- L'équipier -->
+<programme start="20260208031700 -0500" stop="20260208064700 -0500" channel="StudioCanal">
+  <title>L’équipier</title>
+  <desc><![CDATA[
 2004 • Drame
 Réalisation : Philippe Lioret
 Avec : Sandrine Bonnaire, Philippe Torreton
 
-Un homme débarque sur une île bretonne pour devenir gardien de phare et bouleverse l’équilibre du couple qui l’accueille.
+Un homme bouleverse la vie d’un couple sur une île bretonne.
 ]]></desc>
-  </programme>
+</programme>
 
   <!-- DIMANCHE 08 FÉVRIER 2026 -->
 
@@ -243,3 +248,4 @@ Lors d’un incendie spectaculaire, plusieurs destins se croisent dans une cours
   </programme>
 
 </tv>
+
