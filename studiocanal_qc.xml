@@ -4,7 +4,183 @@
   <channel id="studiocanal.qc">
     <display-name>StudioCanal Québec</display-name>
   </channel>
- <!-- À PARTIR D’ICI : +24h APPLIQUÉ -->
+
+  <!-- Dimanche 01 février 2026 -->
+  <programme start="20260201133600 -0500" stop="20260201150400 -0500" channel="studiocanal.qc">
+    <title lang="fr">R.I.F. (Recherches dans l'Intérêt des Familles)</title>
+  </programme>
+  <programme start="20260201150400 -0500" stop="20260201164200 -0500" channel="studiocanal.qc">
+    <title lang="fr">Marius et Jeannette</title>
+  </programme>
+  <programme start="20260201164200 -0500" stop="20260201180500 -0500" channel="studiocanal.qc">
+    <title lang="fr">Tenue de soirée</title>
+  </programme>
+  <programme start="20260201180500 -0500" stop="20260201200000 -0500" channel="studiocanal.qc">
+    <title lang="fr">Merci la vie</title>
+  </programme>
+  <programme start="20260201200000 -0500" stop="20260201221100 -0500" channel="studiocanal.qc">
+    <title lang="fr">Le grand carnaval</title>
+  </programme>
+  <programme start="20260201221100 -0500" stop="20260201234500 -0500" channel="studiocanal.qc">
+    <title lang="fr">Docteur Françoise Gailland</title>
+  </programme>
+  <programme start="20260201234500 -0500" stop="20260202010400 -0500" channel="studiocanal.qc">
+    <title lang="fr">Le crime de monsieur Lange</title>
+  </programme>
+
+  <!-- Lundi 02 février 2026 -->
+  <programme start="20260202010400 -0500" stop="20260202024400 -0500" channel="studiocanal.qc">
+    <title lang="fr">Le troisième homme</title>
+  </programme>
+  <programme start="20260202024400 -0500" stop="20260202070500 -0500" channel="studiocanal.qc">
+    <title lang="fr">Hors d'ondes</title>
+  </programme>
+  <programme start="20260202070500 -0500" stop="20260202083300 -0500" channel="studiocanal.qc">
+    <title lang="fr">R.I.F. (Recherches dans l'Intérêt des Familles)</title>
+  </programme>
+  <programme start="20260202083300 -0500" stop="20260202104400 -0500" channel="studiocanal.qc">
+    <title lang="fr">Le grand carnaval</title>
+  </programme>
+  <programme start="20260202104400 -0500" stop="20260202123400 -0500" channel="studiocanal.qc">
+    <title lang="fr">Le Roi</title>
+  </programme>
+  <programme start="20260202123400 -0500" stop="20260202140300 -0500" channel="studiocanal.qc">
+    <title lang="fr">Le traqué</title>
+  </programme>
+  <programme start="20260202140300 -0500" stop="20260202154500 -0500" channel="studiocanal.qc">
+    <title lang="fr">Le pressentiment</title>
+  </programme>
+  <programme start="20260202154500 -0500" stop="20260202172700 -0500" channel="studiocanal.qc">
+    <title lang="fr">Le chanteur de Mexico</title>
+  </programme>
+  <programme start="20260202172700 -0500" stop="20260202190800 -0500" channel="studiocanal.qc">
+    <title lang="fr">Le troisième homme</title>
+  </programme>
+  <programme start="20260202190800 -0500" stop="20260202204000 -0500" channel="studiocanal.qc">
+    <title lang="fr">Marcellino</title>
+  </programme>
+  <programme start="20260202204000 -0500" stop="20260202222400 -0500" channel="studiocanal.qc">
+    <title lang="fr">Elles n'oublient jamais</title>
+  </programme>
+  <programme start="20260202222400 -0500" stop="20260203000700 -0500" channel="studiocanal.qc">
+    <title lang="fr">On ne meurt que deux fois</title>
+  </programme>
+
+  <!-- Mardi 03 février 2026 -->
+  <programme start="20260203000700 -0500" stop="20260203013100 -0500" channel="studiocanal.qc">
+    <title lang="fr">Les bronzés font du ski</title>
+  </programme>
+  <programme start="20260203013100 -0500" stop="20260203030100 -0500" channel="studiocanal.qc">
+    <title lang="fr">Un dimanche à la campagne</title>
+  </programme>
+  <programme start="20260203030100 -0500" stop="20260203070200 -0500" channel="studiocanal.qc">
+    <title lang="fr">Hors d'ondes</title>
+  </programme>
+  <programme start="20260203070200 -0500" stop="20260203083400 -0500" channel="studiocanal.qc">
+    <title lang="fr">Marcellino</title>
+  </programme>
+  <programme start="20260203083400 -0500" stop="20260203101800 -0500" channel="studiocanal.qc">
+    <title lang="fr">Elles n'oublient jamais</title>
+  </programme>
+  <programme start="20260203101800 -0500" stop="20260203123100 -0500" channel="studiocanal.qc">
+    <title lang="fr">Les enfants du siècle</title>
+  </programme>
+  <programme start="20260203123100 -0500" stop="20260203140200 -0500" channel="studiocanal.qc">
+    <title lang="fr">Hôtel des Amériques</title>
+  </programme>
+  <programme start="20260203140200 -0500" stop="20260203153400 -0500" channel="studiocanal.qc">
+    <title lang="fr">Coplan FX 18 Casse Tout</title>
+  </programme>
+  <programme start="20260203153400 -0500" stop="20260203172700 -0500" channel="studiocanal.qc">
+    <title lang="fr">Gervaise</title>
+  </programme>
+  <programme start="20260203172700 -0500" stop="20260203184500 -0500" channel="studiocanal.qc">
+    <title lang="fr">Le crime de monsieur Lange</title>
+  </programme>
+  <programme start="20260203184500 -0500" stop="20260203200000 -0500" channel="studiocanal.qc">
+    <title lang="fr">Secret Lives</title>
+  </programme>
+  <programme start="20260203200000 -0500" stop="20260203213100 -0500" channel="studiocanal.qc">
+    <title lang="fr">Au petit Marguery</title>
+  </programme>
+  <programme start="20260203213100 -0500" stop="20260203231000 -0500" channel="studiocanal.qc">
+    <title lang="fr">Marius et Jeannette</title>
+  </programme>
+  <programme start="20260203231000 -0500" stop="20260204004900 -0500" channel="studiocanal.qc">
+    <title lang="fr">Triple agent</title>
+  </programme>
+
+  <!-- Mercredi 04 février 2026 -->
+  <programme start="20260204004900 -0500" stop="20260204023000 -0500" channel="studiocanal.qc">
+    <title lang="fr">Le chanteur de Mexico</title>
+  </programme>
+  <programme start="20260204023000 -0500" stop="20260204050500 -0500" channel="studiocanal.qc">
+    <title lang="fr">Justinien Trouvé ou le bâtard de Dieu</title>
+  </programme>
+  <programme start="20260204050500 -0500" stop="20260204074400 -0500" channel="studiocanal.qc">
+    <title lang="fr">Hors d'ondes</title>
+  </programme>
+  <programme start="20260204074400 -0500" stop="20260204090900 -0500" channel="studiocanal.qc">
+    <title lang="fr">Les bronzés font du ski</title>
+  </programme>
+  <programme start="20260204090900 -0500" stop="20260204102700 -0500" channel="studiocanal.qc">
+    <title lang="fr">Le crime de monsieur Lange</title>
+  </programme>
+  <programme start="20260204102700 -0500" stop="20260204115900 -0500" channel="studiocanal.qc">
+    <title lang="fr">Marcellino</title>
+  </programme>
+  <programme start="20260204115900 -0500" stop="20260204134200 -0500" channel="studiocanal.qc">
+    <title lang="fr">Elles n'oublient jamais</title>
+  </programme>
+  <programme start="20260204134200 -0500" stop="20260204155600 -0500" channel="studiocanal.qc">
+    <title lang="fr">Les enfants du siècle</title>
+  </programme>
+  <programme start="20260204155600 -0500" stop="20260204180800 -0500" channel="studiocanal.qc">
+    <title lang="fr">Aux sources du Nil</title>
+  </programme>
+  <programme start="20260204180800 -0500" stop="20260204200000 -0500" channel="studiocanal.qc">
+    <title lang="fr">Triple agent</title>
+  </programme>
+  <programme start="20260204200000 -0500" stop="20260204215300 -0500" channel="studiocanal.qc">
+    <title lang="fr">La duchesse de Langeais</title>
+  </programme>
+  <programme start="20260204215300 -0500" stop="20260204230200 -0500" channel="studiocanal.qc">
+    <title lang="fr">Le traqué</title>
+  </programme>
+  <programme start="20260204230200 -0500" stop="20260205015300 -0500" channel="studiocanal.qc">
+    <title lang="fr">Le regard d'Ulysse</title>
+  </programme>
+
+  <!-- Jeudi 05 février 2026 -->
+  <programme start="20260205015300 -0500" stop="20260205034100 -0500" channel="studiocanal.qc">
+    <title lang="fr">Le cousin</title>
+  </programme>
+  <programme start="20260205034100 -0500" stop="20260205073700 -0500" channel="studiocanal.qc">
+    <title lang="fr">Hors d'ondes</title>
+  </programme>
+  <programme start="20260205073700 -0500" stop="20260205091800 -0500" channel="studiocanal.qc">
+    <title lang="fr">Comédie d'été</title>
+  </programme>
+  <programme start="20260205091800 -0500" stop="20260205110700 -0500" channel="studiocanal.qc">
+    <title lang="fr">Le cousin</title>
+  </programme>
+  <programme start="20260205110700 -0500" stop="20260205124900 -0500" channel="studiocanal.qc">
+    <title lang="fr">Le troisième homme</title>
+  </programme>
+  <programme start="20260205124900 -0500" stop="20260205142400 -0500" channel="studiocanal.qc">
+    <title lang="fr">Docteur Françoise Gailland</title>
+  </programme>
+  <programme start="20260205142400 -0500" stop="20260205155600 -0500" channel="studiocanal.qc">
+    <title lang="fr">La duchesse de Langeais</title>
+  </programme>
+  <programme start="20260205155600 -0500" stop="20260205172100 -0500" channel="studiocanal.qc">
+    <title lang="fr">Les bronzés font du ski</title>
+  </programme>
+  <programme start="20260205172100 -0500" stop="20260205180000 -0500" channel="studiocanal.qc">
+    <title lang="fr">Justinien Trouvé ou le bâtard de Dieu</title>
+  </programme>
+
+  <!-- À PARTIR D’ICI : +24h APPLIQUÉ -->
 
   <!-- Vendredi 06 février 2026 (soir corrigé) -->
   <programme start="20260207200000 -0500" stop="20260207212100 -0500" channel="studiocanal.qc">
