@@ -178,74 +178,154 @@ Avec : Maria Schell, François Périer
 Une ouvrière parisienne lutte pour préserver sa dignité face à la misère et à l’alcoolisme.
 ]]></desc>
   </programme>
+  <programme start="20260208211900 -0500" stop="20260208231300 -0500" channel="StudioCanal">
+  <title>Elles n'oublient jamais</title>
+  <desc><![CDATA[
+1975 • Drame
+Réalisation : Pierre Forget
+Avec : Claude Jade, Michel Bouquet
 
-  <!-- LUNDI 09 FÉVRIER 2026 -->
+Écartée de son époux et meurtrie, une femme se débat entre amour, mensonge et désir.
+]]></desc>
+</programme>
 
-  <programme start="20260209081700 -0500" stop="20260209100000 -0500" channel="StudioCanal">
-    <title>On ne meurt que deux fois</title>
-    <desc><![CDATA[
+<programme start="20260208231300 -0500" stop="20260209004400 -0500" channel="StudioCanal">
+  <title>Aux sources du Nil</title>
+  <desc><![CDATA[
+1959 • Aventure
+Réalisation : John Guillermin
+Avec : Robert Taylor, Robert Morley
+
+Une expédition britannique remonte le Nil à la recherche de ses origines mythiques.
+]]></desc>
+</programme>
+
+<programme start="20260209004400 -0500" stop="20260209050100 -0500" channel="StudioCanal">
+  <title>Le Traqué</title>
+  <desc><![CDATA[
+1984 • Thriller
+Réalisation : Jacques Deray
+Avec : Alain Delon, Michel Serrault
+
+Un homme traqué tente d’échapper à un piège policier implacable.
+]]></desc>
+</programme>
+
+
+ <!-- LUNDI 09 FÉVRIER 2026 -->
+
+<programme start="20260209081700 -0500" stop="20260209100000 -0500" channel="StudioCanal">
+  <title>On ne meurt que deux fois</title>
+  <desc><![CDATA[
 1985 • Policier
 Réalisation : Jacques Deray
 Avec : Michel Serrault, Charlotte Rampling
 
-Une enquête complexe révèle des secrets enfouis et des destins croisés.
+Au cours de ses investigations, un policier se laisse séduire par une femme énigmatique, soupçonnée d’être l’auteure du meurtre de son amant.
 ]]></desc>
-  </programme>
+</programme>
 
-  <programme start="20260209100000 -0500" stop="20260209125100 -0500" channel="StudioCanal">
-    <title>Les infortunes de la beauté</title>
-    <desc><![CDATA[
+<programme start="20260209100000 -0500" stop="20260209111900 -0500" channel="StudioCanal">
+  <title>Les infortunes de la beauté</title>
+  <desc><![CDATA[
 1999 • Comédie dramatique
 Réalisation : John Lvoff
 Avec : Arielle Dombasle, Maria de Medeiros
 
-Deux amies lancent un pari pour prouver que la femme idéale peut exister.
+Deux amies se lancent un pari audacieux : convaincre un homme que la femme parfaite peut exister.
 ]]></desc>
-  </programme>
+</programme>
 
-  <programme start="20260209125100 -0500" stop="20260209150200 -0500" channel="StudioCanal">
-    <title>Le grand carnaval</title>
-    <desc><![CDATA[
+<programme start="20260209111900 -0500" stop="20260209125100 -0500" channel="StudioCanal">
+  <title>Un dimanche à la campagne</title>
+  <desc><![CDATA[
+1984 • Drame
+Réalisation : Bertrand Tavernier
+Avec : Louis Ducreux, Sabine Azéma
+
+Un peintre vieillissant reçoit la visite de ses enfants le temps d’un dimanche chargé d’émotions et de souvenirs.
+]]></desc>
+</programme>
+
+<programme start="20260209125100 -0500" stop="20260209150200 -0500" channel="StudioCanal">
+  <title>Le grand carnaval</title>
+  <desc><![CDATA[
 1983 • Comédie
 Réalisation : Alexandre Arcady
-Avec : Jean-Claude Brialy, Victor Lanoux
+Avec : Roger Hanin, Patrick Bruel
 
-Deux hommes cherchent un trésor en exploitant la naïveté d’un village algérien.
+En Algérie, deux hommes tentent de conquérir une femme, mais l’amour menace de détruire leur belle amitié.
 ]]></desc>
-  </programme>
+</programme>
 
-  <programme start="20260209150200 -0500" stop="20260209163000 -0500" channel="StudioCanal">
-    <title>Hôtel des Amériques</title>
-    <desc><![CDATA[
-1981 • Drame romantique
+<programme start="20260209150200 -0500" stop="20260209163300 -0500" channel="StudioCanal">
+  <title>Hôtel des Amériques</title>
+  <desc><![CDATA[
+1981 • Drame
 Réalisation : André Téchiné
 Avec : Catherine Deneuve, Patrick Dewaere
 
-À Biarritz, une femme médecin vit une passion douloureuse avec un homme blessé par la vie.
+À Biarritz, la passion douloureuse entre une femme libre et un homme meurtri par la vie.
 ]]></desc>
-  </programme>
+</programme>
 
-  <programme start="20260209183000 -0500" stop="20260209200000 -0500" channel="StudioCanal">
-    <title>Le traqué</title>
-    <desc><![CDATA[
+<programme start="20260209163300 -0500" stop="20260209183000 -0500" channel="StudioCanal">
+  <title>Le crabe-tambour</title>
+  <desc><![CDATA[
+1977 • Drame
+Réalisation : Pierre Schoendoerffer
+Avec : Jean Rochefort, Jacques Dufilho
+
+Un officier de marine malade cherche à retrouver un ancien camarade, figure mythique de l’honneur perdu.
+]]></desc>
+</programme>
+
+<!-- APRÈS LE CRABE-TAMBOUR -->
+
+<programme start="20260209183000 -0500" stop="20260209200000 -0500" channel="StudioCanal">
+  <title>Le traqué</title>
+  <desc><![CDATA[
 1985 • Policier
-Réalisation : José Giovanni
-Avec : Jean-Paul Belmondo, Michel Constantin
+Réalisation : Jacques Deray
+Avec : Jean-Louis Trintignant, Marlène Jobert
 
-Un criminel en fuite tente d’organiser son évasion alors qu’il est traqué sans relâche.
+Un truand doit être jugé pour ses crimes, mais décide de s’échapper et retrouve bientôt son amie qui accepte de l’aider à organiser sa fuite.
 ]]></desc>
-  </programme>
+</programme>
 
-  <programme start="20260209200000 -0500" stop="20260209212300 -0500" channel="StudioCanal">
-    <title>En plein feu</title>
-    <desc><![CDATA[
-1988 • Drame
-Réalisation : Pierre Jolivet
-Avec : Jean-Hugues Anglade, Sophie Marceau
+<programme start="20260209200000 -0500" stop="20260210004400 -0500" channel="StudioCanal">
+  <title>En plein feu</title>
+  <desc><![CDATA[
+1988 • Action
+Réalisation : Jean-Marie Pallardy
+Avec : Richard Anconina, Clément Michu
 
-Lors d’un incendie spectaculaire, plusieurs destins se croisent dans une course contre la mort.
+Lorsqu’un incendie incontrôlable éclate, plusieurs individus se retrouvent coincés dans leur véhicule, cernés par les flammes.
 ]]></desc>
-  </programme>
+</programme>
+
+<programme start="20260210004400 -0500" stop="20260210050100 -0500" channel="StudioCanal">
+  <title>Aux sources du Nil</title>
+  <desc><![CDATA[
+1981 • Aventure
+Réalisation : Bertrand Tavernier
+Avec : Patrick Dewaere, Jean-François Balmer
+
+À la fin du XIXe siècle, deux explorateurs britanniques remontent le Nil pour découvrir ses sources dans une région encore très mystérieuse.
+]]></desc>
+</programme>
+
+<programme start="20260210050100 -0500" stop="20260210081700 -0500" channel="StudioCanal">
+  <title>Le traqué</title>
+  <desc><![CDATA[
+1985 • Policier
+Réalisation : Jacques Deray
+Avec : Jean-Louis Trintignant, Marlène Jobert
+
+Reprise nocturne : un homme traqué tente une dernière fuite face à la justice et à ses propres erreurs.
+]]></desc>
+</programme>
 
 </tv>
+
 
