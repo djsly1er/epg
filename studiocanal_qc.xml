@@ -189,25 +189,27 @@ Avec : Claude Jade, Michel Bouquet
 ]]></desc>
 </programme>
 
-<programme start="20260208231300 -0500" stop="20260209004400 -0500" channel="StudioCanal">
-  <title>Aux sources du Nil</title>
-  <desc><![CDATA[
-1959 • Aventure
-Réalisation : John Guillermin
-Avec : Robert Taylor, Robert Morley
+<!-- DIMANCHE 08 FÉVRIER 2026 – NUIT -->
 
-Une expédition britannique remonte le Nil à la recherche de ses origines mythiques.
+<programme start="20260209005700 -0500" stop="20260209052600 -0500" channel="StudioCanal">
+  <title>Hôtel des Amériques</title>
+  <desc><![CDATA[
+1981 • Drame
+Réalisation : André Téchiné
+Avec : Catherine Deneuve, Patrick Dewaere
+
+À Biarritz, la passion douloureuse entre une femme libre et un homme meurtri par la vie.
 ]]></desc>
 </programme>
 
-<programme start="20260209004400 -0500" stop="20260209050100 -0500" channel="StudioCanal">
-  <title>Le Traqué</title>
+<programme start="20260209052600 -0500" stop="20260209081700 -0500" channel="StudioCanal">
+  <title>Le regard d'Ulysse</title>
   <desc><![CDATA[
-1984 • Thriller
-Réalisation : Jacques Deray
-Avec : Alain Delon, Michel Serrault
+1995 • Drame
+Réalisation : Theo Angelopoulos
+Avec : Harvey Keitel, Maia Morgenstern
 
-Un homme traqué tente d’échapper à un piège policier implacable.
+Un cinéaste entreprend un voyage à travers les Balkans à la recherche des premières images du cinéma.
 ]]></desc>
 </programme>
 
@@ -327,5 +329,6 @@ Reprise nocturne : un homme traqué tente une dernière fuite face à la justice
 </programme>
 
 </tv>
+
 
 
