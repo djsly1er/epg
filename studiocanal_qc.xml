@@ -1299,7 +1299,7 @@ Douze portraits de femmes confrontées aux normes et aux contraintes d’une soc
 ]]></desc>
 </programme>
 
-<programme start="20260217002600 -0500" stop="20260217052500 -0500" channel="StudioCanal">
+<programme start="20260217002600 -0500" stop="20260217022500 -0500" channel="StudioCanal">
   <title>Un dimanche à la campagne</title>
   <desc><![CDATA[
 1984 · Drame
@@ -1309,6 +1309,9 @@ Avec : Louis Ducreux, Michel Aumont, Sabine Azéma
 Un vieux peintre reçoit la visite dominicale de ses enfants, mais le dimanche va se transformer en un véritable drame.
 ]]></desc>
 </programme>
+    <programme start="20260217022500 -0500" stop="20260217065700 -0500" channel="StudioCanal">
+  <title>Hors d'ondes</title>
+  </programme>
 <!-- MARDI 17 FÉVRIER 2026 -->
 
 <programme start="20260217065700 -0500" stop="20260217083600 -0500" channel="StudioCanal">
@@ -1333,7 +1336,7 @@ Les mésaventures d’un chanteur amateur qui accepte de remplacer une vedette v
 ]]></desc>
 </programme>
 
-<programme start="20260217101700 -0500" stop="20260217105000 -0500" channel="StudioCanal">
+<programme start="20260217101700 -0500" stop="20260217115000 -0500" channel="StudioCanal">
   <title>La duchesse de Langeais</title>
   <desc><![CDATA[
 1942 · Drame
@@ -1456,6 +1459,7 @@ Un vieux peintre reçoit la visite dominicale de ses enfants, mais le dimanche v
 
 
 </tv>
+
 
 
 
