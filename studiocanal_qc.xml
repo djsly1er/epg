@@ -1,246 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="StudioCanal HD Custom EPG">
+<tv generator-info-name="StudioCanal TEST">
 
-<channel id="StudioCanal HD">
-  <display-name>StudioCanal HD</display-name>
-</channel>
+  <channel id="studiocanal">
+    <display-name>StudioCanal HD</display-name>
+  </channel>
 
-<programme start="20260207001900 -0500" stop="20260207023900 -0500" channel="StudioCanal HD">
-  <title>Les infortunes de la beauté</title>
-  <desc><![CDATA[
-1999 • Comédie
-Réalisation : John Lvoff
-Avec : Arielle Dombasle, Maria de Medeiros, Thibault de Montalembert
-Deux amies se lancent un pari afin de prouver que la femme parfaite peut exister.
+  <programme start="20260207071000 -0500" stop="20260207083200 -0500" channel="studiocanal">
+    <title>Tenue de soirée</title>
+    <desc><![CDATA[
+Deux êtres en quête d'amour s'enfoncent dans la déchéance et la fausseté, entraînés par un troisième larron dans une série de cambriolages et d'embrouilles.
 ]]></desc>
-</programme>
+  </programme>
 
-<programme start="20260207023900 -0500" stop="20260207041900 -0500" channel="StudioCanal HD">
-  <title>Le chanteur de Mexico</title>
-  <desc><![CDATA[
-1956 • Comédie musicale
-Réalisation : Richard Pottier
-Avec : Luis Mariano, Annie Cordy, Bourvil
-Un chanteur amateur remplace une vedette dont il est le sosie afin de monter une opérette au Mexique.
+  <programme start="20260207083200 -0500" stop="20260207102700 -0500" channel="studiocanal">
+    <title>Merci la vie</title>
+    <desc><![CDATA[
+Une lycéenne un peu perdue et une jeune fille atteinte du sida se lient d'amitié et affrontent ensemble une succession d'épreuves.
 ]]></desc>
-</programme>
+  </programme>
 
-<programme start="20260207041900 -0500" stop="20260207063200 -0500" channel="StudioCanal HD">
-  <title>Hors d'ondes</title>
-</programme>
-
-<programme start="20260207063200 -0500" stop="20260207090900 -0500" channel="StudioCanal HD">
-  <title>Édith et Marcel</title>
-  <desc><![CDATA[
-1983 • Drame
-Réalisation : Claude Lelouch
-Avec : Evelyne Bouix
-La relation passionnée entre Édith Piaf et le boxeur Marcel Cerdan.
+  <programme start="20260207102700 -0500" stop="20260207123900 -0500" channel="studiocanal">
+    <title>Aux sources du Nil</title>
+    <desc><![CDATA[
+À la fin du XIXe siècle, deux explorateurs britanniques remontent le Nil à la recherche de ses sources.
 ]]></desc>
-</programme>
+  </programme>
 
-<programme start="20260207090900 -0500" stop="20260207105000 -0500" channel="StudioCanal HD">
-  <title>Voleur de vie</title>
-  <desc><![CDATA[
-1998 • Drame
-Réalisation : Yves Angelo
-Avec : Daniel Auteuil
-Un photographe instable franchit la frontière entre observation et obsession.
+  <programme start="20260207123900 -0500" stop="20260207141000 -0500" channel="studiocanal">
+    <title>Au petit Marguery</title>
+    <desc><![CDATA[
+De vieux amis se retrouvent pour une soirée organisée à l'occasion de la fermeture d'un restaurant.
 ]]></desc>
-</programme>
+  </programme>
 
-<programme start="20260207105000 -0500" stop="20260207123300 -0500" channel="StudioCanal HD">
-  <title>Moi la femme</title>
-  <desc><![CDATA[
-1971 • Comédie
-Réalisation : Dino Risi
-Douze sketches dressant des portraits de femmes confrontées au machisme.
+  <programme start="20260207141000 -0500" stop="20260207155100 -0500" channel="studiocanal">
+    <title>Comédie d'été</title>
+    <desc><![CDATA[
+À la veille de la Première Guerre mondiale, un jeune homme s'éprend d'une amie récemment divorcée de sa mère.
 ]]></desc>
-</programme>
+  </programme>
 
-<programme start="20260207123300 -0500" stop="20260207140200 -0500" channel="StudioCanal HD">
-  <title>Josette</title>
-  <desc><![CDATA[
-1936 • Comédie
-Réalisation : Allan Dwan
-Un jeune homme reçoit une aide providentielle pour devenir chanteur.
+  <programme start="20260207155100 -0500" stop="20260207182800 -0500" channel="studiocanal">
+    <title>Édith et Marcel</title>
+    <desc><![CDATA[
+L'histoire d'amour passionnée entre la chanteuse Édith Piaf et le boxeur Marcel Cerdan.
 ]]></desc>
-</programme>
+  </programme>
 
-<programme start="20260207140200 -0500" stop="20260207161500 -0500" channel="StudioCanal HD">
-  <title>Les enfants du siècle</title>
-</programme>
-
-<programme start="20260207161500 -0500" stop="20260207174800 -0500" channel="StudioCanal HD">
-  <title>La duchesse de Langeais</title>
-</programme>
-
-<programme start="20260207174800 -0500" stop="20260207200000 -0500" channel="StudioCanal HD">
-  <title>Aux sources du Nil</title>
-  <desc><![CDATA[
-1989 • Aventure
-Réalisation : Bob Rafelson
-Deux explorateurs rivaux cherchent les sources du Nil au XIXe siècle.
+  <programme start="20260207182800 -0500" stop="20260207200000 -0500" channel="studiocanal">
+    <title>Un dimanche à la campagne</title>
+    <desc><![CDATA[
+Dans sa maison de campagne, un vieux peintre reçoit la visite dominicale de ses enfants.
 ]]></desc>
-</programme>
+  </programme>
 
-<programme start="20260207200000 -0500" stop="20260207211900 -0500" channel="StudioCanal HD">
-  <title>La sentence</title>
-  <desc><![CDATA[
-1959 • Drame
-Cinq résistants français condamnés à mort attendent leur exécution.
+  <programme start="20260207200000 -0500" stop="20260207215700 -0500" channel="studiocanal">
+    <title>Le crabe-tambour</title>
+    <desc><![CDATA[
+Un officier de marine malade médite sur son passé et ses engagements.
 ]]></desc>
-</programme>
+  </programme>
 
-<programme start="20260207211900 -0500" stop="20260207225000 -0500" channel="StudioCanal HD">
-  <title>Coplan FX 18 Casse Tout</title>
-</programme>
-
-<programme start="20260207225000 -0500" stop="20260208001500 -0500" channel="StudioCanal HD">
-  <title>Les bronzés font du ski</title>
-</programme>
-<programme start="20260208001500 -0500" stop="20260209005700 -0500" channel="StudioCanal HD">
-  <title>Le grand carnaval</title>
-</programme>
-
-<programme start="20260209005700 -0500" stop="20260209022700 -0500" channel="StudioCanal HD">
-  <title>Hôtel des Amériques</title>
-</programme>
-
-<programme start="20260209022700 -0500" stop="20260209052600 -0500" channel="StudioCanal HD">
-  <title>Hors d'ondes</title>
-</programme>
-
-<programme start="20260209052600 -0500" stop="20260209081700 -0500" channel="StudioCanal HD">
-  <title>Le regard d'Ulysse</title>
-</programme>
-
-<programme start="20260209081700 -0500" stop="20260209100000 -0500" channel="StudioCanal HD">
-  <title>On ne meurt que deux fois</title>
-</programme>
-
-<programme start="20260209100000 -0500" stop="20260209111900 -0500" channel="StudioCanal HD">
-  <title>Les infortunes de la beauté</title>
-</programme>
-
-<programme start="20260209111900 -0500" stop="20260209125100 -0500" channel="StudioCanal HD">
-  <title>Un dimanche à la campagne</title>
-</programme>
-
-<programme start="20260209125100 -0500" stop="20260209150200 -0500" channel="StudioCanal HD">
-  <title>Le grand carnaval</title>
-</programme>
-
-<programme start="20260209150200 -0500" stop="20260209163300 -0500" channel="StudioCanal HD">
-  <title>Hôtel des Amériques</title>
-</programme>
-
-<programme start="20260209163300 -0500" stop="20260209183000 -0500" channel="StudioCanal HD">
-  <title>Le crabe tambour</title>
-</programme>
-
-<programme start="20260209183000 -0500" stop="20260209200000 -0500" channel="StudioCanal HD">
-  <title>Le traqué</title>
-</programme>
-
-<programme start="20260209200000 -0500" stop="20260209212300 -0500" channel="StudioCanal HD">
-  <title>En plein feu</title>
-</programme>
-
-<programme start="20260209212300 -0500" stop="20260209231200 -0500" channel="StudioCanal HD">
-  <title>Le cousin</title>
-</programme>
-
-<programme start="20260209231200 -0500" stop="20260210004400 -0500" channel="StudioCanal HD">
-  <title>Au petit Marguery</title>
-</programme>
-<programme start="20260210004400 -0500" stop="20260210025400 -0500" channel="StudioCanal HD">
-  <title>Aux sources du Nil</title>
-</programme>
-
-<programme start="20260210025400 -0500" stop="20260211010000 -0500" channel="StudioCanal HD">
-  <title>Hors d'ondes</title>
-</programme>
-
-<programme start="20260211010000 -0500" stop="20260211023000 -0500" channel="StudioCanal HD">
-  <title>Marcellino</title>
-</programme>
-
-<programme start="20260211023000 -0500" stop="20260211131200 -0500" channel="StudioCanal HD">
-  <title>Hors d'ondes</title>
-</programme>
-
-<programme start="20260211131200 -0500" stop="20260211142600 -0500" channel="StudioCanal HD">
-  <title>Secret Lives</title>
-</programme>
-
-<programme start="20260211142600 -0500" stop="20260211155000 -0500" channel="StudioCanal HD">
-  <title>Les bronzés font du ski</title>
-</programme>
-
-<programme start="20260211155000 -0500" stop="20260211170800 -0500" channel="StudioCanal HD">
-  <title>Les infortunes de la beauté</title>
-</programme>
-
-<programme start="20260211170800 -0500" stop="20260211182800 -0500" channel="StudioCanal HD">
-  <title>Marcellino</title>
-</programme>
-
-<programme start="20260211182800 -0500" stop="20260211200000 -0500" channel="StudioCanal HD">
-  <title>Le troisième homme</title>
-</programme>
-
-<programme start="20260211200000 -0500" stop="20260211212800 -0500" channel="StudioCanal HD">
-  <title>Ki lo sa ?</title>
-</programme>
-
-<programme start="20260211212800 -0500" stop="20260213013800 -0500" channel="StudioCanal HD">
-  <title>Justinien Trouvé ou le bâtard de Dieu</title>
-</programme>
-
-<programme start="20260213113800 -0500" stop="20260213131900 -0500" channel="StudioCanal HD">
-  <title>Numéro 17</title>
-</programme>
-
-<programme start="20260213131900 -0500" stop="20260215170900 -0500" channel="StudioCanal HD">
-  <title>Hors d'ondes</title>
-</programme>
-
-<programme start="20260215170900 -0500" stop="20260215183100 -0500" channel="StudioCanal HD">
-  <title>Cette sacrée gamine</title>
-</programme>
-
-<programme start="20260215183100 -0500" stop="20260215200000 -0500" channel="StudioCanal HD">
-  <title>Hors d'ondes</title>
-</programme>
-
-<programme start="20260215200000 -0500" stop="20260215213800 -0500" channel="StudioCanal HD">
-  <title>Les Parisiennes</title>
-</programme>
-
-<programme start="20260215213800 -0500" stop="20260216170900 -0500" channel="StudioCanal HD">
-  <title>Hors d'ondes</title>
-</programme>
-
-<programme start="20260216170900 -0500" stop="20260216182800 -0500" channel="StudioCanal HD">
-  <title>La sentence</title>
-</programme>
-
-<programme start="20260216182800 -0500" stop="20260216200000 -0500" channel="StudioCanal HD">
-  <title>Hors d'ondes</title>
-</programme>
-
-<programme start="20260216200000 -0500" stop="20260216213900 -0500" channel="StudioCanal HD">
-  <title>Comme un boomerang</title>
-</programme>
-
-<programme start="20260216213900 -0500" stop="20260216225700 -0500" channel="StudioCanal HD">
-  <title>Le crime de monsieur Lange</title>
-</programme>
-
-<programme start="20260216225700 -0500" stop="20260217004200 -0500" channel="StudioCanal HD">
-  <title>Josette</title>
-</programme>
+  <programme start="20260207215700 -0500" stop="20260208001000 -0500" channel="studiocanal">
+    <title>Les enfants du siècle</title>
+    <desc><![CDATA[
+Les amours tourmentées de George Sand et Alfred de Musset dans les années 1830.
+]]></desc>
+  </programme>
 
 </tv>
