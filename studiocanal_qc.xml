@@ -1866,7 +1866,7 @@ Quatre femmes face à l’amour, la fidélité, la tromperie et la solitude : qu
 ]]></desc>
 </programme>
 
-<programme start="20260221055000 -0500" stop="20260221062900 -0500" channel="StudioCanal">
+<programme start="20260221055000 -0500" stop="20260221072300 -0500" channel="StudioCanal">
   <title>La vie à l'envers</title>
   <desc><![CDATA[
 1964 · Drame
@@ -1997,13 +1997,20 @@ Deux amies se lancent un pari et remuent ciel et terre pour dénicher la femme i
 ]]></desc>
 </programme>
 
-<programme start="20260222015400 -0500" stop="20260222015400 -0500" channel="StudioCanal">
+<programme start="20260222015400 -0500" stop="20260222035400 -0500" channel="StudioCanal">
   <title>Le regard d'Ulysse</title>
   <desc><![CDATA[
 Année / réalisation / acteurs : (non indiqués sur tes captures)
 Alors que la guerre fait rage en Bosnie-Herzégovine, un cinéaste américain se lance à la recherche des premiers films tournés dans les Balkans.
 ]]></desc>
 </programme>
+  <programme start="20260222035400 -0500" stop="20260222070500 -0500" channel="StudioCanal">
+  <title>HORS D’ONDE</title>
+  <desc><![CDATA[
+Hors d’onde.
+]]></desc>
+</programme>
+
 
 <!-- IMPORTANT: Mets ici le STOP EXACT = START du programme suivant après 01:54 -->
 <!-- 🔵 DIMANCHE 22 FÉVRIER 2026 🔵 -->
@@ -2136,6 +2143,7 @@ Une jeune duchesse, aussi belle que brillante, aime séduire les nombreux préte
 
 
 </tv>
+
 
 
 
