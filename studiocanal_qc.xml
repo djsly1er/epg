@@ -1896,7 +1896,7 @@ Une jeune duchesse, aussi belle que brillante, aime séduire les nombreux préte
 Réalisation : Michel Boisrond
 Avec : Brigitte Bardot, Jean Bretonnière
 
-Un chanteur de charme est séduit par une collégienne ingénue et délurée, chargée de surveiller étroitement.
+Un chanteur de charme est séduit par une collégienne ingénue et délurée, chargée de le surveiller étroitement.
 ]]></desc>
 </programme>
 
@@ -1923,30 +1923,106 @@ La vie déprimante d’un chauffeur de taxi, réduite à son travail et à ses r
 </programme>
 
 <programme start="20260221135000 -0500" stop="20260221151800 -0500" channel="StudioCanal">
-<!-- 🔵 DIMANCHE 22 FÉVRIER 2026 🔵 -->
-
-<programme start="20260221151800-0500" stop="20260222083500 -0500" channel="StudioCanal">
-  <title>JE SUIS TIMIDE, MAIS JE ME SOIGNE</title>
+  <title>Je suis timide, mais je me soigne</title>
   <desc><![CDATA[
 1978 · Comédie
 Réalisation : Pierre Richard
 Avec : Pierre Richard, Jane Birkin, Michel Aumont
 
-Pour les beaux yeux d'une jolie femme qu'il croit très riche, un jeune homme tente, avec l'aide de son psychologue, de vaincre sa timidité maladive..
+Pour les beaux yeux d'une jolie femme qu'il croit très riche, un jeune homme tente, avec l'aide de son psychologue, de vaincre sa timidité maladive.
 ]]></desc>
 </programme>
 
-<programme start="20260221151800 -0500" stop="20260222164900 -0500" channel="StudioCanal">
-  <title>COPLAN FX 18 CASSE TOUT</title>
+<programme start="20260221151800 -0500" stop="20260221164900 -0500" channel="StudioCanal">
+  <title>Coplan FX 18 casse tout</title>
   <desc><![CDATA[
 1964 · Espionnage
 Réalisation : Riccardo Freda
 Avec : Claudio Brook, Margaret Lee
+
 Coplan, aidé des services secrets israéliens, tente de retrouver deux savants allemands enlevés par des agents égyptiens. Il retrouve leur trace à Athènes.
 ]]></desc>
 </programme>
 
-<programme start="20260222164900-0500" stop="20260222113900 -0500" channel="StudioCanal">
+<programme start="20260221164900 -0500" stop="20260221181700 -0500" channel="StudioCanal">
+  <title>Ki lo sa ?</title>
+  <desc><![CDATA[
+Année / réalisation / acteurs : (non indiqués sur tes captures)
+Honorant une vieille promesse, trois hommes et une femme, aujourd'hui trentenaires, se retrouvent dans le parc où ils avaient l'habitude de jouer, enfants.
+]]></desc>
+</programme>
+
+<programme start="20260221181700 -0500" stop="20260221200000 -0500" channel="StudioCanal">
+  <title>Moi la femme</title>
+  <desc><![CDATA[
+Année / réalisation / acteurs : (non indiqués sur tes captures)
+Douze sketches et autant de portraits de femmes que tout oppose mais qui, toutes, évoluent et sont prises au piège dans des sociétés machistes.
+]]></desc>
+</programme>
+
+<programme start="20260221200000 -0500" stop="20260221212200 -0500" channel="StudioCanal">
+  <title>La cuisine au beurre</title>
+  <desc><![CDATA[
+1963 · Comédie
+Réalisation : Gilles Grangier
+Avec : Fernandel, Bourvil
+
+Un prisonnier de guerre revient chez lui après quinze ans d'absence. Il retrouve sa femme, laissée sans nouvelles, remariée avec son ancien chef-cuisinier.
+]]></desc>
+</programme>
+
+<programme start="20260221212200 -0500" stop="20260221230400 -0500" channel="StudioCanal">
+  <title>Le chanteur de Mexico</title>
+  <desc><![CDATA[
+Année / réalisation / acteurs : (non indiqués sur tes captures)
+Les mésaventures d'un chanteur amateur qui accepte d'aller remplacer une vedette volage et bornée dont il est le sosie, afin de créer une opérette au Mexique.
+]]></desc>
+</programme>
+
+<programme start="20260221230400 -0500" stop="20260222003500 -0500" channel="StudioCanal">
+  <title>Au petit Marguery</title>
+  <desc><![CDATA[
+Année / réalisation / acteurs : (non indiqués sur tes captures)
+De vieux amis se retrouvent pour une soirée organisée à l'occasion de la fermeture d'un restaurant tenu par les parents de l'un d'entre eux.
+]]></desc>
+</programme>
+
+<!-- 🔵 DIMANCHE 22 FÉVRIER 2026 🔵 -->
+
+<programme start="20260222003500 -0500" stop="20260222015400 -0500" channel="StudioCanal">
+  <title>Les infortunes de la beauté</title>
+  <desc><![CDATA[
+Année / réalisation / acteurs : (non indiqués sur tes captures)
+Deux amies se lancent un pari et remuent ciel et terre pour dénicher la femme idéale, afin de convaincre un don juan que la femme parfaite peut exister.
+]]></desc>
+</programme>
+
+<programme start="20260222015400 -0500" stop="20260222015400 -0500" channel="StudioCanal">
+  <title>Le regard d'Ulysse</title>
+  <desc><![CDATA[
+Année / réalisation / acteurs : (non indiqués sur tes captures)
+Alors que la guerre fait rage en Bosnie-Herzégovine, un cinéaste américain se lance à la recherche des premiers films tournés dans les Balkans.
+]]></desc>
+</programme>
+
+<!-- IMPORTANT: Mets ici le STOP EXACT = START du programme suivant après 01:54 -->
+<!-- 🔵 DIMANCHE 22 FÉVRIER 2026 🔵 -->
+
+<programme start="20260222070500 -0500" stop="20260222083500 -0500" channel="StudioCanal">
+  <title>La thune</title>
+  <desc><![CDATA[
+Les amours d’une jolie fille à papa et d’un jeune beur sans le sou, décidés à se lancer dans les affaires et à s’y employer par tous les moyens.
+]]></desc>
+</programme>
+
+<programme start="20260222083500 -0500" stop="20260222101700 -0500" channel="StudioCanal">
+  <title>Le pressentiment</title>
+  <desc><![CDATA[
+Un avocat décide de quitter son milieu bourgeois pour vivre seul dans un quartier populaire. Mais il va être confronté à d'autres problèmes.
+]]></desc>
+</programme>
+
+<programme start="20260222101700 -0500" stop="20260222113900 -0500" channel="StudioCanal">
   <title>La cuisine au beurre</title>
   <desc><![CDATA[
 1963 · Comédie
@@ -2034,10 +2110,10 @@ En Algérie, deux hommes engagent une lutte acharnée pour conquérir le cœur d
 ]]></desc>
 </programme>
 
-<programme start="20260222234700 -0500" stop="20260223002600 -0500" channel="StudioCanal">
+<programme start="20260222234700 -0500" stop="20260223012600 -0500" channel="StudioCanal">
   <title>Comme un boomerang</title>
   <desc><![CDATA[
-1976 · Drame
+1975 · Drame
 Réalisation : José Giovanni
 Avec : Alain Delon, Jacques Dutronc
 
@@ -2045,7 +2121,7 @@ Afin de sauver son fils accusé de meurtre, un riche homme d’affaires renoue a
 ]]></desc>
 </programme>
 
-<programme start="20260223002600 -0500" stop="20260223020000 -0500" channel="StudioCanal">
+<programme start="20260223012600 -0500" stop="20260223012600 -0500" channel="StudioCanal">
   <title>La duchesse de Langeais</title>
   <desc><![CDATA[
 1942 · Drame
@@ -2056,7 +2132,11 @@ Une jeune duchesse, aussi belle que brillante, aime séduire les nombreux préte
 ]]></desc>
 </programme>
 
+<!-- NOTE: Remplace le stop de "La duchesse de Langeais" par le START EXACT du programme suivant après 01:26. -->
+
+
 </tv>
+
 
 
 
