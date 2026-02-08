@@ -877,7 +877,12 @@ Avec : Luis Mariano, Bourvil
 Un chanteur amateur se retrouve propulsé vedette au Mexique à la suite d’un quiproquo.
 ]]></desc>
 </programme>
-<!-- SAMEDI 14 FÉVRIER 2026 -->
+  </programme>
+<programme start="20260215040000 -0500" stop="20260214063200 -0500" channel="StudioCanal">
+  <title>Hors d'ondes</title>
+  </programme>
+
+  <!-- SAMEDI 14 FÉVRIER 2026 -->
 
 <programme start="20260214063200 -0500" stop="20260214090900 -0500" channel="StudioCanal">
   <title>Édith et Marcel</title>
@@ -1156,8 +1161,302 @@ Avec : Évelyne Bouix, Marcel Cerdan Jr.
 Deux histoires d’amour se croisent autour de la figure tragique d’Édith Piaf.
 ]]></desc>
 </programme>
+    </programme>
+<programme start="20260216030000 -0500" stop="20260214060900 -0500" channel="StudioCanal">
+  <title>Hors d'ondes</title>
+  </programme>
+<!-- LUNDI 16 FÉVRIER 2026 -->
+
+<programme start="20260216060900 -0500" stop="20260216075900 -0500" channel="StudioCanal">
+  <title>Le cousin</title>
+  <desc><![CDATA[
+1974 · Drame
+Réalisation : Jean-Pierre Lefebvre
+Avec : Alain Delon, François Périer
+
+Un jeune homme débarque dans une petite ville et se lie d’amitié avec un personnage hors norme.
+]]></desc>
+</programme>
+
+<programme start="20260216075900 -0500" stop="20260216093600 -0500" channel="StudioCanal">
+  <title>Les Parisiennes</title>
+  <desc><![CDATA[
+1962 · Comédie
+Réalisation : Marc Allégret, Michel Boisrond
+Avec : Catherine Deneuve, Danielle Darrieux
+
+Un portrait de femmes à travers les histoires d’amour, de fidélité et d’indépendance dans le Paris des années 60.
+]]></desc>
+</programme>
+
+<programme start="20260216093600 -0500" stop="20260216121200 -0500" channel="StudioCanal">
+  <title>Les bronzés font du ski</title>
+  <desc><![CDATA[
+1979 · Comédie
+Réalisation : Patrice Leconte
+Avec : Michel Blanc, Gérard Jugnot, Josiane Balasko
+
+Un groupe d’amis part en vacances à la montagne où leur maladresse fait exploser une série de situations cocasses.
+]]></desc>
+</programme>
+
+<programme start="20260216121200 -0500" stop="20260216130100 -0500" channel="StudioCanal">
+  <title>Aux sources du Nil</title>
+  <desc><![CDATA[
+1959 · Aventure
+Réalisation : Ralph Thomas
+Avec : Robert Taylor, George Sanders
+
+Deux explorateurs britanniques partent en expéditions pour découvrir la source du Nil.
+]]></desc>
+</programme>
+
+<programme start="20260216130100 -0500" stop="20260216131200 -0500" channel="StudioCanal">
+  <title>Les infortunes de la beauté</title>
+  <desc><![CDATA[
+1999 · Drame
+Réalisation : John Lvoff
+Avec : Arielle Dombasle, Richard Bohringer
+
+Deux amies se lancent un pari et remuent ciel et terre pour dénicher la femme idéale, afin de convaincre un Don Juan que la femme parfaite peut exister.
+]]></desc>
+</programme>
+
+<programme start="20260216131200 -0500" stop="20260216143200 -0500" channel="StudioCanal">
+  <title>Édith et Marcel</title>
+  <desc><![CDATA[
+1983 · Drame
+Réalisation : Claude Lelouch
+Avec : Évelyne Bouix, Marcel Cerdan Jr.
+
+Une histoire d’amour bouleversante entre Édith Piaf et le boxeur Marcel Cerdan.
+]]></desc>
+</programme>
+
+<programme start="20260216143200 -0500" stop="20260216170900 -0500" channel="StudioCanal">
+  <title>La sentence</title>
+  <desc><![CDATA[
+1974 · Drame
+Réalisation : Pierre Granier-Deferre
+Avec : Jean Gabin, Sophia Loren
+
+Un homme confronté à la justice et à son passé tente de faire face aux conséquences de ses actes.
+]]></desc>
+</programme>
+
+<programme start="20260216170900 -0500" stop="20260216182800 -0500" channel="StudioCanal">
+  <title>Un dimanche à la campagne</title>
+  <desc><![CDATA[
+1984 · Drame
+Réalisation : Bertrand Tavernier
+Avec : Louis Ducreux, Michel Aumont, Sabine Azéma
+
+Un vieux peintre reçoit la visite dominicale de ses enfants, mais le dimanche va se transformer en un véritable drame.
+]]></desc>
+</programme>
+
+<programme start="20260216182800 -0500" stop="20260216200000 -0500" channel="StudioCanal">
+  <title>Comme un boomerang</title>
+  <desc><![CDATA[
+1975 · Drame
+Réalisation : José Giovanni
+Avec : Charles Bronson, Jean-François Stévenin
+
+Un homme se retrouve pris au piège de sa propre vie, un peu comme un boomerang.
+]]></desc>
+</programme>
+
+<programme start="20260216200000 -0500" stop="20260216213900 -0500" channel="StudioCanal">
+  <title>Le crime de Monsieur Lange</title>
+  <desc><![CDATA[
+1936 · Drame
+Réalisation : Jean Renoir
+Avec : René Lefèvre, Jules Berry
+
+Un groupe d'ouvriers forme une coopérative après la disparition de leur patron, mais son retour bouleverse tout.
+]]></desc>
+</programme>
+
+<programme start="20260216213900 -0500" stop="20260216225700 -0500" channel="StudioCanal">
+  <title>Josette</title>
+  <desc><![CDATA[
+1938 · Comédie
+Réalisation : Christian-Jaque
+Avec : Fernandel, Mona Goya
+
+Un brave garçon porte secours à un vieil homme qui lui donne les moyens de réaliser son rêve : devenir chanteur de music-hall.
+]]></desc>
+</programme>
+
+<programme start="20260216225700 -0500" stop="20260217002600 -0500" channel="StudioCanal">
+  <title>Moï la femme</title>
+  <desc><![CDATA[
+1973 · Documentaire
+Réalisation : Yannick Bellon
+Avec : N/A
+
+Douze portraits de femmes confrontées aux normes et aux contraintes d’une société dominée par les hommes.
+]]></desc>
+</programme>
+
+<programme start="20260217002600 -0500" stop="20260217052500 -0500" channel="StudioCanal">
+  <title>Un dimanche à la campagne</title>
+  <desc><![CDATA[
+1984 · Drame
+Réalisation : Bertrand Tavernier
+Avec : Louis Ducreux, Michel Aumont, Sabine Azéma
+
+Un vieux peintre reçoit la visite dominicale de ses enfants, mais le dimanche va se transformer en un véritable drame.
+]]></desc>
+</programme>
+<!-- MARDI 17 FÉVRIER 2026 -->
+
+<programme start="20260217065700 -0500" stop="20260217083600 -0500" channel="StudioCanal">
+  <title>Comme un boomerang</title>
+  <desc><![CDATA[
+1975 · Drame
+Réalisation : José Giovanni
+Avec : Alain Delon, José Giovanni
+
+Afin de sauver son fils accusé de meurtre, un riche homme d’affaires renouvelle son passé délicat. Les journaux révèlent son séjour en prison.
+]]></desc>
+</programme>
+
+<programme start="20260217083600 -0500" stop="20260217101700 -0500" channel="StudioCanal">
+  <title>Le chanteur de Mexico</title>
+  <desc><![CDATA[
+1951 · Comédie musicale
+Réalisation : Richard Pottier
+Avec : Luis Mariano, Bourvil, Richard Franck
+
+Les mésaventures d’un chanteur amateur qui accepte de remplacer une vedette volage et bornée.
+]]></desc>
+</programme>
+
+<programme start="20260217101700 -0500" stop="20260217105000 -0500" channel="StudioCanal">
+  <title>La duchesse de Langeais</title>
+  <desc><![CDATA[
+1942 · Drame
+Réalisation : Jacques de Baroncelli
+Avec : Aime Clariond, Pierre Richard-Willm
+
+Une jeune duchesse, aussi belle que brillante, aime séduire les nombreux prétendants qui se pressent à ses pieds.
+]]></desc>
+</programme>
+
+<programme start="20260217115000 -0500" stop="20260217131200 -0500" channel="StudioCanal">
+  <title>Le crabe tambour</title>
+  <desc><![CDATA[
+1977 · Drame
+Réalisation : Pierre Schoendoerffer
+Avec : Jean Rochefort, Jacques Perrin, Claude Rich
+
+Un vieil officier de marine malade, sentant sa mort approcher à grands pas, se porte à la rencontre d’un ami d’antan et médite sur leurs destins.
+]]></desc>
+</programme>
+
+<programme start="20260217131200 -0500" stop="20260217134700 -0500" channel="StudioCanal">
+  <title>Le grand carnaval</title>
+  <desc><![CDATA[
+1983 · Drame
+Réalisation : Alexandre Arcady
+Avec : Richard Berry, Jean Carmet
+
+En Algérie, deux hommes engagent une lutte acharnée pour conquérir le cœur d’une jeune femme, qui menace de détruire leur belle amitié.
+]]></desc>
+</programme>
+
+<programme start="20260217134700 -0500" stop="20260217143200 -0500" channel="StudioCanal">
+  <title>Édith et Marcel</title>
+  <desc><![CDATA[
+1983 · Drame
+Réalisation : Claude Lelouch
+Avec : Évelyne Bouix, Marcel Cerdan Jr.
+
+Tandis qu’aux États-Unis, la chanteuse Edith Piaf pleure la mort de Marcel Cerdan, une autre histoire d’amour, anonyme celle-là, se fait et se défait.
+]]></desc>
+</programme>
+
+<programme start="20260217143200 -0500" stop="20260217170900 -0500" channel="StudioCanal">
+  <title>La sentence</title>
+  <desc><![CDATA[
+1974 · Drame
+Réalisation : Pierre Granier-Deferre
+Avec : Jean Gabin, Sophia Loren
+
+Un homme confronté à la justice et à son passé tente de faire face aux conséquences de ses actes.
+]]></desc>
+</programme>
+
+<programme start="20260217170900 -0500" stop="20260217182800 -0500" channel="StudioCanal">
+  <title>Un dimanche à la campagne</title>
+  <desc><![CDATA[
+1984 · Drame
+Réalisation : Bertrand Tavernier
+Avec : Louis Ducreux, Michel Aumont, Sabine Azéma
+
+Dans la France d’avant-guerre, un vieux peintre reçoit la visite dominicale de son fils et de sa fille.
+]]></desc>
+</programme>
+
+<programme start="20260217182800 -0500" stop="20260217200000 -0500" channel="StudioCanal">
+  <title>Comme un boomerang</title>
+  <desc><![CDATA[
+1975 · Drame
+Réalisation : José Giovanni
+Avec : Alain Delon, José Giovanni
+
+Afin de sauver son fils accusé de meurtre, un riche homme d’affaires renouvelle son passé délicat. Les journaux révèlent son séjour en prison.
+]]></desc>
+</programme>
+
+<programme start="20260217200000 -0500" stop="20260217213900 -0500" channel="StudioCanal">
+  <title>Le crime de Monsieur Lange</title>
+  <desc><![CDATA[
+1936 · Drame
+Réalisation : Jean Renoir
+Avec : René Lefèvre, Jules Berry
+
+Un groupe d'ouvriers forme une coopérative après la disparition de leur patron, mais son retour bouleverse tout.
+]]></desc>
+</programme>
+
+<programme start="20260217213900 -0500" stop="20260217225700 -0500" channel="StudioCanal">
+  <title>Josette</title>
+  <desc><![CDATA[
+1938 · Comédie
+Réalisation : Christian-Jaque
+Avec : Fernandel, Mona Goya
+
+Un brave garçon porte secours à un vieil homme qui lui donne les moyens de réaliser son rêve : devenir chanteur de music-hall.
+]]></desc>
+</programme>
+
+<programme start="20260217225700 -0500" stop="20260218002600 -0500" channel="StudioCanal">
+  <title>Moï la femme</title>
+  <desc><![CDATA[
+1973 · Documentaire
+Réalisation : Yannick Bellon
+Avec : N/A
+
+Douze portraits de femmes confrontées aux normes et aux contraintes d’une société dominée par les hommes.
+]]></desc>
+</programme>
+
+<programme start="20260218002600 -0500" stop="20260218052500 -0500" channel="StudioCanal">
+  <title>Un dimanche à la campagne</title>
+  <desc><![CDATA[
+1984 · Drame
+Réalisation : Bertrand Tavernier
+Avec : Louis Ducreux, Michel Aumont, Sabine Azéma
+
+Un vieux peintre reçoit la visite dominicale de ses enfants, mais le dimanche va se transformer en un véritable drame.
+]]></desc>
+</programme>
+
 
 </tv>
+
 
 
 
