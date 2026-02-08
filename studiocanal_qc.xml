@@ -1925,29 +1925,28 @@ La vie déprimante d’un chauffeur de taxi, réduite à son travail et à ses r
 <programme start="20260221135000 -0500" stop="20260221151800 -0500" channel="StudioCanal">
 <!-- 🔵 DIMANCHE 22 FÉVRIER 2026 🔵 -->
 
-<programme start="20260222070500 -0500" stop="20260222083500 -0500" channel="StudioCanal">
-  <title>La thune</title>
+<programme start="20260221151800-0500" stop="20260222083500 -0500" channel="StudioCanal">
+  <title>JE SUIS TIMIDE, MAIS JE ME SOIGNE</title>
   <desc><![CDATA[
-1984 · Comédie
-Réalisation : Philippe Galland
-Avec : Miou-Miou, Jean Carmet
+1978 · Comédie
+Réalisation : Pierre Richard
+Avec : Pierre Richard, Jane Birkin, Michel Aumont
 
-Les amours d’une jolie fille à papa et d’un jeune beur sans le sou, décidés à se lancer dans les affaires et à s’y employer par tous les moyens.
+Pour les beaux yeux d'une jolie femme qu'il croit très riche, un jeune homme tente, avec l'aide de son psychologue, de vaincre sa timidité maladive..
 ]]></desc>
 </programme>
 
-<programme start="20260222083500 -0500" stop="20260222101700 -0500" channel="StudioCanal">
-  <title>Le pressentiment</title>
+<programme start="20260221151800 -0500" stop="20260222164900 -0500" channel="StudioCanal">
+  <title>COPLAN FX 18 CASSE TOUT</title>
   <desc><![CDATA[
-1976 · Drame
-Réalisation : Pierre Granier-Deferre
-Avec : Jean Gabin, Michel Bouquet
-
-Un avocat décide de quitter son milieu bourgeois pour vivre seul dans un quartier populaire, mais il va être confronté à d’autres problèmes.
+1964 · Espionnage
+Réalisation : Riccardo Freda
+Avec : Claudio Brook, Margaret Lee
+Coplan, aidé des services secrets israéliens, tente de retrouver deux savants allemands enlevés par des agents égyptiens. Il retrouve leur trace à Athènes.
 ]]></desc>
 </programme>
 
-<programme start="20260222101700 -0500" stop="20260222113900 -0500" channel="StudioCanal">
+<programme start="20260222164900-0500" stop="20260222113900 -0500" channel="StudioCanal">
   <title>La cuisine au beurre</title>
   <desc><![CDATA[
 1963 · Comédie
@@ -2058,6 +2057,7 @@ Une jeune duchesse, aussi belle que brillante, aime séduire les nombreux préte
 </programme>
 
 </tv>
+
 
 
 
