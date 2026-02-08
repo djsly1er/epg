@@ -168,17 +168,20 @@ Deux amies lancent un pari pour prouver que la femme parfaite peut exister.
 ]]></desc>
   </programme>
 
-  <programme start="20260208215900 -0500" stop="20260208231300 -0500" channel="StudioCanal">
-    <title>Gervaise</title>
-    <desc><![CDATA[
+ <!-- DIMANCHE 08 FÉVRIER 2026 – APRÈS-MIDI / SOIRÉE -->
+
+<programme start="20260208163300 -0500" stop="20260208194900 -0500" channel="StudioCanal">
+  <title>Gervaise</title>
+  <desc><![CDATA[
 1956 • Drame
 Réalisation : René Clément
 Avec : Maria Schell, François Périer
+
 Une ouvrière parisienne lutte pour préserver sa dignité face à la misère et à l’alcoolisme.
 ]]></desc>
-  </programme>
- 
-  <programme start="20260208211900 -0500" stop="20260208231300 -0500" channel="StudioCanal">
+</programme>
+
+<programme start="20260208194900 -0500" stop="20260208231300 -0500" channel="StudioCanal">
   <title>Elles n'oublient jamais</title>
   <desc><![CDATA[
 1975 • Drame
@@ -189,7 +192,18 @@ Avec : Claude Jade, Michel Bouquet
 ]]></desc>
 </programme>
 
-<!-- DIMANCHE 08 FÉVRIER 2026 – NUIT -->
+<!-- NUIT -->
+
+<programme start="20260208231300 -0500" stop="20260209005700 -0500" channel="StudioCanal">
+  <title>Aux sources du Nil</title>
+  <desc><![CDATA[
+1959 • Aventure
+Réalisation : John Guillermin
+Avec : Robert Taylor, Robert Morley
+
+Une expédition britannique remonte le Nil à la recherche de ses origines mythiques.
+]]></desc>
+</programme>
 
 <programme start="20260209005700 -0500" stop="20260209052600 -0500" channel="StudioCanal">
   <title>Hôtel des Amériques</title>
@@ -198,7 +212,7 @@ Avec : Claude Jade, Michel Bouquet
 Réalisation : André Téchiné
 Avec : Catherine Deneuve, Patrick Dewaere
 
-À Biarritz, la passion douloureuse entre une femme libre et un homme meurtri par la vie.
+À Biarritz, la passion douloureuse entre une femme libre et un homme blessé par la vie.
 ]]></desc>
 </programme>
 
@@ -209,126 +223,145 @@ Avec : Catherine Deneuve, Patrick Dewaere
 Réalisation : Theo Angelopoulos
 Avec : Harvey Keitel, Maia Morgenstern
 
-Un cinéaste entreprend un voyage à travers les Balkans à la recherche des premières images du cinéma.
+Un cinéaste parcourt les Balkans à la recherche des premières images du cinéma.
 ]]></desc>
 </programme>
 
 
- <!-- LUNDI 09 FÉVRIER 2026 -->
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="StudioCanal XMLTV clean fix">
 
-<programme start="20260209081700 -0500" stop="20260209100000 -0500" channel="StudioCanal">
-  <title>On ne meurt que deux fois</title>
-  <desc><![CDATA[
+  <channel id="StudioCanal">
+    <display-name>StudioCanal</display-name>
+  </channel>
+
+  <!-- LUNDI 09 FÉVRIER 2026 -->
+
+  <programme start="20260209081700 -0500" stop="20260209100000 -0500" channel="StudioCanal">
+    <title>On ne meurt que deux fois</title>
+    <desc><![CDATA[
 1985 • Policier
 Réalisation : Jacques Deray
 Avec : Michel Serrault, Charlotte Rampling
 
-Au cours de ses investigations, un policier se laisse séduire par une femme énigmatique, soupçonnée d’être l’auteure du meurtre de son amant.
+Un policier se laisse entraîner dans une enquête trouble où désir et crime se confondent.
 ]]></desc>
-</programme>
+  </programme>
 
-<programme start="20260209100000 -0500" stop="20260209111900 -0500" channel="StudioCanal">
-  <title>Les infortunes de la beauté</title>
-  <desc><![CDATA[
+  <programme start="20260209100000 -0500" stop="20260209125100 -0500" channel="StudioCanal">
+    <title>Les infortunes de la beauté</title>
+    <desc><![CDATA[
 1999 • Comédie dramatique
 Réalisation : John Lvoff
 Avec : Arielle Dombasle, Maria de Medeiros
 
-Deux amies se lancent un pari audacieux : convaincre un homme que la femme parfaite peut exister.
+Deux femmes lancent un pari absurde pour prouver que la perfection amoureuse existe.
 ]]></desc>
-</programme>
+  </programme>
 
-<programme start="20260209111900 -0500" stop="20260209125100 -0500" channel="StudioCanal">
-  <title>Un dimanche à la campagne</title>
-  <desc><![CDATA[
-1984 • Drame
-Réalisation : Bertrand Tavernier
-Avec : Louis Ducreux, Sabine Azéma
-
-Un peintre vieillissant reçoit la visite de ses enfants le temps d’un dimanche chargé d’émotions et de souvenirs.
-]]></desc>
-</programme>
-
-<programme start="20260209125100 -0500" stop="20260209150200 -0500" channel="StudioCanal">
-  <title>Le grand carnaval</title>
-  <desc><![CDATA[
+  <programme start="20260209125100 -0500" stop="20260209150200 -0500" channel="StudioCanal">
+    <title>Le grand carnaval</title>
+    <desc><![CDATA[
 1983 • Comédie
 Réalisation : Alexandre Arcady
 Avec : Roger Hanin, Patrick Bruel
 
-En Algérie, deux hommes tentent de conquérir une femme, mais l’amour menace de détruire leur belle amitié.
+En Algérie, deux amis rivalisent d’astuces pour conquérir la même femme.
 ]]></desc>
-</programme>
+  </programme>
 
-<programme start="20260209150200 -0500" stop="20260209163300 -0500" channel="StudioCanal">
-  <title>Hôtel des Amériques</title>
-  <desc><![CDATA[
+  <programme start="20260209150200 -0500" stop="20260209163300 -0500" channel="StudioCanal">
+    <title>Hôtel des Amériques</title>
+    <desc><![CDATA[
 1981 • Drame
 Réalisation : André Téchiné
 Avec : Catherine Deneuve, Patrick Dewaere
 
-À Biarritz, la passion douloureuse entre une femme libre et un homme meurtri par la vie.
+À Biarritz, une femme solitaire croise le chemin d’un homme brisé par la vie.
 ]]></desc>
-</programme>
+  </programme>
 
-<programme start="20260209163300 -0500" stop="20260209183000 -0500" channel="StudioCanal">
-  <title>Le crabe-tambour</title>
-  <desc><![CDATA[
+  <programme start="20260209163300 -0500" stop="20260209182300 -0500" channel="StudioCanal">
+    <title>Le crabe tambour</title>
+    <desc><![CDATA[
 1977 • Drame
 Réalisation : Pierre Schoendoerffer
-Avec : Jean Rochefort, Jacques Dufilho
+Avec : Jean Rochefort, Jacques Perrin
 
-Un officier de marine malade cherche à retrouver un ancien camarade, figure mythique de l’honneur perdu.
+Un officier de marine tente de retrouver un ancien compagnon devenu légendaire.
 ]]></desc>
-</programme>
+  </programme>
 
-<!-- APRÈS LE CRABE-TAMBOUR -->
-
-<programme start="20260209183000 -0500" stop="20260209200000 -0500" channel="StudioCanal">
-  <title>Le traqué</title>
-  <desc><![CDATA[
+  <programme start="20260209182300 -0500" stop="20260209200000 -0500" channel="StudioCanal">
+    <title>Le traqué</title>
+    <desc><![CDATA[
 1985 • Policier
 Réalisation : Jacques Deray
 Avec : Jean-Louis Trintignant, Marlène Jobert
 
-Un truand doit être jugé pour ses crimes, mais décide de s’échapper et retrouve bientôt son amie qui accepte de l’aider à organiser sa fuite.
+Un criminel s’évade avant son procès et organise une fuite désespérée.
 ]]></desc>
-</programme>
+  </programme>
 
-<programme start="20260209200000 -0500" stop="20260210004400 -0500" channel="StudioCanal">
-  <title>En plein feu</title>
-  <desc><![CDATA[
+  <programme start="20260209200000 -0500" stop="20260209222300 -0500" channel="StudioCanal">
+    <title>En plein feu</title>
+    <desc><![CDATA[
 1988 • Action
 Réalisation : Jean-Marie Pallardy
 Avec : Richard Anconina, Clément Michu
 
-Lorsqu’un incendie incontrôlable éclate, plusieurs individus se retrouvent coincés dans leur véhicule, cernés par les flammes.
+Des automobilistes se retrouvent prisonniers d’un incendie incontrôlable.
 ]]></desc>
-</programme>
+  </programme>
 
-<programme start="20260210004400 -0500" stop="20260210050100 -0500" channel="StudioCanal">
-  <title>Aux sources du Nil</title>
-  <desc><![CDATA[
-1981 • Aventure
-Réalisation : Bertrand Tavernier
-Avec : Patrick Dewaere, Jean-François Balmer
+  <programme start="20260209222300 -0500" stop="20260209231200 -0500" channel="StudioCanal">
+    <title>Le cousin</title>
+    <desc><![CDATA[
+1997 • Policier
+Réalisation : Alain Corneau
+Avec : Patrick Bruel, Alain Chabat
 
-À la fin du XIXe siècle, deux explorateurs britanniques remontent le Nil pour découvrir ses sources dans une région encore très mystérieuse.
+Un juge disparaît mystérieusement, plongeant ses proches dans un engrenage criminel.
 ]]></desc>
-</programme>
+  </programme>
 
-<programme start="20260210050100 -0500" stop="20260210081700 -0500" channel="StudioCanal">
-  <title>Le traqué</title>
-  <desc><![CDATA[
+  <programme start="20260209231200 -0500" stop="20260210004400 -0500" channel="StudioCanal">
+    <title>Au petit Marguery</title>
+    <desc><![CDATA[
+1995 • Comédie dramatique
+Réalisation : Laurent Bénégui
+Avec : Stéphane Audran, Michel Aumont
+
+Des amis se retrouvent pour une soirée qui fait ressurgir rancunes et émotions.
+]]></desc>
+  </programme>
+
+  <programme start="20260210004400 -0500" stop="20260210052600 -0500" channel="StudioCanal">
+    <title>Aux sources du Nil</title>
+    <desc><![CDATA[
+1959 • Aventure
+Réalisation : John Guillermin
+Avec : Robert Taylor, Robert Morley
+
+Deux explorateurs britanniques remontent le Nil à la recherche de ses origines.
+]]></desc>
+  </programme>
+
+  <programme start="20260210052600 -0500" stop="20260210081700 -0500" channel="StudioCanal">
+    <title>Le traqué</title>
+    <desc><![CDATA[
 1985 • Policier
 Réalisation : Jacques Deray
 Avec : Jean-Louis Trintignant, Marlène Jobert
 
-Reprise nocturne : un homme traqué tente une dernière fuite face à la justice et à ses propres erreurs.
+Rediffusion nocturne du thriller de Jacques Deray.
 ]]></desc>
-</programme>
+  </programme>
 
 </tv>
+
+
+
 
 
 
