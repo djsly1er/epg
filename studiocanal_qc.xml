@@ -325,7 +325,7 @@ Des amis se retrouvent pour une soirée qui fait ressurgir rancunes et émotions
 ]]></desc>
   </programme>
 
-  <programme start="20260210004400 -0500" stop="20260210052600 -0500" channel="StudioCanal">
+  <programme start="20260210004400 -0500" stop="20260210050100 -0500" channel="StudioCanal">
     <title>Aux sources du Nil</title>
     <desc><![CDATA[
 1959 • Aventure
@@ -336,7 +336,7 @@ Deux explorateurs britanniques remontent le Nil à la recherche de ses origines.
 ]]></desc>
   </programme>
 
-  <programme start="20260210052600 -0500" stop="20260210063100 -0500" channel="StudioCanal">
+  <programme start="20260210050100 -0500" stop="20260210063100 -0500" channel="StudioCanal">
     <title>Le traqué</title>
     <desc><![CDATA[
 1985 • Policier
@@ -471,6 +471,7 @@ Un jeune orphelin découvre l’amitié et la foi dans un monastère espagnol.
 </programme>
 
 </tv>
+
 
 
 
