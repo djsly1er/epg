@@ -336,7 +336,7 @@ Deux explorateurs britanniques remontent le Nil à la recherche de ses origines.
 ]]></desc>
   </programme>
 
-  <programme start="20260210052600 -0500" stop="20260210081700 -0500" channel="StudioCanal">
+  <programme start="20260210052600 -0500" stop="20260210063100 -0500" channel="StudioCanal">
     <title>Le traqué</title>
     <desc><![CDATA[
 1985 • Policier
@@ -347,7 +347,131 @@ Rediffusion nocturne du thriller de Jacques Deray.
 ]]></desc>
   </programme>
 
+  <!-- MARDI 10 FÉVRIER 2026 -->
+
+<programme start="20260210063100 -0500" stop="20260210075400 -0500" channel="StudioCanal">
+  <title>Cinéma en plein feu</title>
+  <desc><![CDATA[
+1961 · Drame
+Réalisation : Roger Vadim
+Avec : Jeanne Moreau, Maurice Ronet
+
+Un regard passionné sur le cinéma et ses excès, entre création artistique et tourments humains.
+]]></desc>
+</programme>
+
+<programme start="20260210075400 -0500" stop="20260210092500 -0500" channel="StudioCanal">
+  <title>Coplan FX 18 casse tout</title>
+  <desc><![CDATA[
+1970 · Policier
+Réalisation : Yves Boisset
+Avec : Claudio Brook, Margaret Lee
+
+L’agent Coplan affronte un redoutable réseau criminel international dans une enquête explosive.
+]]></desc>
+</programme>
+
+<programme start="20260210092500 -0500" stop="20260210120200 -0500" channel="StudioCanal">
+  <title>Édith et Marcel</title>
+  <desc><![CDATA[
+1983 · Drame
+Réalisation : Claude Lelouch
+Avec : Évelyne Bouix, Marcel Cerdan Jr.
+
+L’histoire d’amour intense entre Édith Piaf et le boxeur Marcel Cerdan.
+]]></desc>
+</programme>
+
+<programme start="20260210120200 -0500" stop="20260210134400 -0500" channel="StudioCanal">
+  <title>Le chanteur de Mexico</title>
+  <desc><![CDATA[
+1956 · Comédie musicale
+Réalisation : Richard Pottier
+Avec : Luis Mariano, Bourvil
+
+Un chanteur d’opérette se retrouve embarqué dans une série de quiproquos savoureux.
+]]></desc>
+</programme>
+
+<programme start="20260210134400 -0500" stop="20260210152500 -0500" channel="StudioCanal">
+  <title>Le pressentiment</title>
+  <desc><![CDATA[
+1976 · Drame
+Réalisation : Jean-Pierre Mocky
+Avec : Michel Serrault, Catherine Allégret
+
+Un homme est hanté par l’intuition qu’un drame imminent va bouleverser sa vie.
+]]></desc>
+</programme>
+
+<programme start="20260210152500 -0500" stop="20260210170900 -0500" channel="StudioCanal">
+  <title>Elles n'oublient jamais</title>
+  <desc><![CDATA[
+1977 · Thriller
+Réalisation : Robert Enrico
+Avec : Jean-Louis Trintignant, Romy Schneider
+
+Des femmes marquées par un passé douloureux préparent une vengeance implacable.
+]]></desc>
+</programme>
+
+<programme start="20260210170900 -0500" stop="20260210200000 -0500" channel="StudioCanal">
+  <title>Le regard d'Ulysse</title>
+  <desc><![CDATA[
+1995 · Drame
+Réalisation : Theo Angelopoulos
+Avec : Harvey Keitel, Maia Morgenstern
+
+Un cinéaste part à la recherche des origines du cinéma dans les Balkans.
+]]></desc>
+</programme>
+
+<programme start="20260210200000 -0500" stop="20260210212900 -0500" channel="StudioCanal">
+  <title>Josette</title>
+  <desc><![CDATA[
+1938 · Comédie
+Réalisation : Christian-Jaque
+Avec : Fernandel, Mona Goya
+
+Un jeune homme naïf se retrouve au cœur de situations aussi cocasses qu’inattendues.
+]]></desc>
+</programme>
+
+<programme start="20260210212900 -0500" stop="20260210231900 -0500" channel="StudioCanal">
+  <title>Le roi</title>
+  <desc><![CDATA[
+1936 · Comédie dramatique
+Réalisation : Julien Duvivier
+Avec : Raimu, Pierre Fresnay
+
+Portrait d’un homme simple confronté à un destin hors du commun.
+]]></desc>
+</programme>
+
+<programme start="20260210231900 -0500" stop="20260211010000 -0500" channel="StudioCanal">
+  <title>Le troisième homme</title>
+  <desc><![CDATA[
+1949 · Film noir
+Réalisation : Carol Reed
+Avec : Orson Welles, Joseph Cotten
+
+Dans la Vienne d’après-guerre, une enquête mystérieuse mène à une vérité troublante.
+]]></desc>
+</programme>
+
+<programme start="20260211010000 -0500" stop="20260211030000 -0500" channel="StudioCanal">
+  <title>Marcellino</title>
+  <desc><![CDATA[
+1955 · Drame
+Réalisation : Ladislao Vajda
+Avec : Pablito Calvo, Rafael Rivelles
+
+Un jeune orphelin découvre l’amitié et la foi dans un monastère espagnol.
+]]></desc>
+</programme>
+
 </tv>
+
 
 
 
