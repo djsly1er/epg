@@ -2141,10 +2141,9 @@ Une jeune duchesse, aussi belle que brillante, aime séduire les nombreux préte
 
 <!-- NOTE: Remplace le stop de "La duchesse de Langeais" par le START EXACT du programme suivant après 01:26. -->
 
-  <programme start="20260223032600 -0500" stop="20260222070700 -0500" channel="StudioCanal">
+<programme start="20260223032600 -0500" stop="20260223070700 -0500" channel="StudioCanal">
   <title>HORS D’ONDE</title>
-  <desc><![CDATA[
-Hors d’onde.
+  <desc><
 ]]></desc>
 </programme>
 <!-- 🔵 LUNDI 23 FÉVRIER 2026 🔵 -->
@@ -2878,6 +2877,7 @@ Un vieil officier de marine malade, sentant sa mort approcher à grands pas, se 
 </programme>
 
 </tv>
+
 
 
 
