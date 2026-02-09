@@ -591,7 +591,7 @@ Un officier de marine malade revisite son passé et ses engagements à l’appro
 ]]></desc>
 </programme>
 
-<programme start="20260212011200 -0500" stop="20260212030000 -0500" channel="StudioCanal">
+<programme start="20260212011200 -0500" stop="20260212031200 -0500" channel="StudioCanal">
   <title>La vie à l’envers</title>
   <desc><![CDATA[
 1964 · Drame
@@ -601,6 +601,13 @@ Avec : Charles Denner, Anna Gaylor
 Un homme se coupe progressivement du monde jusqu’à basculer dans une solitude radicale.
 ]]></desc>
 </programme>
+  <programme start="20260212031200 -0500" stop="20260212071400 -0500" channel="StudioCanal">
+  <title>HORS D'ONDE</title>
+  <desc><![CDATA[
+Hors d’onde.
+]]></desc>
+</programme>
+
 <!-- JEUDI 12 FÉVRIER 2026 -->
 
 <programme start="20260212071400 -0500" stop="20260212085800 -0500" channel="StudioCanal">
@@ -2905,6 +2912,7 @@ Un vieil officier de marine malade, sentant sa mort approcher à grands pas, se 
 </programme>
 
 </tv>
+
 
 
 
