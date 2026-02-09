@@ -1721,6 +1721,12 @@ Avec : Thierry Lhermitte, Maruschka Detmers
 Écartelé entre son épouse et sa maîtresse, un homme se débat entre peur, mensonge, désir et trahison, jusqu’à perdre le contrôle.
 ]]></desc>
 </programme>
+  <programme start="20260220040000 -0500" stop="20260220062500 -0500" channel="StudioCanal">
+  <title>HORS D'ONDE</title>
+  <desc><![CDATA[
+Hors d’onde.
+]]></desc>
+</programme>
 <!-- 🔵 VENDREDI 20 FÉVRIER 2026 🔵 -->
 
 <programme start="20260220062500 -0500" stop="20260220075600 -0500" channel="StudioCanal">
@@ -2878,6 +2884,7 @@ Un vieil officier de marine malade, sentant sa mort approcher à grands pas, se 
 </programme>
 
 </tv>
+
 
 
 
