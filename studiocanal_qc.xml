@@ -2235,7 +2235,7 @@ La vie déprimante d'un chauffeur de taxi, réduite à son travail et à ses tri
 </programme>
 
 <!-- IMPORTANT: remplace le STOP de "ALL OR NOTHING" par le START EXACT du programme suivant après 00:41 -->
-<programme start="20260224024100 -0500" stop="20260224070700 -0500" channel="StudioCanal">
+<programme start="20260224024100 -0500" stop="20260224070400 -0500" channel="StudioCanal">
   <title>HORS D’ONDE</title>
   <desc><![CDATA[
 Hors d’onde.
@@ -2878,6 +2878,7 @@ Un vieil officier de marine malade, sentant sa mort approcher à grands pas, se 
 </programme>
 
 </tv>
+
 
 
 
