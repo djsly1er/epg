@@ -2128,7 +2128,7 @@ Afin de sauver son fils accusé de meurtre, un riche homme d’affaires renoue a
 ]]></desc>
 </programme>
 
-<programme start="20260223012600 -0500" stop="20260223012600 -0500" channel="StudioCanal">
+<programme start="20260223012600 -0500" stop="20260223032600 -0500" channel="StudioCanal">
   <title>La duchesse de Langeais</title>
   <desc><![CDATA[
 1942 · Drame
@@ -2141,8 +2141,744 @@ Une jeune duchesse, aussi belle que brillante, aime séduire les nombreux préte
 
 <!-- NOTE: Remplace le stop de "La duchesse de Langeais" par le START EXACT du programme suivant après 01:26. -->
 
+  <programme start="20260223032600 -0500" stop="20260222070700 -0500" channel="StudioCanal">
+  <title>HORS D’ONDE</title>
+  <desc><![CDATA[
+Hors d’onde.
+]]></desc>
+</programme>
+<!-- 🔵 LUNDI 23 FÉVRIER 2026 🔵 -->
+
+<programme start="20260223070700 -0500" stop="20260223082500 -0500" channel="StudioCanal">
+  <title>LE CRIME DE MONSIEUR LANGE</title>
+  <desc><![CDATA[
+Après la fuite de leur patron, un escroc, des ouvriers forment une coopérative. Mais l'homme revient et tente de récupérer son affaire, bénéfices compris.
+]]></desc>
+</programme>
+
+<programme start="20260223082500 -0500" stop="20260223100100 -0500" channel="StudioCanal">
+  <title>LA REVANCHE</title>
+  <desc><![CDATA[
+Deux femmes à l'imagination débordante, déçues par leurs époux respectifs, décident de se venger en organisant un cambriolage de grande envergure.
+]]></desc>
+</programme>
+
+<programme start="20260223100100 -0500" stop="20260223113200 -0500" channel="StudioCanal">
+  <title>AU PETIT MARGUERY</title>
+  <desc><![CDATA[
+De vieux amis se retrouvent pour une soirée organisée à l'occasion de la fermeture d'un restaurant tenu par les parents de l'un d'entre eux.
+]]></desc>
+</programme>
+
+<programme start="20260223113200 -0500" stop="20260223131500 -0500" channel="StudioCanal">
+  <title>MOI LA FEMME</title>
+  <desc><![CDATA[
+Douze sketches et autant de portraits de femmes que tout oppose mais qui, toutes, évoluent et sont prises au piège dans des sociétés machistes.
+]]></desc>
+</programme>
+
+<programme start="20260223131500 -0500" stop="20260223145300 -0500" channel="StudioCanal">
+  <title>LES PARISIENNES</title>
+  <desc><![CDATA[
+Quatre femmes face à l'amour, la fidélité, la tromperie, la solitude : quatre visages bien différents de Cupidon, pas forcément très reluisants.
+]]></desc>
+</programme>
+
+<programme start="20260223145300 -0500" stop="20260223162600 -0500" channel="StudioCanal">
+  <title>LA DUCHESSE DE LANGEAIS</title>
+  <desc><![CDATA[
+Une jeune duchesse, aussi belle que brillante, aime à séduire les nombreux prétendants qui se pressent à ses pieds. Un militaire attire son attention.
+]]></desc>
+</programme>
+
+<programme start="20260223162600 -0500" stop="20260223174800 -0500" channel="StudioCanal">
+  <title>LA CUISINE AU BEURRE</title>
+  <desc><![CDATA[
+Un prisonnier de guerre revient chez lui après quinze ans d'absence. Il retrouve sa femme, laissée sans nouvelles, remariée avec son ancien chef-cuisinier.
+]]></desc>
+</programme>
+
+<programme start="20260223174800 -0500" stop="20260223200000 -0500" channel="StudioCanal">
+  <title>AUX SOURCES DU NIL</title>
+  <desc><![CDATA[
+A la fin du XIXe siècle, deux explorateurs britanniques remontent le Nil pour découvrir ses sources dans une région encore très mystérieuse.
+]]></desc>
+</programme>
+
+<programme start="20260223200000 -0500" stop="20260223212900 -0500" channel="StudioCanal">
+  <title>LE QUAI DES BRUMES</title>
+  <desc><![CDATA[
+Sur le point d'embarquer pour le Venezuela, un déserteur, intervenant lors d'une dispute, commet un meurtre pour défendre la jeune femme qu'il aime.
+]]></desc>
+</programme>
+
+<programme start="20260223212900 -0500" stop="20260223231300 -0500" channel="StudioCanal">
+  <title>ELLES N'OUBLIENT JAMAIS</title>
+  <desc><![CDATA[
+Ecartelé entre son épouse et sa maîtresse, un homme se débat entre peur, mensonge, désir et trahison. Bientôt, il perd le contrôle de la situation.
+]]></desc>
+</programme>
+
+<programme start="20260223231300 -0500" stop="20260224004100 -0500" channel="StudioCanal">
+  <title>JE SUIS TIMIDE, MAIS JE ME SOIGNE</title>
+  <desc><![CDATA[
+Pour les beaux yeux d'une jolie femme qu'il croit très riche, un jeune homme tente, avec l'aide de son psychologue, de vaincre sa timidité maladive.
+]]></desc>
+</programme>
+
+<!-- 🔵 MARDI 24 FÉVRIER 2026 (suite de nuit) 🔵 -->
+<programme start="20260224004100 -0500" stop="20260224024100 -0500" channel="StudioCanal">
+  <title>ALL OR NOTHING</title>
+  <desc><![CDATA[
+La vie déprimante d'un chauffeur de taxi, réduite à son travail et à ses tristes relations avec sa famille, est bouleversée lorsque son fils est hospitalisé.
+]]></desc>
+</programme>
+
+<!-- IMPORTANT: remplace le STOP de "ALL OR NOTHING" par le START EXACT du programme suivant après 00:41 -->
+<programme start="20260224024100 -0500" stop="20260224070700 -0500" channel="StudioCanal">
+  <title>HORS D’ONDE</title>
+  <desc><![CDATA[
+Hors d’onde.
+]]></desc>
+</programme>
+<!-- 🔵 MARDI 24 FÉVRIER 2026 🔵 -->
+
+<programme start="20260224070400 -0500" stop="20260224091600 -0500" channel="StudioCanal">
+  <title>AUX SOURCES DU NIL</title>
+  <desc><![CDATA[
+A la fin du XIXe siècle, deux explorateurs britanniques remontent le Nil pour découvrir ses sources dans une région encore très mystérieuse.
+]]></desc>
+</programme>
+
+<programme start="20260224091600 -0500" stop="20260224104600 -0500" channel="StudioCanal">
+  <title>LE QUAI DES BRUMES</title>
+  <desc><![CDATA[
+Sur le point d'embarquer pour le Venezuela, un déserteur, intervenant lors d'une dispute, commet un meurtre pour défendre la jeune femme qu'il aime.
+]]></desc>
+</programme>
+
+<programme start="20260224104600 -0500" stop="20260224124200 -0500" channel="StudioCanal">
+  <title>LE CRABE-TAMBOUR</title>
+  <desc><![CDATA[
+Un vieil officier de marine malade, sentant sa mort approcher à grands pas, se porte à la rencontre d'un ami d'antan et médite sur leurs destins.
+]]></desc>
+</programme>
+
+<programme start="20260224124200 -0500" stop="20260224141000 -0500" channel="StudioCanal">
+  <title>KI LO SA ?</title>
+  <desc><![CDATA[
+Honorant une vieille promesse, trois hommes et une femme, aujourd'hui trentenaires, se retrouvent dans le parc où ils avaient l'habitude de jouer, enfants.
+]]></desc>
+</programme>
+
+<programme start="20260224141000 -0500" stop="20260224152900 -0500" channel="StudioCanal">
+  <title>LA SENTENCE</title>
+  <desc><![CDATA[
+La sentence
+]]></desc>
+</programme>
+
+<programme start="20260224152900 -0500" stop="20260224164900 -0500" channel="StudioCanal">
+  <title>LES INFORTUNES DE LA BEAUTÉ</title>
+  <desc><![CDATA[
+Deux amies se lancent un pari et remuent ciel et terre pour dénicher la femme idéale, afin de convaincre un don juan que la femme parfaite peut exister.
+]]></desc>
+</programme>
+
+<programme start="20260224164900 -0500" stop="20260224182700 -0500" channel="StudioCanal">
+  <title>COMME UN BOOMERANG</title>
+  <desc><![CDATA[
+Afin de sauver son fils accusé de meurtre, un riche homme d'affaires renoue avec son passé délictueux. Les journaux révèlent son séjour en prison.
+]]></desc>
+</programme>
+
+<programme start="20260224182700 -0500" stop="20260224200000 -0500" channel="StudioCanal">
+  <title>LA VIE À L'ENVERS</title>
+  <desc><![CDATA[
+Un trentenaire parisien s'extrait peu à peu de la réalité et de ses contingences et s'enferme dans une solitude heureuse, jusqu'à basculer dans la folie.
+]]></desc>
+</programme>
+
+<programme start="20260224200000 -0500" stop="20260224213800 -0500" channel="StudioCanal">
+  <title>LA GUEULE DE L'AUTRE</title>
+  <desc><![CDATA[
+Menacé par un tueur en cavale, un homme politique cède provisoirement sa place à son cousin, à la fois parfait sosie et comédien sans envergure.
+]]></desc>
+</programme>
+
+<programme start="20260224213800 -0500" stop="20260224230300 -0500" channel="StudioCanal">
+  <title>LES BRONZÉS FONT DU SKI</title>
+  <desc><![CDATA[
+Un groupe de Parisiens très moyens découvre les joies et les peines des sports d'hiver. Les maladresses des uns font le bonheur des autres.
+]]></desc>
+</programme>
+
+<programme start="20260224230300 -0500" stop="20260225013900 -0500" channel="StudioCanal">
+  <title>EDITH ET MARCEL</title>
+  <desc><![CDATA[
+Tandis qu'aux Etats-Unis, la chanteuse Edith Piaf pleure la mort de Marcel Cerdan, une autre histoire d'amour, anonyme celle-là, se fait et se défait.
+]]></desc>
+</programme>
+
+<!-- 🔵 MERCREDI 25 FÉVRIER 2026 (suite de nuit) 🔵 -->
+<programme start="20260225013900 -0500" stop="20260225033900 -0500" channel="StudioCanal">
+  <title>UN DIMANCHE À LA CAMPAGNE</title>
+  <desc><![CDATA[
+En France, deux ans avant la Première Guerre mondiale. Dans sa maison de campagne, un vieux peintre reçoit la visite dominicale de son fils et de sa fille.
+]]></desc>
+</programme>
+
+<!-- IMPORTANT : remplace le STOP de "UN DIMANCHE À LA CAMPAGNE" par le START EXACT du programme suivant après 01:39 -->
+
+<programme start="20260225033900 -0500" stop="20260225064500 -0500" channel="StudioCanal">
+  <title>HORS D’ONDE</title>
+  <desc><![CDATA[
+Hors d’onde.
+]]></desc>
+</programme>
+<!-- =============================== -->
+<!-- 🔵 MERCREDI 25 FÉVRIER 2026 🔵 -->
+<!-- =============================== -->
+
+<programme start="20260225064500 -0500" stop="20260225080400 -0500" channel="StudioCanal">
+  <title>LA SENTENCE</title>
+  <desc><![CDATA[
+La sentence
+]]></desc>
+</programme>
+
+<programme start="20260225080400 -0500" stop="20260225094300 -0500" channel="StudioCanal">
+  <title>LA GUEULE DE L'AUTRE</title>
+  <desc><![CDATA[
+Menacé par un tueur en cavale, un homme politique cède provisoirement sa place à son cousin, à la fois parfait sosie et comédien sans envergure.
+]]></desc>
+</programme>
+
+<programme start="20260225094300 -0500" stop="20260225112100 -0500" channel="StudioCanal">
+  <title>LES PARISIENNES</title>
+  <desc><![CDATA[
+Quatre femmes face à l'amour, la fidélité, la tromperie, la solitude : quatre visages bien différents de Cupidon, pas forcément très reluisants.
+]]></desc>
+</programme>
+
+<programme start="20260225112100 -0500" stop="20260225140000 -0500" channel="StudioCanal">
+  <title>JUSTINIEN TROUVÉ OU LE BÂTARD DE DIEU</title>
+  <desc><![CDATA[
+]]></desc>
+</programme>
+
+<programme start="20260225140000 -0500" stop="20260225152900 -0500" channel="StudioCanal">
+  <title>JOSETTE</title>
+  <desc><![CDATA[
+]]></desc>
+</programme>
+
+<programme start="20260225152900 -0500" stop="20260225165100 -0500" channel="StudioCanal">
+  <title>EN PLEIN FEU</title>
+  <desc><![CDATA[
+]]></desc>
+</programme>
+
+<programme start="20260225165100 -0500" stop="20260225182800 -0500" channel="StudioCanal">
+  <title>LA REVANCHE</title>
+  <desc><![CDATA[
+]]></desc>
+</programme>
+
+<programme start="20260225182800 -0500" stop="20260225200000 -0500" channel="StudioCanal">
+  <title>UN DIMANCHE À LA CAMPAGNE</title>
+  <desc><![CDATA[
+]]></desc>
+</programme>
+
+<programme start="20260225200000 -0500" stop="20260225215400 -0500" channel="StudioCanal">
+  <title>LES AMANTS DU CAPRICORNE</title>
+  <desc><![CDATA[
+]]></desc>
+</programme>
+
+<programme start="20260225215400 -0500" stop="20260225235300 -0500" channel="StudioCanal">
+  <title>MONSIEUR KLEIN</title>
+  <desc><![CDATA[
+]]></desc>
+</programme>
+
+<programme start="20260225235300 -0500" stop="20260226011600 -0500" channel="StudioCanal">
+  <title>LA CUISINE AU BEURRE</title>
+  <desc><![CDATA[
+]]></desc>
+</programme>
+
+<!-- =============================== -->
+<!-- 🔵 JEUDI 26 FÉVRIER 2026 (suite de nuit) 🔵 -->
+<!-- =============================== -->
+
+<programme start="20260226011600 -0500" stop="20260226031600 -0500" channel="StudioCanal">
+  <title>LA THUNE</title>
+  <desc><![CDATA[
+]]></desc>
+</programme>
+
+<programme start="20260226031600 -0500" stop="20260226052500 -0500" channel="StudioCanal">
+  <title>HORS D’ONDE</title>
+  <desc><![CDATA[
+Hors d’onde.
+]]></desc>
+</programme>
+
+<programme start="20260226052500 -0500" stop="20260226064400 -0500" channel="StudioCanal">
+  <title>LES INFORTUNES DE LA BEAUTÉ</title>
+  <desc><![CDATA[
+Deux amies se lancent un pari et remuent ciel et terre pour dénicher la femme idéale, afin de convaincre un don juan que la femme parfaite peut exister.
+]]></desc>
+</programme>
+<!-- =============================== -->
+<!-- 🔵 JEUDI 26 FÉVRIER 2026 🔵 -->
+<!-- =============================== -->
+
+<programme start="20260226064400 -0500" stop="20260226081300 -0500" channel="StudioCanal">
+  <title>JE SUIS TIMIDE, MAIS JE ME SOIGNE</title>
+  <desc><![CDATA[
+1978 · Comédie
+Réalisation : Pierre Richard
+Avec : Pierre Richard, Aldo Maccione, Mimi Coutelier
+
+Pour les beaux yeux d'une jolie femme qu'il croit très riche, un jeune homme tente, avec l'aide de son psychologue, de vaincre sa timidité maladive.
+]]></desc>
+</programme>
+
+<programme start="20260226081300 -0500" stop="20260226095100 -0500" channel="StudioCanal">
+  <title>COMME UN BOOMERANG</title>
+  <desc><![CDATA[
+1976 · Policier, drame
+Réalisation : José Giovanni
+Avec : Alain Delon, Carla Gravina, Charles Vanel
+
+Afin de sauver son fils accusé de meurtre, un riche homme d'affaires renoue avec son passé délictueux. Les journaux révèlent son séjour en prison.
+]]></desc>
+</programme>
+
+<programme start="20260226095100 -0500" stop="20260226120300 -0500" channel="StudioCanal">
+  <title>AUX SOURCES DU NIL</title>
+  <desc><![CDATA[
+1990 · Aventure, drame
+Réalisation : Bob Rafelson
+Avec : Patrick Bergin, Iain Glen, Fiona Shaw, Richard E. Grant
+
+A la fin du XIXe siècle, deux explorateurs britanniques remontent le Nil pour découvrir ses sources dans une région encore très mystérieuse.
+]]></desc>
+</programme>
+
+<programme start="20260226120300 -0500" stop="20260226133200 -0500" channel="StudioCanal">
+  <title>LE QUAI DES BRUMES</title>
+  <desc><![CDATA[
+1938 · Drame
+Réalisation : Marcel Carné
+Avec : Jean Gabin, Michèle Morgan, Michel Simon
+
+Sur le point d'embarquer pour le Venezuela, un déserteur, intervenant lors d'une dispute, commet un meurtre pour défendre la jeune femme qu'il aime.
+]]></desc>
+</programme>
+
+<programme start="20260226133200 -0500" stop="20260226152900 -0500" channel="StudioCanal">
+  <title>LE CRABE-TAMBOUR</title>
+  <desc><![CDATA[
+1977 · Aventures
+Réalisation : Pierre Schoendoerffer
+Avec : Jean Rochefort, Jacques Perrin, Claude Rich
+
+Un vieil officier de marine malade, sentant sa mort approcher à grands pas, se porte à la rencontre d'un ami d'antan et médite sur leurs destins.
+]]></desc>
+</programme>
+
+<programme start="20260226152900 -0500" stop="20260226172300 -0500" channel="StudioCanal">
+  <title>LES AMANTS DU CAPRICORNE</title>
+  <desc><![CDATA[
+1949 · Drame, romance
+Réalisation : Alfred Hitchcock
+Avec : Ingrid Bergman, Joseph Cotten, Michael Wilding
+
+En 1831, un voyageur anglais retrouve sa cousine en Australie et tente de l'arracher à l'étrange déchéance dans laquelle il la voit plongée.
+]]></desc>
+</programme>
+
+<programme start="20260226172300 -0500" stop="20260226200000 -0500" channel="StudioCanal">
+  <title>EDITH ET MARCEL</title>
+  <desc><![CDATA[
+1983 · Biopic, drame, romance
+Réalisation : Claude Lelouch
+Avec : Évelyne Bouix, Marcel Cerdan Jr, Jacques Villeret
+
+Tandis qu'aux Etats-Unis, la chanteuse Edith Piaf pleure la mort de Marcel Cerdan, une autre histoire d'amour, anonyme celle-là, se fait et se défait.
+]]></desc>
+</programme>
+
+<programme start="20260226200000 -0500" stop="20260226214300 -0500" channel="StudioCanal">
+  <title>NELLY ET MONSIEUR ARNAUD</title>
+  <desc><![CDATA[
+1995 · Drame
+Réalisation : Claude Sautet
+Avec : Emmanuelle Béart, Michel Serrault, Jean-Hugues Anglade
+
+Une jeune femme devient la secrétaire occasionnelle d'un vieil homme solitaire, qu'elle aide à rédiger ses mémoires. Une relation forte s'établit entre eux.
+]]></desc>
+</programme>
+
+<programme start="20260226214300 -0500" stop="20260226232600 -0500" channel="StudioCanal">
+  <title>MOI, LA FEMME</title>
+  <desc><![CDATA[
+1971 · Comédie
+Réalisation : Dino Risi
+Avec : Monica Vitti, Carlo Giuffrè, Enrico Maria Salerno
+
+Douze sketches et autant de portraits de femmes que tout oppose mais qui, toutes, évoluent et sont prises au piège dans des sociétés machistes.
+]]></desc>
+</programme>
+
+<programme start="20260226232600 -0500" stop="20260227002800 -0500" channel="StudioCanal">
+  <title>NUMÉRO 17</title>
+  <desc><![CDATA[
+1932 · Thriller
+Réalisation : Alfred Hitchcock
+Avec : John Stuart, Anne Grey, Leon M. Lion
+
+Un policier et un clochard enquêtent ensemble sur un cambriolage suivi de meurtre, et se lancent à la poursuite d'une redoutable bande de malfaiteurs.
+]]></desc>
+</programme>
+
+<!-- =============================== -->
+<!-- 🔵 VENDREDI 27 FÉVRIER 2026 (suite de nuit) 🔵 -->
+<!-- =============================== -->
+
+<programme start="20260227002800 -0500" stop="20260227015100 -0500" channel="StudioCanal">
+  <title>EN PLEIN FEU</title>
+  <desc><![CDATA[
+2022 · Catastrophe
+Réalisation : Quentin Reynaud
+Avec : Alex Lutz, André Dussollier, Laura Sepul
+
+Alors qu'un incendie incontrôlable ravage la forêt landaise, un père et son fils se retrouvent coincés dans leur véhicule, cerné par les flammes.
+]]></desc>
+</programme>
+
+<programme start="20260227015100 -0500" stop="20260227035100 -0500" channel="StudioCanal">
+  <title>LA VIE À L'ENVERS</title>
+  <desc><![CDATA[
+1964 · Drame
+Réalisation : Alain Jessua
+Avec : Charles Denner, Anna Gaylor, Guy Saint-Jean
+
+Un trentenaire parisien s'extrait peu à peu de la réalité et de ses contingences et s'enferme dans une solitude heureuse, jusqu'à basculer dans la folie.
+]]></desc>
+</programme>
+
+<programme start="20260227035100 -0500" stop="20260227062800 -0500" channel="StudioCanal">
+  <title>HORS D’ONDE</title>
+  <desc><![CDATA[
+Hors d’onde.
+]]></desc>
+</programme>
+<!-- 🔵 VENDREDI 27 FÉVRIER 2026 🔵 -->
+
+<programme start="20260227062800 -0500" stop="20260227083200 -0500" channel="StudioCanal">
+  <title>ALL OR NOTHING</title>
+  <desc><![CDATA[
+2002 · Drame
+Réalisation : Mike Leigh
+Avec : Timothy Spall, Lesley Manville
+
+La vie déprimante d'un chauffeur de taxi, réduite à son travail et à ses tristes relations avec sa famille, est bouleversée lorsque son fils est hospitalisé.
+]]></desc>
+</programme>
+
+<programme start="20260227083200 -0500" stop="20260227100100 -0500" channel="StudioCanal">
+  <title>JOSETTE</title>
+  <desc><![CDATA[
+1937 · Comédie
+Réalisation : Christian-Jaque
+Avec : Fernandel, Mona Goya, Lucien Rozenberg
+
+Un brave garçon porte secours dans la rue à un vieil homme qui lui donne les moyens de réaliser son voeu le plus cher, devenir chanteur de music-hall.
+]]></desc>
+</programme>
+
+<programme start="20260227100100 -0500" stop="20260227114300 -0500" channel="StudioCanal">
+  <title>LE CHANTEUR DE MEXICO</title>
+  <desc><![CDATA[
+1956 · Film musical, romance
+Réalisation : Richard Pottier
+Avec : Luis Mariano, Bourvil, Annie Cordy
+
+Les mésaventures d'un chanteur amateur qui accepte d'aller remplacer une vedette volage et bornée dont il est le sosie, afin de créer une opérette au Mexique.
+]]></desc>
+</programme>
+
+<programme start="20260227114300 -0500" stop="20260227131500 -0500" channel="StudioCanal">
+  <title>LA DUCHESSE DE LANGEAIS</title>
+  <desc><![CDATA[
+1942 · Drame
+Réalisation : Jacques de Baroncelli
+Avec : Edwige Feuillère, Aimé Clariond
+
+Une jeune duchesse, aussi belle que brillante, aime à séduire les nombreux prétendants qui se pressent à ses pieds. Un militaire attire son attention.
+]]></desc>
+</programme>
+
+<programme start="20260227131500 -0500" stop="20260227143800 -0500" channel="StudioCanal">
+  <title>EN PLEIN FEU</title>
+  <desc><![CDATA[
+2022 · Catastrophe
+Réalisation : Quentin Reynaud
+Avec : Alex Lutz, André Dussollier, Laura Sepul
+
+Alors qu'un incendie incontrôlable ravage la forêt landaise, un père et son fils se retrouvent coincés dans leur véhicule, cerné par les flammes.
+]]></desc>
+</programme>
+
+<programme start="20260227143800 -0500" stop="20260227164900 -0500" channel="StudioCanal">
+  <title>LE GRAND CARNAVAL</title>
+  <desc><![CDATA[
+1983 · Drame
+Réalisation : Alexandre Arcady
+Avec : Richard Berry, Jean Carmet
+
+En Algérie, deux hommes engagent une lutte acharnée pour conquérir le coeur d'une sensuelle jeune femme, qui menace de détruire leur belle amitié.
+]]></desc>
+</programme>
+
+<programme start="20260227164900 -0500" stop="20260227183300 -0500" channel="StudioCanal">
+  <title>NELLY ET MONSIEUR ARNAUD</title>
+  <desc><![CDATA[
+1995 · Drame
+Réalisation : Claude Sautet
+Avec : Emmanuelle Béart, Michel Serrault, Jean-Hugues Anglade
+
+Une jeune femme devient la secrétaire occasionnelle d'un vieil homme solitaire, qu'elle aide à rédiger ses mémoires. Une relation forte s'établit entre eux.
+]]></desc>
+</programme>
+
+<programme start="20260227183300 -0500" stop="20260227200000 -0500" channel="StudioCanal">
+  <title>JE SUIS TIMIDE, MAIS JE ME SOIGNE</title>
+  <desc><![CDATA[
+1978 · Comédie
+Réalisation : Pierre Richard
+Avec : Pierre Richard, Jane Birkin, Michel Aumont
+
+Pour les beaux yeux d'une jolie femme qu'il croit très riche, un jeune homme tente, avec l'aide de son psychologue, de vaincre sa timidité maladive.
+]]></desc>
+</programme>
+
+<programme start="20260227200000 -0500" stop="20260227214400 -0500" channel="StudioCanal">
+  <title>L'ARGENT DES AUTRES</title>
+  <desc><![CDATA[
+1978 · Drame
+Réalisation : Christian de Chalonge
+Avec : Jean-Louis Trintignant, Catherine Deneuve
+
+Le fondé de pouvoir d'une puissante banque, accusé à tort d'une immense escroquerie financière, tente désespérément de sauver sa tête et sa réputation.
+]]></desc>
+</programme>
+
+<programme start="20260227214400 -0500" stop="20260227232100 -0500" channel="StudioCanal">
+  <title>DOCTEUR PETIOT</title>
+  <desc><![CDATA[
+1990 · Drame
+Réalisation : Christian de Chalonge
+Avec : Michel Serrault, Bérangère Bonvoisin
+
+Sous l'Occupation, les crimes abominables d'un médecin dément qui, sous couvert de vaccination, endort ses patients, puis les découpe en morceaux.
+]]></desc>
+</programme>
+
+<programme start="20260227232100 -0500" stop="20260228004700 -0500" channel="StudioCanal">
+  <title>L'ALLIANCE</title>
+  <desc><![CDATA[
+1971 · Drame
+Réalisation : Christian de Chalonge
+Avec : Anna Karina, Jean-Claude Carrière
+
+Un étrange vétérinaire et une femme énigmatique se marient grâce à une agence matrimoniale. Leur relation débute par une grande méfiance réciproque.
+]]></desc>
+</programme>
+
+<!-- 🔵 SAMEDI 28 FÉVRIER 2026 (suite de nuit) 🔵 -->
+
+<programme start="20260228004700 -0500" stop="20260228022200 -0500" channel="StudioCanal">
+  <title>LA REVANCHE</title>
+  <desc><![CDATA[
+1980 · Policier
+Réalisation : Pierre Lary
+Avec : Daniel Auteuil, Nathalie Baye
+
+Deux femmes à l'imagination débordante, déçues par leurs époux respectifs, décident de se venger en organisant un cambriolage de grande envergure.
+]]></desc>
+</programme>
+
+<programme start="20260228022200 -0500" stop="20260228050200 -0500" channel="StudioCanal">
+  <title>LA SENTENCE</title>
+  <desc><![CDATA[
+1959 · Drame
+Réalisation : Jean Valère
+Avec : Robert Hossein, Marina Vlady, Roger Hanin
+
+La sentence
+]]></desc>
+</programme>
+
+<programme start="20260228050200 -0500" stop="20260228050200 -0500" channel="StudioCanal">
+  <title>NUMÉRO 17</title>
+  <desc><![CDATA[
+1932 · Thriller
+Réalisation : Alfred Hitchcock
+Avec : John Stuart, Anne Grey, Leon M. Lion
+
+]]></desc>
+</programme>
+
+<!-- IMPORTANT : remplace le STOP de "NUMÉRO 17" par le START EXACT du programme suivant après 05:02 -->
+<programme start="20260228050200 -0500" stop="20260228060300 -0500" channel="StudioCanal">
+  <title>NUMÉRO 17</title>
+  <desc><![CDATA[
+Un policier et un clochard enquêtent ensemble sur un cambriolage suivi de meurtre, et se lancent à la poursuite d'une redoutable bande de malfaiteurs.
+]]></desc>
+</programme>
+
+<!-- 🔵 SAMEDI 28 FÉVRIER 2026 🔵 -->
+
+<programme start="20260228060300 -0500" stop="20260228073000 -0500" channel="StudioCanal">
+  <title>KI LO SA ?</title>
+  <desc><![CDATA[
+1986 · Comédie dramatique
+Réalisation : Robert Guédiguian
+Avec : Ariane Ascaride, Pierre Banderet, Jean-Pierre Darroussin
+
+Honorant une vieille promesse, trois hommes et une femme, aujourd'hui trentenaires, se retrouvent dans le parc où ils avaient l'habitude de jouer, enfants.
+]]></desc>
+</programme>
+
+<programme start="20260228073000 -0500" stop="20260228092600 -0500" channel="StudioCanal">
+  <title>LE PASSAGER DE LA PLUIE</title>
+  <desc><![CDATA[
+1970 · Policier, thriller, drame
+Réalisation : René Clément
+Avec : Marlène Jobert, Charles Bronson, Annie Cordy
+
+Une femme-enfant est entraînée dans une aventure violente au cours de laquelle elle est contrainte d'abattre un homme, ce qui la forcera à devenir adulte.
+]]></desc>
+</programme>
+
+<programme start="20260228092600 -0500" stop="20260228110800 -0500" channel="StudioCanal">
+  <title>DERNIER DOMICILE CONNU</title>
+  <desc><![CDATA[
+1970 · Policier
+Réalisation : José Giovanni
+Avec : Lino Ventura, Marlène Jobert, Michel Constantin
+
+Mis sur la touche en dépit de ses états de service, un policier amer est chargé de retrouver le témoin d'un meurtre, aidé d'une jeune assistante.
+]]></desc>
+</programme>
+
+<programme start="20260228110800 -0500" stop="20260228130000 -0500" channel="StudioCanal">
+  <title>LES AMANTS DU CAPRICORNE</title>
+  <desc><![CDATA[
+1949 · Drame, romance
+Réalisation : Alfred Hitchcock
+Avec : Ingrid Bergman, Joseph Cotten, Michael Wilding
+
+En 1831, un voyageur anglais retrouve sa cousine en Australie et tente de l'arracher à l'étrange déchéance dans laquelle il la voit plongée.
+]]></desc>
+</programme>
+
+<programme start="20260228130000 -0500" stop="20260228143800 -0500" channel="StudioCanal">
+  <title>LA GUEULE DE L'AUTRE</title>
+  <desc><![CDATA[
+1979 · Comédie
+Réalisation : Pierre Tchernia
+Avec : Michel Serrault, Andréa Parisy, Jean Poiret
+
+Menacé par un tueur en cavale, un homme politique cède provisoirement sa place à son cousin, à la fois parfait sosie et comédien sans envergure.
+]]></desc>
+</programme>
+
+<programme start="20260228143800 -0500" stop="20260228161900 -0500" channel="StudioCanal">
+  <title>LE CHANTEUR DE MEXICO</title>
+  <desc><![CDATA[
+1956 · Comédie musicale
+Réalisation : Richard Pottier
+Avec : Luis Mariano, Bourvil, Annie Cordy
+
+Les mésaventures d'un chanteur amateur qui accepte d'aller remplacer une vedette volage et bornée dont il est le sosie, afin de créer une opérette au Mexique.
+]]></desc>
+</programme>
+
+<programme start="20260228161900 -0500" stop="20260228181700 -0500" channel="StudioCanal">
+  <title>MONSIEUR KLEIN</title>
+  <desc><![CDATA[
+1976 · Drame
+Réalisation : Joseph Losey
+Avec : Alain Delon, Jeanne Moreau, Michael Lonsdale
+
+A Paris, en 1942. Confondu avec un homonyme juif, un trafiquant cynique se retrouve pris dans un terrible engrenage, et perd peu à peu ses repères.
+]]></desc>
+</programme>
+
+<programme start="20260228181700 -0500" stop="20260228200000 -0500" channel="StudioCanal">
+  <title>NELLY ET MONSIEUR ARNAUD</title>
+  <desc><![CDATA[
+1995 · Drame
+Réalisation : Claude Sautet
+Avec : Emmanuelle Béart, Michel Serrault, Jean-Hugues Anglade
+
+Une jeune femme devient la secrétaire occasionnelle d'un vieil homme solitaire, qu'elle aide à rédiger ses mémoires. Une relation forte s'établit entre eux.
+]]></desc>
+</programme>
+
+<programme start="20260228200000 -0500" stop="20260228231500 -0500" channel="StudioCanal">
+  <title>CÉSAR 2026</title>
+  <desc><![CDATA[
+2026 · Spécial / Cérémonie
+Réalisation : N/A
+Avec : N/A
+
+César 2026
+]]></desc>
+</programme>
+
+<programme start="20260228231500 -0500" stop="20260301005900 -0500" channel="StudioCanal">
+  <title>L'ARGENT DES AUTRES</title>
+  <desc><![CDATA[
+1978 · Drame
+Réalisation : Christian de Chalonge
+Avec : Jean-Louis Trintignant, Catherine Deneuve
+
+Le fondé de pouvoir d'une puissante banque, accusé d'une immense escroquerie financière, tente désespérément de sauver sa tête et sa réputation.
+]]></desc>
+</programme>
+
+<programme start="20260301005900 -0500" stop="20260301024100 -0500" channel="StudioCanal">
+  <title>LE FILS DU FRANÇAIS</title>
+  <desc><![CDATA[
+1999 · Aventures, comédie
+Réalisation : Gérard Lauzier
+Avec : Josiane Balasko, Fanny Ardant, Thierry Frémont
+
+Deux grands-mères qui se détestent cordialement sillonnent la jungle amazonienne avec leur petit-fils pour retrouver le père de l'enfant, un chercheur d'or.
+]]></desc>
+</programme>
+
+<programme start="20260301024100 -0500" stop="20260301044100 -0500" channel="StudioCanal">
+  <title>LE CRABE-TAMBOUR</title>
+  <desc><![CDATA[
+1977 · Aventures
+Réalisation : Pierre Schoendoerffer
+Avec : Jean Rochefort, Jacques Perrin, Claude Rich
+
+Un vieil officier de marine malade, sentant sa mort approcher à grands pas, se porte à la rencontre d'un ami d'antan et médite sur leurs destins.
+]]></desc>
+</programme>
 
 </tv>
+
 
 
 
