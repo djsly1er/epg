@@ -1430,7 +1430,7 @@ Avec : Catherine Deneuve, Patrick Dewaere
 ]]></desc>
 </programme>
 
-<programme start="20260218002800 -0500" stop="20260218040000 -0500" channel="StudioCanal">
+<programme start="20260218002800 -0500" stop="20260218022800 -0500" channel="StudioCanal">
   <title>Le traqué</title>
   <desc><![CDATA[
 1975 · Policier
@@ -1440,6 +1440,13 @@ Avec : Jean-Louis Trintignant, Marlène Jobert
 Un homme accusé à tort tente d’échapper à une implacable traque tout en cherchant à prouver son innocence.
 ]]></desc>
 </programme>
+  <programme start="20260218022800 -0500" stop="20260218060200 -0500" channel="StudioCanal">
+  <title>HORS D'ONDE</title>
+  <desc><![CDATA[
+Hors d’onde.
+]]></desc>
+</programme>
+
 <!-- =============================== -->
 <!-- 🔵 MERCREDI 18 FÉVRIER 2026 🔵 -->
 <!-- =============================== -->
@@ -1586,6 +1593,13 @@ Avec : Pierre Fresnay
 Au XVIIe siècle, Vincent de Paul consacre sa vie aux plus démunis avant d’être nommé aumônier des galères royales.
 ]]></desc>
 </programme>
+  <programme start="20260219040000 -0500" stop="20260219062900 -0500" channel="StudioCanal">
+  <title>HORS D'ONDE</title>
+  <desc><![CDATA[
+Hors d’onde.
+]]></desc>
+
+
 <!-- =============================== -->
 <!-- 🔵 JEUDI 19 FÉVRIER 2026 🔵 -->
 <!-- =============================== -->
@@ -2884,6 +2898,7 @@ Un vieil officier de marine malade, sentant sa mort approcher à grands pas, se 
 </programme>
 
 </tv>
+
 
 
 
