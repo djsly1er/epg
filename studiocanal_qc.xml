@@ -723,7 +723,7 @@ Au XVIIIe siècle, un enfant abandonné est confié à un monastère et voit son
 ]]></desc>
 </programme>
 
-<programme start="20260213013800 -0500" stop="20260213030000 -0500" channel="StudioCanal">
+<programme start="20260213013800 -0500" stop="20260213031800 -0500" channel="StudioCanal">
   <title>Le crime de Monsieur Lange</title>
   <desc><![CDATA[
 1936 · Drame
@@ -733,6 +733,13 @@ Avec : René Lefèvre, Jules Berry
 Des ouvriers fondent une coopérative après la disparition de leur patron, mais son retour change tout.
 ]]></desc>
 </programme>
+  <programme start="20260213031800 -0500" stop="20260213070700 -0500" channel="StudioCanal">
+  <title>HORS D'ONDE</title>
+  <desc><![CDATA[
+Hors d’onde.
+]]></desc>
+</programme>
+
 <!-- VENDREDI 13 FÉVRIER 2026 -->
 
 <programme start="20260213070700 -0500" stop="20260213083100 -0500" channel="StudioCanal">
@@ -2898,6 +2905,7 @@ Un vieil officier de marine malade, sentant sa mort approcher à grands pas, se 
 </programme>
 
 </tv>
+
 
 
 
