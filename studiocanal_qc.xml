@@ -2315,5 +2315,436 @@
 <actor>Jimmy Wang Yu</actor>
 </credits>
 </programme>
+  <!-- 🔵 DIMANCHE 2 MARS 2026 🔵 -->
+<programme start="20260302123500 -0500" stop="20260302140400 -0500" channel="MidnightPulp">
+  <title>Faster Blade: Poisonous Darts</title>
+</programme>
+  <!-- 🔵 DIMANCHE 2 MARS 2026 🔵 -->
+
+<programme start="20260302140400 -0500" stop="20260302155900 -0500" channel="MidnightPulp">
+<title>Shaolin Wooden Men</title>
+<date>1976</date>
+<category>Martial Arts</category>
+<desc>A mute martial artist trains at the Shaolin Temple and must pass the deadly Wooden Men Alley to avenge his father's murder.</desc>
+<credits>
+<director>Chen Chi-Hwa</director>
+<actor>Jackie Chan</actor>
+<actor>Kam Kong</actor>
+</credits>
+</programme>
+
+<programme start="20260302155900 -0500" stop="20260302182000 -0500" channel="MidnightPulp">
+<title>Raining in the Mountain</title>
+<date>1979</date>
+<category>Drama</category>
+<category>Martial Arts</category>
+<desc>Thieves and monks compete for possession of a priceless scroll in a secluded mountain monastery.</desc>
+<credits>
+<director>King Hu</director>
+<actor>Hsu Feng</actor>
+<actor>Sun Yueh</actor>
+</credits>
+</programme>
+
+<programme start="20260302182000 -0500" stop="20260302200500 -0500" channel="MidnightPulp">
+<title>Martial Law</title>
+<date>1990</date>
+<category>Action</category>
+<desc>A martial artist police officer uses his skills to fight crime and protect innocent lives.</desc>
+<credits>
+<actor>Chad McQueen</actor>
+</credits>
+</programme>
+
+<programme start="20260302200500 -0500" stop="20260302214500 -0500" channel="MidnightPulp">
+<title>Ozark Sharks</title>
+<date>2016</date>
+<category>Horror</category>
+<desc>A family vacation turns deadly when sharks invade a freshwater lake.</desc>
+<credits>
+<director>Misty Talley</director>
+<actor>Allisyn Ashley Arm</actor>
+</credits>
+</programme>
+
+<programme start="20260302214500 -0500" stop="20260302233000 -0500" channel="MidnightPulp">
+<title>Killer Crocodile</title>
+<date>1989</date>
+<category>Horror</category>
+<desc>Scientists and activists battle a giant crocodile mutated by toxic waste.</desc>
+<credits>
+<director>Fabrizio De Angelis</director>
+</credits>
+</programme>
+
+<programme start="20260302233000 -0500" stop="20260303000000 -0500" channel="MidnightPulp">
+<title>Bloody Bites</title>
+<sub-title>S7 E3 Live Forever</sub-title>
+<date>2023</date>
+<category>Horror</category>
+<desc>A horror anthology featuring terrifying encounters with deadly creatures and supernatural forces.</desc>
+</programme>
+
+<!-- 🔵 LUNDI 3 MARS 2026 🔵 -->
+
+<programme start="20260303000000 -0500" stop="20260303014000 -0500" channel="MidnightPulp">
+<title>Ozark Sharks</title>
+<date>2016</date>
+<category>Horror</category>
+</programme>
+
+<programme start="20260303014000 -0500" stop="20260303032500 -0500" channel="MidnightPulp">
+<title>Killer Crocodile</title>
+<date>1989</date>
+<category>Horror</category>
+</programme>
+
+<programme start="20260303032500 -0500" stop="20260303035400 -0500" channel="MidnightPulp">
+<title>Bloody Bites</title>
+<date>2023</date>
+<category>Horror</category>
+</programme>
+
+<programme start="20260303035400 -0500" stop="20260303064000 -0500" channel="MidnightPulp">
+<title>Knightriders</title>
+<date>1981</date>
+<category>Action</category>
+<desc>A group of modern-day knights travel performing jousting tournaments.</desc>
+<credits>
+<director>George A. Romero</director>
+</credits>
+</programme>
+
+<programme start="20260303064000 -0500" stop="20260303084200 -0500" channel="MidnightPulp">
+<title>Atomic Apocalypse</title>
+<date>2018</date>
+<category>Science Fiction</category>
+</programme>
+
+<programme start="20260303084200 -0500" stop="20260303101900 -0500" channel="MidnightPulp">
+<title>Streets of Rage</title>
+<date>1994</date>
+<category>Action</category>
+</programme>
+
+<programme start="20260303101900 -0500" stop="20260303115900 -0500" channel="MidnightPulp">
+<title>The Bouncer</title>
+<date>2018</date>
+<category>Action</category>
+<actor>Jean-Claude Van Damme</actor>
+</programme>
+
+<programme start="20260303115900 -0500" stop="20260303133900 -0500" channel="MidnightPulp">
+<title>Massacre at Central High</title>
+<date>1976</date>
+<category>Thriller</category>
+</programme>
+
+<programme start="20260303133900 -0500" stop="20260303153700 -0500" channel="MidnightPulp">
+<title>Beyond the Door</title>
+<date>1974</date>
+<category>Horror</category>
+</programme>
+
+<programme start="20260303153700 -0500" stop="20260303172900 -0500" channel="MidnightPulp">
+<title>The Summoning</title>
+<date>2017</date>
+<category>Horror</category>
+</programme>
+
+<programme start="20260303172900 -0500" stop="20260303184900 -0500" channel="MidnightPulp">
+<title>Yellow Dragon's Village</title>
+<date>2021</date>
+<category>Action</category>
+</programme>
+
+<programme start="20260303184900 -0500" stop="20260303200000 -0500" channel="MidnightPulp">
+<title>Man Beast</title>
+<date>1956</date>
+<category>Horror</category>
+</programme>
+
+<programme start="20260303200000 -0500" stop="20260303220000 -0500" channel="MidnightPulp">
+<title>Double Target</title>
+<date>1987</date>
+<category>Action</category>
+</programme>
+
+<programme start="20260303220000 -0500" stop="20260304000000 -0500" channel="MidnightPulp">
+<title>Brothers Till We Die</title>
+<date>1978</date>
+<category>Crime</category>
+</programme>
+
+<!-- 🔵 MARDI 4 MARS 2026 🔵 -->
+
+<programme start="20260304000000 -0500" stop="20260304020000 -0500" channel="MidnightPulp">
+<title>Double Target</title>
+<date>1987</date>
+<category>Action</category>
+</programme>
+
+<programme start="20260304020000 -0500" stop="20260304040000 -0500" channel="MidnightPulp">
+<title>Brothers Till We Die</title>
+<date>1978</date>
+<category>Crime</category>
+</programme>
+  <!-- 🔵 MERCREDI 4 MARS 2026 🔵 -->
+
+<programme start="20260304040000 -0500" stop="20260304054000 -0500" channel="MidnightPulp">
+  <title>One-Armed Swordsman vs. Nine Killers</title>
+</programme>
+
+<programme start="20260304054000 -0500" stop="20260304072000 -0500" channel="MidnightPulp">
+  <title>World of the Drunken Master</title>
+</programme>
+
+<programme start="20260304072000 -0500" stop="20260304091000 -0500" channel="MidnightPulp">
+  <title>Avenging Boxer</title>
+</programme>
+
+<programme start="20260304091000 -0500" stop="20260304110000 -0500" channel="MidnightPulp">
+  <title>Master of the Flying Guillotine</title>
+  <date>1976</date>
+  <category>Martial Arts</category>
+  <category>Action</category>
+  <desc>A blind kung fu master hunts down the one-armed fighter who defeated his students, triggering a series of brutal duels between rival schools.</desc>
+</programme>
+
+<!-- 🔵 MERCREDI 4 MARS 2026 🔵 -->
+
+<programme start="20260304110000 -0500" stop="20260304121900 -0500" channel="MidnightPulp">
+  <title>Justice Ninja Style</title>
+  <date>1985</date>
+  <category>Action</category>
+  <desc>When a corrupt cop commits a brutal crime and frames an innocent man, the accused must fight to clear his name and expose the truth.</desc>
+</programme>
+
+<programme start="20260304121900 -0500" stop="20260304143500 -0500" channel="MidnightPulp">
+  <title>High Forces</title>
+</programme>
+
+<programme start="20260304143500 -0500" stop="20260304161500 -0500" channel="MidnightPulp">
+  <title>The Last Mercenary</title>
+</programme>
+
+<programme start="20260304161500 -0500" stop="20260304180400 -0500" channel="MidnightPulp">
+  <title>Born to Fight</title>
+  <date>2004</date>
+  <category>Action</category>
+  <category>Martial Arts</category>
+  <desc>An elite group of athletes is pulled into a deadly battle when criminals take hostages and force them into a fight for survival.</desc>
+</programme>
+
+<programme start="20260304180400 -0500" stop="20260304195300 -0500" channel="MidnightPulp">
+  <title>Caught in Time</title>
+  <date>2020</date>
+  <category>Action</category>
+  <category>Crime</category>
+  <desc>A veteran detective leads a task force against a ruthless crime boss who always stays one step ahead, pushing the hunt into a personal obsession.</desc>
+  <credits>
+    <actor>Daniel Wu</actor>
+    <actor>Wang Qianyuan</actor>
+  </credits>
+</programme>
+
+<programme start="20260304195300 -0500" stop="20260304220000 -0500" channel="MidnightPulp">
+  <title>Drug War</title>
+  <date>2012</date>
+  <category>Crime</category>
+  <category>Action</category>
+  <desc>A Hong Kong police captain teams up with a captured drug manufacturer to dismantle a powerful narcotics syndicate in mainland China.</desc>
+  <credits>
+    <director>Johnnie To</director>
+    <actor>Louis Koo</actor>
+    <actor>Sun Honglei</actor>
+  </credits>
+</programme>
+
+<programme start="20260304220000 -0500" stop="20260305000000 -0500" channel="MidnightPulp">
+  <title>Visible Secret</title>
+  <date>2001</date>
+  <category>Horror</category>
+  <category>Thriller</category>
+  <desc>After a traumatic encounter, a man gains the unsettling ability to see spirits, drawing him into a frightening mystery tied to death and the supernatural.</desc>
+</programme>
+
+
+<!-- 🔵 JEUDI 5 MARS 2026 🔵 -->
+
+<programme start="20260305000000 -0500" stop="20260305020000 -0500" channel="MidnightPulp">
+  <title>Drug War</title>
+  <date>2012</date>
+  <category>Crime</category>
+</programme>
+
+<programme start="20260305020000 -0500" stop="20260305040000 -0500" channel="MidnightPulp">
+  <title>Visible Secret</title>
+  <date>2001</date>
+  <category>Horror</category>
+</programme>
+
+<programme start="20260305040000 -0500" stop="20260305061500 -0500" channel="MidnightPulp">
+  <title>The Great Yokai War: Guardians</title>
+  <date>2021</date>
+  <category>Fantasy</category>
+  <category>Adventure</category>
+  <desc>A young boy is pulled into a hidden world of yokai and must help stop an ancient threat that could destroy both the spirit realm and the human world.</desc>
+</programme>
+
+<programme start="20260305061500 -0500" stop="20260305082500 -0500" channel="MidnightPulp">
+  <title>Shin Ultraman</title>
+  <date>2022</date>
+  <category>Science Fiction</category>
+  <category>Action</category>
+  <desc>As giant threats emerge, a mysterious silver giant appears—forcing a special task force to confront what Ultraman is, and whether he’s humanity’s ally or something else.</desc>
+</programme>
+
+<programme start="20260305082500 -0500" stop="20260305102000 -0500" channel="MidnightPulp">
+  <title>Quantum Cowboys</title>
+  <date>2022</date>
+  <category>Comedy</category>
+  <desc>Hapless drifters Frank and Bruno team up with a woman to recover her land and trek across 1870s southern Arizona to find an elusive frontier musician.</desc>
+</programme>
+
+<!-- 🔵 JEUDI 5 MARS 2026 🔵 -->
+
+<programme start="20260305102000 -0500" stop="20260305120500 -0500" channel="MidnightPulp">
+  <title>Conquest</title>
+  <date>1984</date>
+  <category>Fantasy</category>
+  <desc>Two warriors wage battle against vicious beasts and monsters dispatched by a demonic demigod.</desc>
+  <credits>
+    <director>Lucio Fulci</director>
+  </credits>
+</programme>
+
+<programme start="20260305120500 -0500" stop="20260305140500 -0500" channel="MidnightPulp">
+  <title>Titan Find</title>
+  <date>1985</date>
+  <category>Science Fiction</category>
+  <desc>An alien creature stalks corporate rivals aboard rival spacecraft orbiting Saturn, turning their mission into a fight for survival.</desc>
+</programme>
+
+<programme start="20260305140500 -0500" stop="20260305155300 -0500" channel="MidnightPulp">
+  <title>Xtro 3: Watch the Skies</title>
+  <date>1995</date>
+  <category>Science Fiction</category>
+  <category>Horror</category>
+  <desc>In a remote area, a military team investigates a series of strange abductions and confronts a terrifying extraterrestrial presence.</desc>
+</programme>
+
+<programme start="20260305155300 -0500" stop="20260305180900 -0500" channel="MidnightPulp">
+  <title>Burst City</title>
+  <date>1982</date>
+  <category>Action</category>
+  <category>Music</category>
+  <desc>Punk bands and rebel gangs clash with authorities as a city is torn apart by corruption, violence, and raw underground energy.</desc>
+</programme>
+
+<programme start="20260305180900 -0500" stop="20260305195300 -0500" channel="MidnightPulp">
+  <title>Shockwave</title>
+  <date>2006</date>
+  <category>Action</category>
+  <desc>Navy SEALs investigate a military plane crash on a remote island and encounter deadly experimental combat robots.</desc>
+</programme>
+
+<programme start="20260305195300 -0500" stop="20260305221400 -0500" channel="MidnightPulp">
+  <title>Raining in the Mountain</title>
+  <date>1979</date>
+  <category>Drama</category>
+  <desc>Inside a remote mountain monastery, rival thieves and monks collide while a priceless scroll becomes the center of a dangerous game of deception.</desc>
+  <credits>
+    <director>King Hu</director>
+  </credits>
+</programme>
+
+<programme start="20260305221400 -0500" stop="20260306000000 -0500" channel="MidnightPulp">
+  <title>The Bloody Mission</title>
+  <date>1982</date>
+  <category>Action</category>
+  <desc>Two brave swordsmen fight for supremacy in the martial world and for the hand of a mysterious maiden.</desc>
+</programme>
+  <!-- 🔵 VENDREDI 6 MARS 2026 🔵 -->
+
+<programme start="20260306000000 -0500" stop="20260306021300 -0500" channel="MidnightPulp">
+  <title>Raining in the Mountain</title>
+  <date>1979</date>
+  <category>Drama</category>
+  <category>Martial Arts</category>
+  <desc>Inside a remote mountain monastery, rival thieves and monks compete for control of a priceless Buddhist scroll in a deadly game of deception.</desc>
+  <credits>
+    <director>King Hu</director>
+    <actor>Hsu Feng</actor>
+    <actor>Sun Yueh</actor>
+  </credits>
+</programme>
+
+<programme start="20260305221400 -0500" stop="20260306000000 -0500" channel="MidnightPulp">
+  <title>The Bloody Mission</title>
+  <date>1982</date>
+  <category>Action</category>
+  <desc>Two brave swordsmen fight for supremacy in the martial world and for the hand of a mysterious maiden.</desc>
+</programme>
+
+<programme start="20260306040000 -0500" stop="20260306054500 -0500" channel="MidnightPulp">
+  <title>The New Gladiators</title>
+  <date>1983</date>
+  <category>Action</category>
+  <category>Science Fiction</category>
+  <desc>In a dystopian future, fighters battle in televised arena combats while rebellion brews beneath the spectacle.</desc>
+</programme>
+
+<programme start="20260306054500 -0500" stop="20260306082500 -0500" channel="MidnightPulp">
+  <title>Along With the Gods: The Two Worlds</title>
+  <date>2017</date>
+  <category>Fantasy</category>
+  <category>Adventure</category>
+  <desc>A firefighter dies saving a child and must face seven trials in the afterlife with the help of three guardians.</desc>
+  <credits>
+    <actor>Ha Jung-woo</actor>
+    <actor>Cha Tae-hyun</actor>
+  </credits>
+</programme>
+
+<programme start="20260306082500 -0500" stop="20260306110500 -0500" channel="MidnightPulp">
+  <title>Along With the Gods: The Last 49 Days</title>
+  <date>2018</date>
+  <category>Fantasy</category>
+  <category>Adventure</category>
+  <desc>The guardians continue their mission while uncovering secrets from their own forgotten pasts.</desc>
+</programme>
+
+<programme start="20260306110500 -0500" stop="20260306125900 -0500" channel="MidnightPulp">
+  <title>Legend of the Stardust Brothers</title>
+  <date>1985</date>
+  <category>Music</category>
+  <category>Science Fiction</category>
+  <desc>A wild sci-fi rock opera following two young musicians manipulated by a corrupt pop industry machine.</desc>
+</programme>
+
+<programme start="20260306125900 -0500" stop="20260306144400 -0500" channel="MidnightPulp">
+  <title>Sampo</title>
+  <date>1959</date>
+  <category>Fantasy</category>
+  <category>Adventure</category>
+  <desc>A magical artifact called the Sampo sparks a mythic battle between rival kingdoms in a visually rich fantasy tale.</desc>
+</programme>
+
+<programme start="20260306144400 -0500" stop="20260306165500 -0500" channel="MidnightPulp">
+  <title>The Bermuda Triangle</title>
+  <date>1978</date>
+  <category>Adventure</category>
+  <category>Fantasy</category>
+  <desc>A family vacation turns terrifying after they discover a mysterious doll linked to deadly forces in the Bermuda Triangle.</desc>
+</programme>
+
+<programme start="20260306165500 -0500" stop="20260306180000 -0500" channel="MidnightPulp">
+  <title>The Pied Piper</title>
+  <date>1985</date>
+  <category>Animated</category>
+  <desc>A mysterious piper seeks payment from townspeople after leading the rodents that had been plaguing the town into the sea.</desc>
+</programme>
 </tv>
+
 
