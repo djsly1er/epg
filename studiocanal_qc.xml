@@ -1,9 +1,9 @@
-
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <tv generator-info-name="StudioCanal XMLTV enrichi (réparé)">
 <channel id="StudioCanal">
 <display-name>StudioCanal</display-name>
 </channel>
-<channel id="midnightpulp.us">
+<channel id="MidnightPulp">
 <display-name>Midnight Pulp</display-name>
 <display-name>MIDNIGHT PULP</display-name>
 </channel>
@@ -3209,7 +3209,7 @@
 </desc>
 </programme>
 <!--  🔵 MIDNIGHT PULP — MAR 1 2025 🔵  -->
-<programme start="20260301140000 -0500" stop="20260301155900 -0500" channel="midnightpulp.us">
+<programme start="20250301140000 -0500" stop="20250301155900 -0500" channel="MidnightPulp">
 <title>Caught in Time</title>
 <date>2020</date>
 <category>Action</category>
@@ -3223,7 +3223,7 @@
 <actor>Michelle Wai</actor>
 </credits>
 </programme>
-<programme start="20260301155900 -0500" stop="20260301180000 -0500" channel="midnightpulp.us">
+<programme start="20250301155900 -0500" stop="20250301180000 -0500" channel="MidnightPulp">
 <title>Brothers Till We Die</title>
 <date>1978</date>
 <category>Action</category>
@@ -3236,7 +3236,7 @@
 <actor>Isaac George</actor>
 </credits>
 </programme>
-<programme start="20260301180000 -0500" stop="20260301195900 -0500" channel="midnightpulp.us">
+<programme start="20250301180000 -0500" stop="20250301195900 -0500" channel="MidnightPulp">
 <title>Atomic Apocalypse</title>
 <date>2018</date>
 <category>Science Fiction</category>
@@ -3248,14 +3248,14 @@
 <actor>Alexandra Hansler</actor>
 </credits>
 </programme>
-<programme start="20260301195900 -0500" stop="20260301204500 -0500" channel="midnightpulp.us">
+<programme start="20250301195900 -0500" stop="20250301204500 -0500" channel="MidnightPulp">
 <title>Bloody Bites</title>
 <sub-title>Air Conditions</sub-title>
 <date>2023</date>
 <category>Horror</category>
 <desc>A routine HVAC repair turns into a nightmare when a technician becomes trapped and must survive a terrifying and deadly situation before nightfall.</desc>
 </programme>
-<programme start="20260301204500 -0500" stop="20260301221500 -0500" channel="midnightpulp.us">
+<programme start="20250301204500 -0500" stop="20250301221500 -0500" channel="MidnightPulp">
 <title>Bruce and the Dragon Fist</title>
 <date>1979</date>
 <category>Martial Arts</category>
@@ -3267,7 +3267,7 @@
 <actor>Dragon Lee</actor>
 </credits>
 </programme>
-<programme start="20260301221500 -0500" stop="20260301235900 -0500" channel="midnightpulp.us">
+<programme start="20250301221500 -0500" stop="20250301235900 -0500" channel="MidnightPulp">
 <title>Treasure of Bruce Le</title>
 <date>1980</date>
 <category>Martial Arts</category>
@@ -3280,19 +3280,19 @@
 </credits>
 </programme>
 <!--  🔵 MIDNIGHT PULP — MAR 2 2025 🔵  -->
-<programme start="20260301235900 -0500" stop="20260302013000 -0500" channel="midnightpulp.us">
+<programme start="20250301235900 -0500" stop="20250302013000 -0500" channel="MidnightPulp">
 <title>Bruce and the Dragon Fist</title>
 <date>1979</date>
 <category>Martial Arts</category>
 <category>Action</category>
 </programme>
-<programme start="20260302013000 -0500" stop="20260302031000 -0500" channel="midnightpulp.us">
+<programme start="20250302013000 -0500" stop="20250302031000 -0500" channel="MidnightPulp">
 <title>Treasure of Bruce Le</title>
 <date>1980</date>
 <category>Martial Arts</category>
 <category>Action</category>
 </programme>
-<programme start="20260302031000 -0500" stop="20260302050200 -0500" channel="midnightpulp.us">
+<programme start="20250302031000 -0500" stop="20250302050200 -0500" channel="MidnightPulp">
 <title>Kung Fu Traveler 2</title>
 <date>2017</date>
 <category>Science Fiction</category>
@@ -3303,7 +3303,7 @@
 <actor>Tiger Hu Chen</actor>
 </credits>
 </programme>
-<programme start="20260302050200 -0500" stop="20260302070500 -0500" channel="midnightpulp.us">
+<programme start="20250302050200 -0500" stop="20250302070500 -0500" channel="MidnightPulp">
 <title>The Roundup</title>
 <date>2022</date>
 <category>Action</category>
@@ -3315,7 +3315,7 @@
 <actor>Son Suk-ku</actor>
 </credits>
 </programme>
-<programme start="20260302070500 -0500" stop="20260302090500 -0500" channel="midnightpulp.us">
+<programme start="20250302070500 -0500" stop="20250302090500 -0500" channel="MidnightPulp">
 <title>The Assassin</title>
 <date>2015</date>
 <category>Action</category>
@@ -3327,7 +3327,7 @@
 <actor>Chang Chen</actor>
 </credits>
 </programme>
-<programme start="20260302090500 -0500" stop="20260302105500 -0500" channel="midnightpulp.us">
+<programme start="20250302090500 -0500" stop="20250302105500 -0500" channel="MidnightPulp">
 <title>The Fearless Hyena</title>
 <date>1979</date>
 <category>Martial Arts</category>
@@ -3337,7 +3337,7 @@
 <actor>Jackie Chan</actor>
 </credits>
 </programme>
-<programme start="20260302105500 -0500" stop="20260302123500 -0500" channel="midnightpulp.us">
+<programme start="20250302105500 -0500" stop="20250302123500 -0500" channel="MidnightPulp">
 <title>One-Armed Swordsman</title>
 <date>1967</date>
 <category>Martial Arts</category>
