@@ -1,4 +1,4 @@
-
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <tv generator-info-name="StudioCanal XMLTV enrichi (réparé)">
 <channel id="StudioCanal">
 <display-name>StudioCanal</display-name>
@@ -7,9 +7,6 @@
 <display-name>Midnight Pulp</display-name>
 <display-name>MIDNIGHT PULP</display-name>
 </channel>
-<!--  ===============================  -->
-<!--  🔵 JEUDI 26 FÉVRIER 2026 🔵  -->
-<!--  ===============================  -->
 <programme start="20260226064400 -0500" stop="20260226081300 -0500" channel="StudioCanal">
 <title>JE SUIS TIMIDE, MAIS JE ME SOIGNE</title>
 <desc> 1978 · Comédie Réalisation : Pierre Richard Avec : Pierre Richard, Aldo Maccione, Mimi Coutelier Pour les beaux yeux d'une jolie femme qu'il croit très riche, un jeune homme tente, avec l'aide de son psychologue, de vaincre sa timidité maladive. </desc>
@@ -58,9 +55,6 @@
 <title>NUMÉRO 17</title>
 <desc> 1932 · Thriller Réalisation : Alfred Hitchcock Avec : John Stuart, Anne Grey, Leon M. Lion Un policier et un clochard enquêtent ensemble sur un cambriolage suivi de meurtre, et se lancent à la poursuite d'une redoutable bande de malfaiteurs. </desc>
 </programme>
-<!--  ===============================  -->
-<!--  🔵 VENDREDI 27 FÉVRIER 2026 🔵  -->
-<!--  ===============================  -->
 <programme start="20260227002800 -0500" stop="20260227015100 -0500" channel="StudioCanal">
 <title>EN PLEIN FEU</title>
 <desc> 2022 · Catastrophe Réalisation : Quentin Reynaud Avec : Alex Lutz, André Dussollier, Laura Sepul Alors qu'un incendie incontrôlable ravage la forêt landaise, un père et son fils se retrouvent coincés dans leur véhicule, cerné par les flammes. </desc>
@@ -129,9 +123,6 @@
 <title>L'ALLIANCE</title>
 <desc> 1971 · Drame Réalisation : Christian de Chalonge Avec : Anna Karina, Jean-Claude Carrière Un étrange vétérinaire et une femme énigmatique se marient grâce à une agence matrimoniale. Leur relation débute par une grande méfiance réciproque. </desc>
 </programme>
-<!--  ===============================  -->
-<!--  🔵 SAMEDI 28 FÉVRIER 2026 🔵  -->
-<!--  ===============================  -->
 <programme start="20260228004700 -0500" stop="20260228022200 -0500" channel="StudioCanal">
 <title>LA REVANCHE</title>
 <desc> 1980 · Policier Réalisation : Pierre Lary Avec : Daniel Auteuil, Nathalie Baye Deux femmes à l'imagination débordante, déçues par leurs époux respectifs, décident de se venger en organisant un cambriolage de grande envergure. </desc>
@@ -196,9 +187,6 @@
 <title>L'ARGENT DES AUTRES</title>
 <desc> 1978 · Drame Réalisation : Christian de Chalonge Avec : Jean-Louis Trintignant, Catherine Deneuve Le fondé de pouvoir d'une puissante banque, accusé d'une immense escroquerie financière, tente désespérément de sauver sa tête et sa réputation. </desc>
 </programme>
-<!--  ===============================  -->
-<!--  🔵 DIMANCHE 01 MARS 2026 🔵  -->
-<!--  ===============================  -->
 <programme start="20260301005900 -0500" stop="20260301024100 -0500" channel="StudioCanal">
 <title>LE FILS DU FRANÇAIS</title>
 <desc> 1999 · Aventures, comédie Réalisation : Gérard Lauzier Avec : Josiane Balasko, Fanny Ardant, Thierry Frémont Deux grands-mères qui se détestent cordialement sillonnent la jungle amazonienne avec leur petit-fils pour retrouver le père de l'enfant, un chercheur d'or. </desc>
@@ -259,9 +247,6 @@
 <title>LE QUAI DES BRUMES</title>
 <desc> Sur le point d'embarquer pour le Venezuela, un déserteur, intervenant lors d'une dispute, commet un meurtre pour défendre la jeune femme qu'il aime. </desc>
 </programme>
-<!--  ===============================  -->
-<!--  🔵 LUNDI 02 MARS 2026 🔵  -->
-<!--  ===============================  -->
 <programme start="20260302001300 -0500" stop="20260302014100 -0500" channel="StudioCanal">
 <title>KI LO SA ?</title>
 <desc> Honorant une vieille promesse, trois hommes et une femme, aujourd'hui trentenaires, se retrouvent dans le parc où ils avaient l'habitude de jouer, enfants. </desc>
@@ -326,9 +311,6 @@
 <title>LA GUEULE DE L'AUTRE</title>
 <desc> Menacé par un tueur en cavale, un homme politique cède provisoirement sa place à son cousin, à la fois parfait sosie et comédien sans envergure. </desc>
 </programme>
-<!--  ===============================  -->
-<!--  🔵 MARDI 03 MARS 2026 🔵  -->
-<!--  ===============================  -->
 <programme start="20260303010100 -0500" stop="20260303025500 -0500" channel="StudioCanal">
 <title>LES AMANTS DU CAPRICORNE</title>
 <desc> En 1831, un voyageur anglais retrouve sa cousine en Australie et tente de l'arracher à l'étrange déchéance dans laquelle il la voit plongée. </desc>
@@ -389,9 +371,6 @@
 <title>51E CÉRÉMONIE DES CÉSAR</title>
 <desc> 51E CÉRÉMONIE DES CÉSAR </desc>
 </programme>
-<!--  ===============================  -->
-<!--  🔵 MERCREDI 04 MARS 2026 🔵  -->
-<!--  ===============================  -->
 <programme start="20260304012500 -0500" stop="20260304022600 -0500" channel="StudioCanal">
 <title>HORS D’ONDE</title>
 <desc> Hors d’onde. </desc>
@@ -456,9 +435,6 @@
 <title>MONSIEUR KLEIN</title>
 <desc> 1976 · Drame Réalisation : Joseph Losey Avec : Alain Delon, Jeanne Moreau, Michael Lonsdale A Paris, en 1942. Confondu avec un homonyme juif, un trafiquant cynique se retrouve pris dans un terrible engrenage, et perd peu à peu ses repères. </desc>
 </programme>
-<!--  ===============================  -->
-<!--  🔵 JEUDI 05 MARS 2026 🔵  -->
-<!--  ===============================  -->
 <programme start="20260305010600 -0500" stop="20260305024800 -0500" channel="StudioCanal">
 <title>LE MÉTIER DES ARMES</title>
 <desc> Pendant la guerre qui voit s'affronter Charles Quint et François Ier, le destin du capitaine de l'armée pontificale, réputé pour sa maîtrise des armes. </desc>
@@ -523,9 +499,6 @@
 <title>LA THUNE</title>
 <desc> Les amours d'une jolie fille à papa et d'un jeune beur sans le sou, décidé à se lancer dans les affaires et s'y employant par tous les moyens. </desc>
 </programme>
-<!--  ===============================  -->
-<!--  🔵 VENDREDI 06 MARS 2026 🔵  -->
-<!--  ===============================  -->
 <programme start="20260306012900 -0500" stop="20260306032900 -0500" channel="StudioCanal">
 <title>COMME UN BOOMERANG</title>
 <desc> 1976 · Policier, drame Réalisation : José Giovanni Avec : Alain Delon, Carla Gravina, Charles Vanel Afin de sauver son fils accusé de meurtre, un riche homme d'affaires renoue avec son passé délictueux. Les journaux révèlent son séjour en prison. </desc>
@@ -582,9 +555,6 @@
 <title>LE VILAIN</title>
 <desc> Un gangster n'a pas d'autre choix que de se réfugier chez sa mère, qu'il n'a pas vue depuis vingt ans, et qui décide de le ramener dans le droit chemin. </desc>
 </programme>
-<!--  ===============================  -->
-<!--  🔵 SAMEDI 07 MARS 2026 🔵  -->
-<!--  ===============================  -->
 <programme start="20260307005500 -0500" stop="20260307021800 -0500" channel="StudioCanal">
 <title>LA CUISINE AU BEURRE</title>
 <desc> Un prisonnier de guerre revient chez lui après quinze ans d'absence. Il retrouve sa femme, laissée sans nouvelles, remariée avec son ancien chef-cuisinier. </desc>
@@ -649,9 +619,6 @@
 <title>JE SUIS TIMIDE, MAIS JE ME SOIGNE</title>
 <desc> 1978 · Comédie Réalisation : Pierre Richard Avec : Pierre Richard, Aldo Maccione, Mimi Coutelier Pour les beaux yeux d'une jolie femme qu'il croit très riche, un jeune homme tente, avec l'aide de son psychologue, de vaincre sa timidité maladive. </desc>
 </programme>
-<!--  ===============================  -->
-<!--  🔵 DIMANCHE 08 MARS 2026 🔵  -->
-<!--  ===============================  -->
 <programme start="20260308001300 -0500" stop="20260308015000 -0500" channel="StudioCanal">
 <title>LA REVANCHE</title>
 <desc> 1980 · Policier Réalisation : Pierre Lary Avec : Daniel Auteuil, Nathalie Baye Deux femmes à l'imagination débordante, déçues par leurs époux respectifs, décident de se venger en organisant un cambriolage de grande envergure. </desc>
@@ -716,9 +683,6 @@
 <title>L'ATTENTAT</title>
 <desc> Exilé en Suisse à la suite d'un coup d'Etat, un leader progressiste du tiers-monde est la cible d'un complot tramé par les services secrets français. </desc>
 </programme>
-<!--  ===============================  -->
-<!--  🔵 LUNDI 09 MARS 2026 🔵  -->
-<!--  ===============================  -->
 <programme start="20260309011800 -0500" stop="20260309031800 -0500" channel="StudioCanal">
 <title>MONSIEUR KLEIN</title>
 <desc> 1976 · Drame Réalisation : Joseph Losey Avec : Alain Delon, Jeanne Moreau, Michael Lonsdale A Paris, en 1942. Confondu avec un homonyme juif, un trafiquant cynique se retrouve pris dans un terrible engrenage, et perd peu à peu ses repères. </desc>
@@ -779,9 +743,6 @@
 <title>LES DÉMONS DE JÉSUS</title>
 <desc> Deux familles, l'une de carrossiers siciliens, l'autre de gens du voyage qui se sont sédentarisés en banlieue, se querellent sauvagement et sans relâche. </desc>
 </programme>
-<!--  ===============================  -->
-<!--  🔵 MARDI 10 MARS 2026 🔵  -->
-<!--  ===============================  -->
 <programme start="20260310014000 -0500" stop="20260310034000 -0500" channel="StudioCanal">
 <title>DUE LETTERE ANONIME</title>
 <desc> Due lettere anonime </desc>
@@ -842,9 +803,6 @@
 <title>KI LO SA ?</title>
 <desc> 1986 · Comédie dramatique Réalisation : Robert Guédiguian Avec : Ariane Ascaride, Pierre Banderet, Jean-Pierre Darroussin Honorant une vieille promesse, trois hommes et une femme, aujourd'hui trentenaires, se retrouvent dans le parc où ils avaient l'habitude de jouer, enfants. </desc>
 </programme>
-<!--  ===============================  -->
-<!--  🔵 MERCREDI 11 MARS 2026 🔵  -->
-<!--  ===============================  -->
 <programme start="20260311004400 -0500" stop="20260311024400 -0500" channel="StudioCanal">
 <title>MOI LA FEMME</title>
 <desc> Douze sketches et autant de portraits de femmes que tout oppose mais qui, toutes, évoluent et sont prises au piège dans des sociétés machistes. </desc>
@@ -901,9 +859,6 @@
 <title>MARIE-LOUISE OU LA PERMISSION</title>
 <desc> Deux amoureux manquent leur rendez-vous, Gare du Nord, et passent leur week-end à tenter de se retrouver. </desc>
 </programme>
-<!--  ===============================  -->
-<!--  🔵 JEUDI 12 MARS 2026 🔵  -->
-<!--  ===============================  -->
 <programme start="20260312005400 -0500" stop="20260312025400 -0500" channel="StudioCanal">
 <title>A L'EST DE SHANGHAI</title>
 <desc> Un jeune couple en mal d'aventures participe à une croisière autour du monde : chacun tente de tromper son ennui en goûtant aux plaisirs de l'adultère. </desc>
@@ -964,9 +919,6 @@
 <title>LE MÉTIER DES ARMES</title>
 <desc> Pendant la guerre qui voit s'affronter Charles Quint et François Ier, le destin du capitaine de l'armée pontificale, réputé pour sa maîtrise des armes. </desc>
 </programme>
-<!--  ===============================  -->
-<!--  🔵 VENDREDI 13 MARS 2026 🔵  -->
-<!--  ===============================  -->
 <programme start="20260313011900 -0500" stop="20260313031900 -0500" channel="StudioCanal">
 <title>LE QUAI DES BRUMES</title>
 <desc> Sur le point d'embarquer pour le Venezuela, un déserteur, intervenant lors d'une dispute, commet un meurtre pour défendre la jeune femme qu'il aime. </desc>
@@ -1023,9 +975,6 @@
 <title>ELLE L'ADORE</title>
 <desc> Une admiratrice d'un chanteur de variétés est sollicitée par celui-ci pour se débarrasser d'un corps. Fascinée par cette rencontre, elle accepte la proposition. </desc>
 </programme>
-<!--  ===============================  -->
-<!--  🔵 SAMEDI 14 MARS 2026 🔵  -->
-<!--  ===============================  -->
 <programme start="20260314005700 -0500" stop="20260314022800 -0500" channel="StudioCanal">
 <title>LA THUNE</title>
 <desc> Les amours d'une jolie fille à papa et d'un jeune beur sans le sou, décidé à se lancer dans les affaires et s'y employant par tous les moyens. </desc>
@@ -1086,9 +1035,6 @@
 <title>LA GUEULE DE L'AUTRE</title>
 <desc> Menacé par un tueur en cavale, un homme politique cède provisoirement sa place à son cousin, à la fois parfait sosie et comédien sans envergure. </desc>
 </programme>
-<!--  ===============================  -->
-<!--  🔵 DIMANCHE 15 MARS 2026 🔵  -->
-<!--  ===============================  -->
 <programme start="20260315002100 -0500" stop="20260315014600 -0500" channel="StudioCanal">
 <title>LE VILAIN</title>
 <desc> Un gangster n'a pas d'autre choix que de se réfugier chez sa mère, qu'il n'a pas vue depuis vingt ans, et qui décide de le ramener dans le droit chemin. </desc>
@@ -1149,9 +1095,6 @@
 <title>SEULS</title>
 <desc> Alors qu'il n'y a plus d'humains sur Terre, cinq adolescents survivants tentent d'échapper à un brouillard étrange et à un maître des couteaux. </desc>
 </programme>
-<!--  ===============================  -->
-<!--  🔵 LUNDI 16 MARS 2026 🔵  -->
-<!--  ===============================  -->
 <programme start="20260316005800 -0500" stop="20260316025800 -0500" channel="StudioCanal">
 <title>NELLY ET MONSIEUR ARNAUD</title>
 <desc> Une jeune femme devient la secrétaire occasionnelle d'un vieil homme solitaire, qu'elle aide à rédiger ses mémoires. Une relation forte s'établit entre eux. </desc>
@@ -1212,9 +1155,6 @@
 <title>A NOUS LES PETITES ANGLAISES</title>
 <desc> A la fin des années 1950, deux adolescents français nuls en anglais et fraîchement recalés au baccalauréat effectuent un séjour linguistique animé en Angleterre. </desc>
 </programme>
-<!--  ===============================  -->
-<!--  🔵 MARDI 17 MARS 2026 🔵  -->
-<!--  ===============================  -->
 <programme start="20260317012400 -0500" stop="20260317032400 -0500" channel="StudioCanal">
 <title>THE GAMBLER</title>
 <desc> The Gambler </desc>
@@ -1275,9 +1215,6 @@
 <title>MONSIEUR KLEIN</title>
 <desc> A Paris, en 1942. Confondu avec un homonyme juif, un trafiquant cynique se retrouve pris dans un terrible engrenage, et perd peu à peu ses repères. </desc>
 </programme>
-<!--  ===============================  -->
-<!--  🔵 MERCREDI 18 MARS 2026 🔵  -->
-<!--  ===============================  -->
 <programme start="20260318010000 -0500" stop="20260318030000 -0500" channel="StudioCanal">
 <title>ALL OR NOTHING</title>
 <desc> La vie déprimante d'un chauffeur de taxi, réduite à son travail et à ses tristes relations avec sa famille, est bouleversée lorsque son fils est hospitalisé. </desc>
@@ -1342,9 +1279,6 @@
 <title>A LA GUERRE COMME À LA GUERRE</title>
 <desc> Pour les beaux yeux de la fille d'un général, un jeune officier autrichien multiplie les exploits militaires. La Grande Guerre lui donne l'occasion de briller. </desc>
 </programme>
-<!--  ===============================  -->
-<!--  🔵 JEUDI 19 MARS 2026 🔵  -->
-<!--  ===============================  -->
 <programme start="20260319010600 -0500" stop="20260319030600 -0500" channel="StudioCanal">
 <title>LA TÊTE DANS LE SAC</title>
 <desc> Un quinquagénaire parvenu, directeur d'une agence de publicité florissante, voit sa vie perturbée par une maîtresse aux fréquentations douteuses. </desc>
@@ -1409,9 +1343,6 @@
 <title>A L'EST DE SHANGHAI</title>
 <desc> Un jeune couple en mal d'aventures participe à une croisière autour du monde : chacun tente de tromper son ennui en goûtant aux plaisirs de l'adultère. </desc>
 </programme>
-<!--  ===============================  -->
-<!--  🔵 VENDREDI 20 MARS 2026 🔵  -->
-<!--  ===============================  -->
 <programme start="20260320010300 -0500" stop="20260320030300 -0500" channel="StudioCanal">
 <title>L'ATTENTAT</title>
 <desc> Exilé en Suisse à la suite d'un coup d'Etat, un leader progressiste du tiers-monde est la cible d'un complot tramé par les services secrets français. </desc>
@@ -1468,9 +1399,6 @@
 <title>PRÉPAREZ VOS MOUCHOIRS</title>
 <desc> Une épouse triste finit par lasser son mari, qui la jette dans les bras d'un autre homme : celui-ci décide de lui offrir un grand bol d'air frais. </desc>
 </programme>
-<!--  ===============================  -->
-<!--  🔵 SAMEDI 21 MARS 2026 🔵  -->
-<!--  ===============================  -->
 <programme start="20260321010100 -0500" stop="20260321022600 -0500" channel="StudioCanal">
 <title>MARIE-LOUISE OU LA PERMISSION</title>
 <desc> Deux amoureux manquent leur rendez-vous, Gare du Nord, et passent leur week-end à tenter de se retrouver. </desc>
@@ -1535,9 +1463,6 @@
 <title>LES DÉMONS DE JÉSUS</title>
 <desc> Deux familles, l'une de carrossiers siciliens, l'autre de gens du voyage qui se sont sédentarisés en banlieue, se querellent sauvagement et sans relâche. </desc>
 </programme>
-<!--  ===============================  -->
-<!--  🔵 DIMANCHE 22 MARS 2026 🔵  -->
-<!--  ===============================  -->
 <programme start="20260322011900 -0500" stop="20260322030000 -0500" channel="StudioCanal">
 <title>ELLE L'ADORE</title>
 <desc> Une admiratrice d'un chanteur de variétés est sollicitée par celui-ci pour se débarrasser d'un corps. Fascinée par cette rencontre, elle accepte la proposition. </desc>
@@ -1598,9 +1523,6 @@
 <title>LE TROU</title>
 <desc> En 1947, un bourgeois, accusé d'avoir tenté de tuer sa femme, est enfermé dans une cellule occupée par quatre détenus qui préparent leur évasion. </desc>
 </programme>
-<!--  ===============================  -->
-<!--  🔵 LUNDI 23 MARS 2026 🔵  -->
-<!--  ===============================  -->
 <programme start="20260323005300 -0500" stop="20260323010000 -0500" channel="StudioCanal">
 <title>HORS D’ONDE</title>
 <desc> Hors d’onde. </desc>
@@ -1661,9 +1583,6 @@
 <title>L'ATTENTAT</title>
 <desc> Exilé en Suisse à la suite d'un coup d'Etat, un leader progressiste du tiers-monde est la cible d'un complot tramé par les services secrets français. </desc>
 </programme>
-<!--  ===============================  -->
-<!--  🔵 MARDI 24 MARS 2026 🔵  -->
-<!--  ===============================  -->
 <programme start="20260324002100 -0500" stop="20260324015300 -0500" channel="StudioCanal">
 <title>LE DIABLE PAR LA QUEUE</title>
 <desc> Une famille de nobles ruinés reconvertis dans l'hôtellerie tente de s'emparer par tous les moyens de l'important magot d'un gangster en cavale. </desc>
@@ -1732,9 +1651,6 @@
 <title>LA TÊTE DANS LE SAC</title>
 <desc> Un quinquagénaire parvenu, directeur d'une agence de publicité florissante, voit sa vie perturbée par une maîtresse aux fréquentations douteuses. </desc>
 </programme>
-<!--  ===============================  -->
-<!--  🔵 MERCREDI 25 MARS 2026 🔵  -->
-<!--  ===============================  -->
 <programme start="20260325004000 -0500" stop="20260325024000 -0500" channel="StudioCanal">
 <title>SEULS</title>
 <desc> Alors qu'il n'y a plus d'humains sur Terre, cinq adolescents survivants tentent d'échapper à un brouillard étrange et à un maître des couteaux. </desc>
@@ -1791,9 +1707,6 @@
 <title>SAN ANTONIO NE PENSE QU'À ÇA</title>
 <desc> Un commissaire insolite et ses fidèles lieutenants partent à la recherche d'un mystérieux gadget, convoité par de nombreux espions à travers le monde. </desc>
 </programme>
-<!--  ===============================  -->
-<!--  🔵 JEUDI 26 MARS 2026 🔵  -->
-<!--  ===============================  -->
 <programme start="20260326005400 -0500" stop="20260326025400 -0500" channel="StudioCanal">
 <title>MARIAGE MIXTE</title>
 <desc> Un père juif, aimant mais possessif, veut marier sa fille dans la tradition avec le fils de son meilleur ami, mais la belle est amoureuse d'un goy. </desc>
@@ -1854,9 +1767,6 @@
 <title>LA TÊTE DANS LE SAC</title>
 <desc> Un quinquagénaire parvenu, directeur d'une agence de publicité florissante, voit sa vie perturbée par une maîtresse aux fréquentations douteuses. </desc>
 </programme>
-<!--  ===============================  -->
-<!--  🔵 VENDREDI 27 MARS 2026 🔵  -->
-<!--  ===============================  -->
 <programme start="20260327004000 -0500" stop="20260327024000 -0500" channel="StudioCanal">
 <title>SEULS</title>
 <desc> Alors qu'il n'y a plus d'humains sur Terre, cinq adolescents survivants tentent d'échapper à un brouillard étrange et à un maître des couteaux. </desc>
@@ -1909,9 +1819,6 @@
 <title>LE JARDINIER D'ARGENTEUIL</title>
 <desc> Un paisible sexagénaire fabrique de la fausse monnaie pour ses besoins personnels, jusqu'à ce que son neveu le persuade de passer à la vitesse supérieure. </desc>
 </programme>
-<!--  ===============================  -->
-<!--  🔵 SAMEDI 28 MARS 2026 🔵  -->
-<!--  ===============================  -->
 <programme start="20260328005000 -0500" stop="20260328021000 -0500" channel="StudioCanal">
 <title>A LA GUERRE COMME À LA GUERRE</title>
 <desc> Pour les beaux yeux de la fille d'un général, un jeune officier autrichien multiplie les exploits militaires. La Grande Guerre lui donne l'occasion de briller. </desc>
@@ -1976,9 +1883,6 @@
 <title>A NOUS LES PETITES ANGLAISES</title>
 <desc> A la fin des années 1950, deux adolescents français nuls en anglais et fraîchement recalés au baccalauréat effectuent un séjour linguistique animé en Angleterre. </desc>
 </programme>
-<!--  ===============================  -->
-<!--  🔵 DIMANCHE 29 MARS 2026 🔵  -->
-<!--  ===============================  -->
 <programme start="20260329010200 -0500" stop="20260329030200 -0500" channel="StudioCanal">
 <title>PRÉPAREZ VOS MOUCHOIRS</title>
 <desc> Une épouse triste finit par lasser son mari, qui la jette dans les bras d'un autre homme : celui-ci décide de lui offrir un grand bol d'air frais. </desc>
@@ -2039,9 +1943,6 @@
 <title>L. 627</title>
 <desc> Radiographie des petits succès et des grands échecs d'une brigade des stupéfiants, privée de moyens, mais composée d'hommes et de femmes résolus et volontaires. </desc>
 </programme>
-<!--  ===============================  -->
-<!--  🔵 LUNDI 30 MARS 2026 🔵  -->
-<!--  ===============================  -->
 <programme start="20260330010200 -0500" stop="20260330012400 -0500" channel="StudioCanal">
 <title>HORS D’ONDE</title>
 <desc> Hors d’onde. </desc>
@@ -2106,9 +2007,6 @@
 <title>RÉVEILLON CHEZ BOB</title>
 <desc> (Résumé / année / réalisateur / acteurs à compléter.) </desc>
 </programme>
-<!--  ===============================  -->
-<!--  🔵 MARDI 31 MARS 2026 🔵  -->
-<!--  ===============================  -->
 <programme start="20260331002000 -0500" stop="20260331022000 -0500" channel="StudioCanal">
 <title>L'HONNEUR PERDU DE KATHARINA BLUM</title>
 <desc> Une presse sans scrupules livre au grand public les détails inventés de la vie privée d'une jeune femme soupçonnée de complicité avec un anarchiste. </desc>
@@ -2169,14 +2067,10 @@
 <title>LES CHEMINS DE LA HAUTE VILLE</title>
 <desc> Dans une petite ville, un modeste employé séduit la riche héritière d'un industriel dans le but de s'élever socialement. Mais cette union déplaît à la famille. </desc>
 </programme>
-<!--  ===============================  -->
-<!--  🔵 MERCREDI 01 AVRIL 2026 🔵  -->
-<!--  ===============================  -->
 <programme start="20260401010900 -0500" stop="20260401030900 -0500" channel="StudioCanal">
 <title>DUE LETTERE ANONIME</title>
 <desc> Due lettere anonime </desc>
 </programme>
-<!--  🔵 MIDNIGHT PULP — MAR 1 2025 🔵  -->
 <programme start="20260301140000 -0500" stop="20260301155900 -0500" channel="MidnightPulp">
 <title>Caught in Time</title>
 <date>2020</date>
@@ -2247,18 +2141,29 @@
 <actor>Dragon Lee</actor>
 </credits>
 </programme>
-<!--  🔵 MIDNIGHT PULP — MAR 2 2025 🔵  -->
 <programme start="20260301235900 -0500" stop="20260302013000 -0500" channel="MidnightPulp">
 <title>Bruce and the Dragon Fist</title>
 <date>1979</date>
 <category>Martial Arts</category>
 <category>Action</category>
+<desc>A skilled martial artist must defend his village and honor against ruthless enemies while mastering powerful fighting techniques.</desc>
+<credits>
+<director>Joseph Kong</director>
+<actor>Bruce Le</actor>
+<actor>Dragon Lee</actor>
+</credits>
 </programme>
 <programme start="20260302013000 -0500" stop="20260302031000 -0500" channel="MidnightPulp">
 <title>Treasure of Bruce Le</title>
 <date>1980</date>
 <category>Martial Arts</category>
 <category>Action</category>
+<desc>A martial artist searches for a legendary treasure while facing deadly rivals and uncovering dangerous secrets.</desc>
+<credits>
+<director>Joseph Kong</director>
+<actor>Bruce Le</actor>
+<actor>Dragon Lee</actor>
+</credits>
 </programme>
 <programme start="20260302031000 -0500" stop="20260302050200 -0500" channel="MidnightPulp">
 <title>Kung Fu Traveler 2</title>
@@ -2315,12 +2220,9 @@
 <actor>Jimmy Wang Yu</actor>
 </credits>
 </programme>
-  <!-- 🔵 DIMANCHE 2 MARS 2026 🔵 -->
 <programme start="20260302123500 -0500" stop="20260302140400 -0500" channel="MidnightPulp">
-  <title>Faster Blade: Poisonous Darts</title>
+<title>Faster Blade: Poisonous Darts</title>
 </programme>
-  <!-- 🔵 DIMANCHE 2 MARS 2026 🔵 -->
-
 <programme start="20260302140400 -0500" stop="20260302155900 -0500" channel="MidnightPulp">
 <title>Shaolin Wooden Men</title>
 <date>1976</date>
@@ -2332,7 +2234,6 @@
 <actor>Kam Kong</actor>
 </credits>
 </programme>
-
 <programme start="20260302155900 -0500" stop="20260302182000 -0500" channel="MidnightPulp">
 <title>Raining in the Mountain</title>
 <date>1979</date>
@@ -2345,7 +2246,6 @@
 <actor>Sun Yueh</actor>
 </credits>
 </programme>
-
 <programme start="20260302182000 -0500" stop="20260302200500 -0500" channel="MidnightPulp">
 <title>Martial Law</title>
 <date>1990</date>
@@ -2355,7 +2255,6 @@
 <actor>Chad McQueen</actor>
 </credits>
 </programme>
-
 <programme start="20260302200500 -0500" stop="20260302214500 -0500" channel="MidnightPulp">
 <title>Ozark Sharks</title>
 <date>2016</date>
@@ -2366,7 +2265,6 @@
 <actor>Allisyn Ashley Arm</actor>
 </credits>
 </programme>
-
 <programme start="20260302214500 -0500" stop="20260302233000 -0500" channel="MidnightPulp">
 <title>Killer Crocodile</title>
 <date>1989</date>
@@ -2376,7 +2274,6 @@
 <director>Fabrizio De Angelis</director>
 </credits>
 </programme>
-
 <programme start="20260302233000 -0500" stop="20260303000000 -0500" channel="MidnightPulp">
 <title>Bloody Bites</title>
 <sub-title>S7 E3 Live Forever</sub-title>
@@ -2384,27 +2281,31 @@
 <category>Horror</category>
 <desc>A horror anthology featuring terrifying encounters with deadly creatures and supernatural forces.</desc>
 </programme>
-
-<!-- 🔵 LUNDI 3 MARS 2026 🔵 -->
-
 <programme start="20260303000000 -0500" stop="20260303014000 -0500" channel="MidnightPulp">
 <title>Ozark Sharks</title>
 <date>2016</date>
 <category>Horror</category>
+<desc>A family vacation turns deadly when sharks invade a freshwater lake.</desc>
+<credits>
+<director>Misty Talley</director>
+<actor>Allisyn Ashley Arm</actor>
+</credits>
 </programme>
-
 <programme start="20260303014000 -0500" stop="20260303032500 -0500" channel="MidnightPulp">
 <title>Killer Crocodile</title>
 <date>1989</date>
 <category>Horror</category>
+<desc>Scientists and activists battle a giant crocodile mutated by toxic waste.</desc>
+<credits>
+<director>Fabrizio De Angelis</director>
+</credits>
 </programme>
-
 <programme start="20260303032500 -0500" stop="20260303035400 -0500" channel="MidnightPulp">
 <title>Bloody Bites</title>
 <date>2023</date>
 <category>Horror</category>
+<desc>A horror anthology featuring terrifying encounters with deadly creatures and supernatural forces.</desc>
 </programme>
-
 <programme start="20260303035400 -0500" stop="20260303064000 -0500" channel="MidnightPulp">
 <title>Knightriders</title>
 <date>1981</date>
@@ -2414,337 +2315,307 @@
 <director>George A. Romero</director>
 </credits>
 </programme>
-
 <programme start="20260303064000 -0500" stop="20260303084200 -0500" channel="MidnightPulp">
 <title>Atomic Apocalypse</title>
 <date>2018</date>
 <category>Science Fiction</category>
+<desc>In a devastated post-apocalyptic world, a lone survivor fights against hostile raiders and dangerous conditions while searching desperately for her lost family.</desc>
+<credits>
+<director>Martin Gooch</director>
+<actor>Laura Ellen Wilson</actor>
+<actor>Alexandra Hansler</actor>
+</credits>
 </programme>
-
 <programme start="20260303084200 -0500" stop="20260303101900 -0500" channel="MidnightPulp">
 <title>Streets of Rage</title>
 <date>1994</date>
 <category>Action</category>
 </programme>
-
 <programme start="20260303101900 -0500" stop="20260303115900 -0500" channel="MidnightPulp">
 <title>The Bouncer</title>
 <date>2018</date>
 <category>Action</category>
 <actor>Jean-Claude Van Damme</actor>
 </programme>
-
 <programme start="20260303115900 -0500" stop="20260303133900 -0500" channel="MidnightPulp">
 <title>Massacre at Central High</title>
 <date>1976</date>
 <category>Thriller</category>
 </programme>
-
 <programme start="20260303133900 -0500" stop="20260303153700 -0500" channel="MidnightPulp">
 <title>Beyond the Door</title>
 <date>1974</date>
 <category>Horror</category>
 </programme>
-
 <programme start="20260303153700 -0500" stop="20260303172900 -0500" channel="MidnightPulp">
 <title>The Summoning</title>
 <date>2017</date>
 <category>Horror</category>
 </programme>
-
 <programme start="20260303172900 -0500" stop="20260303184900 -0500" channel="MidnightPulp">
 <title>Yellow Dragon's Village</title>
 <date>2021</date>
 <category>Action</category>
 </programme>
-
 <programme start="20260303184900 -0500" stop="20260303200000 -0500" channel="MidnightPulp">
 <title>Man Beast</title>
 <date>1956</date>
 <category>Horror</category>
 </programme>
-
 <programme start="20260303200000 -0500" stop="20260303220000 -0500" channel="MidnightPulp">
 <title>Double Target</title>
 <date>1987</date>
 <category>Action</category>
 </programme>
-
 <programme start="20260303220000 -0500" stop="20260304000000 -0500" channel="MidnightPulp">
 <title>Brothers Till We Die</title>
 <date>1978</date>
 <category>Crime</category>
+<desc>A feared gangster known as the Hunchback of Rome returns from exile to organize a daring armored truck robbery. When he is betrayed by his own partners, he sets out on a brutal path of revenge.</desc>
+<credits>
+<director>Umberto Lenzi</director>
+<actor>Tomas Milian</actor>
+<actor>Pino Colizzi</actor>
+<actor>Isaac George</actor>
+</credits>
 </programme>
-
-<!-- 🔵 MARDI 4 MARS 2026 🔵 -->
-
 <programme start="20260304000000 -0500" stop="20260304020000 -0500" channel="MidnightPulp">
 <title>Double Target</title>
 <date>1987</date>
 <category>Action</category>
 </programme>
-
 <programme start="20260304020000 -0500" stop="20260304040000 -0500" channel="MidnightPulp">
 <title>Brothers Till We Die</title>
 <date>1978</date>
 <category>Crime</category>
+<desc>A feared gangster known as the Hunchback of Rome returns from exile to organize a daring armored truck robbery. When he is betrayed by his own partners, he sets out on a brutal path of revenge.</desc>
+<credits>
+<director>Umberto Lenzi</director>
+<actor>Tomas Milian</actor>
+<actor>Pino Colizzi</actor>
+<actor>Isaac George</actor>
+</credits>
 </programme>
-  <!-- 🔵 MERCREDI 4 MARS 2026 🔵 -->
-
 <programme start="20260304040000 -0500" stop="20260304054000 -0500" channel="MidnightPulp">
-  <title>One-Armed Swordsman vs. Nine Killers</title>
+<title>One-Armed Swordsman vs. Nine Killers</title>
 </programme>
-
 <programme start="20260304054000 -0500" stop="20260304072000 -0500" channel="MidnightPulp">
-  <title>World of the Drunken Master</title>
+<title>World of the Drunken Master</title>
 </programme>
-
 <programme start="20260304072000 -0500" stop="20260304091000 -0500" channel="MidnightPulp">
-  <title>Avenging Boxer</title>
+<title>Avenging Boxer</title>
 </programme>
-
 <programme start="20260304091000 -0500" stop="20260304110000 -0500" channel="MidnightPulp">
-  <title>Master of the Flying Guillotine</title>
-  <date>1976</date>
-  <category>Martial Arts</category>
-  <category>Action</category>
-  <desc>A blind kung fu master hunts down the one-armed fighter who defeated his students, triggering a series of brutal duels between rival schools.</desc>
+<title>Master of the Flying Guillotine</title>
+<date>1976</date>
+<category>Martial Arts</category>
+<category>Action</category>
+<desc>A blind kung fu master hunts down the one-armed fighter who defeated his students, triggering a series of brutal duels between rival schools.</desc>
 </programme>
-
-<!-- 🔵 MERCREDI 4 MARS 2026 🔵 -->
-
 <programme start="20260304110000 -0500" stop="20260304121900 -0500" channel="MidnightPulp">
-  <title>Justice Ninja Style</title>
-  <date>1985</date>
-  <category>Action</category>
-  <desc>When a corrupt cop commits a brutal crime and frames an innocent man, the accused must fight to clear his name and expose the truth.</desc>
+<title>Justice Ninja Style</title>
+<date>1985</date>
+<category>Action</category>
+<desc>When a corrupt cop commits a brutal crime and frames an innocent man, the accused must fight to clear his name and expose the truth.</desc>
 </programme>
-
 <programme start="20260304121900 -0500" stop="20260304143500 -0500" channel="MidnightPulp">
-  <title>High Forces</title>
+<title>High Forces</title>
 </programme>
-
 <programme start="20260304143500 -0500" stop="20260304161500 -0500" channel="MidnightPulp">
-  <title>The Last Mercenary</title>
+<title>The Last Mercenary</title>
 </programme>
-
 <programme start="20260304161500 -0500" stop="20260304180400 -0500" channel="MidnightPulp">
-  <title>Born to Fight</title>
-  <date>2004</date>
-  <category>Action</category>
-  <category>Martial Arts</category>
-  <desc>An elite group of athletes is pulled into a deadly battle when criminals take hostages and force them into a fight for survival.</desc>
+<title>Born to Fight</title>
+<date>2004</date>
+<category>Action</category>
+<category>Martial Arts</category>
+<desc>An elite group of athletes is pulled into a deadly battle when criminals take hostages and force them into a fight for survival.</desc>
 </programme>
-
 <programme start="20260304180400 -0500" stop="20260304195300 -0500" channel="MidnightPulp">
-  <title>Caught in Time</title>
-  <date>2020</date>
-  <category>Action</category>
-  <category>Crime</category>
-  <desc>A veteran detective leads a task force against a ruthless crime boss who always stays one step ahead, pushing the hunt into a personal obsession.</desc>
-  <credits>
-    <actor>Daniel Wu</actor>
-    <actor>Wang Qianyuan</actor>
-  </credits>
+<title>Caught in Time</title>
+<date>2020</date>
+<category>Action</category>
+<category>Crime</category>
+<desc>A veteran detective leads a task force against a ruthless crime boss who always stays one step ahead, pushing the hunt into a personal obsession.</desc>
+<credits>
+<actor>Daniel Wu</actor>
+<actor>Wang Qianyuan</actor>
+</credits>
 </programme>
-
 <programme start="20260304195300 -0500" stop="20260304220000 -0500" channel="MidnightPulp">
-  <title>Drug War</title>
-  <date>2012</date>
-  <category>Crime</category>
-  <category>Action</category>
-  <desc>A Hong Kong police captain teams up with a captured drug manufacturer to dismantle a powerful narcotics syndicate in mainland China.</desc>
-  <credits>
-    <director>Johnnie To</director>
-    <actor>Louis Koo</actor>
-    <actor>Sun Honglei</actor>
-  </credits>
+<title>Drug War</title>
+<date>2012</date>
+<category>Crime</category>
+<category>Action</category>
+<desc>A Hong Kong police captain teams up with a captured drug manufacturer to dismantle a powerful narcotics syndicate in mainland China.</desc>
+<credits>
+<director>Johnnie To</director>
+<actor>Louis Koo</actor>
+<actor>Sun Honglei</actor>
+</credits>
 </programme>
-
 <programme start="20260304220000 -0500" stop="20260305000000 -0500" channel="MidnightPulp">
-  <title>Visible Secret</title>
-  <date>2001</date>
-  <category>Horror</category>
-  <category>Thriller</category>
-  <desc>After a traumatic encounter, a man gains the unsettling ability to see spirits, drawing him into a frightening mystery tied to death and the supernatural.</desc>
+<title>Visible Secret</title>
+<date>2001</date>
+<category>Horror</category>
+<category>Thriller</category>
+<desc>After a traumatic encounter, a man gains the unsettling ability to see spirits, drawing him into a frightening mystery tied to death and the supernatural.</desc>
 </programme>
-
-
-<!-- 🔵 JEUDI 5 MARS 2026 🔵 -->
-
 <programme start="20260305000000 -0500" stop="20260305020000 -0500" channel="MidnightPulp">
-  <title>Drug War</title>
-  <date>2012</date>
-  <category>Crime</category>
+<title>Drug War</title>
+<date>2012</date>
+<category>Crime</category>
+<desc>A Hong Kong police captain teams up with a captured drug manufacturer to dismantle a powerful narcotics syndicate in mainland China.</desc>
+<credits>
+<director>Johnnie To</director>
+<actor>Louis Koo</actor>
+<actor>Sun Honglei</actor>
+</credits>
 </programme>
-
 <programme start="20260305020000 -0500" stop="20260305040000 -0500" channel="MidnightPulp">
-  <title>Visible Secret</title>
-  <date>2001</date>
-  <category>Horror</category>
+<title>Visible Secret</title>
+<date>2001</date>
+<category>Horror</category>
+<desc>After a traumatic encounter, a man gains the unsettling ability to see spirits, drawing him into a frightening mystery tied to death and the supernatural.</desc>
 </programme>
-
 <programme start="20260305040000 -0500" stop="20260305061500 -0500" channel="MidnightPulp">
-  <title>The Great Yokai War: Guardians</title>
-  <date>2021</date>
-  <category>Fantasy</category>
-  <category>Adventure</category>
-  <desc>A young boy is pulled into a hidden world of yokai and must help stop an ancient threat that could destroy both the spirit realm and the human world.</desc>
+<title>The Great Yokai War: Guardians</title>
+<date>2021</date>
+<category>Fantasy</category>
+<category>Adventure</category>
+<desc>A young boy is pulled into a hidden world of yokai and must help stop an ancient threat that could destroy both the spirit realm and the human world.</desc>
 </programme>
-
 <programme start="20260305061500 -0500" stop="20260305082500 -0500" channel="MidnightPulp">
-  <title>Shin Ultraman</title>
-  <date>2022</date>
-  <category>Science Fiction</category>
-  <category>Action</category>
-  <desc>As giant threats emerge, a mysterious silver giant appears—forcing a special task force to confront what Ultraman is, and whether he’s humanity’s ally or something else.</desc>
+<title>Shin Ultraman</title>
+<date>2022</date>
+<category>Science Fiction</category>
+<category>Action</category>
+<desc>As giant threats emerge, a mysterious silver giant appears—forcing a special task force to confront what Ultraman is, and whether he’s humanity’s ally or something else.</desc>
 </programme>
-
 <programme start="20260305082500 -0500" stop="20260305102000 -0500" channel="MidnightPulp">
-  <title>Quantum Cowboys</title>
-  <date>2022</date>
-  <category>Comedy</category>
-  <desc>Hapless drifters Frank and Bruno team up with a woman to recover her land and trek across 1870s southern Arizona to find an elusive frontier musician.</desc>
+<title>Quantum Cowboys</title>
+<date>2022</date>
+<category>Comedy</category>
+<desc>Hapless drifters Frank and Bruno team up with a woman to recover her land and trek across 1870s southern Arizona to find an elusive frontier musician.</desc>
 </programme>
-
-<!-- 🔵 JEUDI 5 MARS 2026 🔵 -->
-
 <programme start="20260305102000 -0500" stop="20260305120500 -0500" channel="MidnightPulp">
-  <title>Conquest</title>
-  <date>1984</date>
-  <category>Fantasy</category>
-  <desc>Two warriors wage battle against vicious beasts and monsters dispatched by a demonic demigod.</desc>
-  <credits>
-    <director>Lucio Fulci</director>
-  </credits>
+<title>Conquest</title>
+<date>1984</date>
+<category>Fantasy</category>
+<desc>Two warriors wage battle against vicious beasts and monsters dispatched by a demonic demigod.</desc>
+<credits>
+<director>Lucio Fulci</director>
+</credits>
 </programme>
-
 <programme start="20260305120500 -0500" stop="20260305140500 -0500" channel="MidnightPulp">
-  <title>Titan Find</title>
-  <date>1985</date>
-  <category>Science Fiction</category>
-  <desc>An alien creature stalks corporate rivals aboard rival spacecraft orbiting Saturn, turning their mission into a fight for survival.</desc>
+<title>Titan Find</title>
+<date>1985</date>
+<category>Science Fiction</category>
+<desc>An alien creature stalks corporate rivals aboard rival spacecraft orbiting Saturn, turning their mission into a fight for survival.</desc>
 </programme>
-
 <programme start="20260305140500 -0500" stop="20260305155300 -0500" channel="MidnightPulp">
-  <title>Xtro 3: Watch the Skies</title>
-  <date>1995</date>
-  <category>Science Fiction</category>
-  <category>Horror</category>
-  <desc>In a remote area, a military team investigates a series of strange abductions and confronts a terrifying extraterrestrial presence.</desc>
+<title>Xtro 3: Watch the Skies</title>
+<date>1995</date>
+<category>Science Fiction</category>
+<category>Horror</category>
+<desc>In a remote area, a military team investigates a series of strange abductions and confronts a terrifying extraterrestrial presence.</desc>
 </programme>
-
 <programme start="20260305155300 -0500" stop="20260305180900 -0500" channel="MidnightPulp">
-  <title>Burst City</title>
-  <date>1982</date>
-  <category>Action</category>
-  <category>Music</category>
-  <desc>Punk bands and rebel gangs clash with authorities as a city is torn apart by corruption, violence, and raw underground energy.</desc>
+<title>Burst City</title>
+<date>1982</date>
+<category>Action</category>
+<category>Music</category>
+<desc>Punk bands and rebel gangs clash with authorities as a city is torn apart by corruption, violence, and raw underground energy.</desc>
 </programme>
-
 <programme start="20260305180900 -0500" stop="20260305195300 -0500" channel="MidnightPulp">
-  <title>Shockwave</title>
-  <date>2006</date>
-  <category>Action</category>
-  <desc>Navy SEALs investigate a military plane crash on a remote island and encounter deadly experimental combat robots.</desc>
+<title>Shockwave</title>
+<date>2006</date>
+<category>Action</category>
+<desc>Navy SEALs investigate a military plane crash on a remote island and encounter deadly experimental combat robots.</desc>
 </programme>
-
 <programme start="20260305195300 -0500" stop="20260305221400 -0500" channel="MidnightPulp">
-  <title>Raining in the Mountain</title>
-  <date>1979</date>
-  <category>Drama</category>
-  <desc>Inside a remote mountain monastery, rival thieves and monks collide while a priceless scroll becomes the center of a dangerous game of deception.</desc>
-  <credits>
-    <director>King Hu</director>
-  </credits>
+<title>Raining in the Mountain</title>
+<date>1979</date>
+<category>Drama</category>
+<desc>Inside a remote mountain monastery, rival thieves and monks collide while a priceless scroll becomes the center of a dangerous game of deception.</desc>
+<credits>
+<director>King Hu</director>
+</credits>
 </programme>
-
 <programme start="20260305221400 -0500" stop="20260306000000 -0500" channel="MidnightPulp">
-  <title>The Bloody Mission</title>
-  <date>1982</date>
-  <category>Action</category>
-  <desc>Two brave swordsmen fight for supremacy in the martial world and for the hand of a mysterious maiden.</desc>
+<title>The Bloody Mission</title>
+<date>1982</date>
+<category>Action</category>
+<desc>Two brave swordsmen fight for supremacy in the martial world and for the hand of a mysterious maiden.</desc>
 </programme>
-  <!-- 🔵 VENDREDI 6 MARS 2026 🔵 -->
-
 <programme start="20260306000000 -0500" stop="20260306021300 -0500" channel="MidnightPulp">
-  <title>Raining in the Mountain</title>
-  <date>1979</date>
-  <category>Drama</category>
-  <category>Martial Arts</category>
-  <desc>Inside a remote mountain monastery, rival thieves and monks compete for control of a priceless Buddhist scroll in a deadly game of deception.</desc>
-  <credits>
-    <director>King Hu</director>
-    <actor>Hsu Feng</actor>
-    <actor>Sun Yueh</actor>
-  </credits>
+<title>Raining in the Mountain</title>
+<date>1979</date>
+<category>Drama</category>
+<category>Martial Arts</category>
+<desc>Inside a remote mountain monastery, rival thieves and monks compete for control of a priceless Buddhist scroll in a deadly game of deception.</desc>
+<credits>
+<director>King Hu</director>
+<actor>Hsu Feng</actor>
+<actor>Sun Yueh</actor>
+</credits>
 </programme>
-
 <programme start="20260305221400 -0500" stop="20260306000000 -0500" channel="MidnightPulp">
-  <title>The Bloody Mission</title>
-  <date>1982</date>
-  <category>Action</category>
-  <desc>Two brave swordsmen fight for supremacy in the martial world and for the hand of a mysterious maiden.</desc>
+<title>The Bloody Mission</title>
+<date>1982</date>
+<category>Action</category>
+<desc>Two brave swordsmen fight for supremacy in the martial world and for the hand of a mysterious maiden.</desc>
 </programme>
-
 <programme start="20260306040000 -0500" stop="20260306054500 -0500" channel="MidnightPulp">
-  <title>The New Gladiators</title>
-  <date>1983</date>
-  <category>Action</category>
-  <category>Science Fiction</category>
-  <desc>In a dystopian future, fighters battle in televised arena combats while rebellion brews beneath the spectacle.</desc>
+<title>The New Gladiators</title>
+<date>1983</date>
+<category>Action</category>
+<category>Science Fiction</category>
+<desc>In a dystopian future, fighters battle in televised arena combats while rebellion brews beneath the spectacle.</desc>
 </programme>
-
 <programme start="20260306054500 -0500" stop="20260306082500 -0500" channel="MidnightPulp">
-  <title>Along With the Gods: The Two Worlds</title>
-  <date>2017</date>
-  <category>Fantasy</category>
-  <category>Adventure</category>
-  <desc>A firefighter dies saving a child and must face seven trials in the afterlife with the help of three guardians.</desc>
-  <credits>
-    <actor>Ha Jung-woo</actor>
-    <actor>Cha Tae-hyun</actor>
-  </credits>
+<title>Along With the Gods: The Two Worlds</title>
+<date>2017</date>
+<category>Fantasy</category>
+<category>Adventure</category>
+<desc>A firefighter dies saving a child and must face seven trials in the afterlife with the help of three guardians.</desc>
+<credits>
+<actor>Ha Jung-woo</actor>
+<actor>Cha Tae-hyun</actor>
+</credits>
 </programme>
-
 <programme start="20260306082500 -0500" stop="20260306110500 -0500" channel="MidnightPulp">
-  <title>Along With the Gods: The Last 49 Days</title>
-  <date>2018</date>
-  <category>Fantasy</category>
-  <category>Adventure</category>
-  <desc>The guardians continue their mission while uncovering secrets from their own forgotten pasts.</desc>
+<title>Along With the Gods: The Last 49 Days</title>
+<date>2018</date>
+<category>Fantasy</category>
+<category>Adventure</category>
+<desc>The guardians continue their mission while uncovering secrets from their own forgotten pasts.</desc>
 </programme>
-
 <programme start="20260306110500 -0500" stop="20260306125900 -0500" channel="MidnightPulp">
-  <title>Legend of the Stardust Brothers</title>
-  <date>1985</date>
-  <category>Music</category>
-  <category>Science Fiction</category>
-  <desc>A wild sci-fi rock opera following two young musicians manipulated by a corrupt pop industry machine.</desc>
+<title>Legend of the Stardust Brothers</title>
+<date>1985</date>
+<category>Music</category>
+<category>Science Fiction</category>
+<desc>A wild sci-fi rock opera following two young musicians manipulated by a corrupt pop industry machine.</desc>
 </programme>
-
 <programme start="20260306125900 -0500" stop="20260306144400 -0500" channel="MidnightPulp">
-  <title>Sampo</title>
-  <date>1959</date>
-  <category>Fantasy</category>
-  <category>Adventure</category>
-  <desc>A magical artifact called the Sampo sparks a mythic battle between rival kingdoms in a visually rich fantasy tale.</desc>
+<title>Sampo</title>
+<date>1959</date>
+<category>Fantasy</category>
+<category>Adventure</category>
+<desc>A magical artifact called the Sampo sparks a mythic battle between rival kingdoms in a visually rich fantasy tale.</desc>
 </programme>
-
 <programme start="20260306144400 -0500" stop="20260306165500 -0500" channel="MidnightPulp">
-  <title>The Bermuda Triangle</title>
-  <date>1978</date>
-  <category>Adventure</category>
-  <category>Fantasy</category>
-  <desc>A family vacation turns terrifying after they discover a mysterious doll linked to deadly forces in the Bermuda Triangle.</desc>
+<title>The Bermuda Triangle</title>
+<date>1978</date>
+<category>Adventure</category>
+<category>Fantasy</category>
+<desc>A family vacation turns terrifying after they discover a mysterious doll linked to deadly forces in the Bermuda Triangle.</desc>
 </programme>
-
 <programme start="20260306165500 -0500" stop="20260306180000 -0500" channel="MidnightPulp">
-  <title>The Pied Piper</title>
-  <date>1985</date>
-  <category>Animated</category>
-  <desc>A mysterious piper seeks payment from townspeople after leading the rodents that had been plaguing the town into the sea.</desc>
+<title>The Pied Piper</title>
+<date>1985</date>
+<category>Animated</category>
+<desc>A mysterious piper seeks payment from townspeople after leading the rodents that had been plaguing the town into the sea.</desc>
 </programme>
 </tv>
-
-
