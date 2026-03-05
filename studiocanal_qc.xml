@@ -2931,7 +2931,282 @@
 <category>Thriller</category>
 <desc>Director: Shusuke Kaneko. Cast: Akiji Kobayashi (Soldier), Ayako Fujitani (Asagi Kusanagi), Miki Mizuno (Midori Honami). A flying turtle battles insectlike creatures in Tokyo after they emerge from a meteor.</desc>
 </programme>
+  <!-- 🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵 2026-03-10 🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵 -->
+
+<programme start="20260310000000 -0500" stop="20260310020400 -0500" channel="MidnightPulp">
+<title>Gamera 3: Revenge of Iris</title>
+<date>1999</date>
+<category>Science fiction</category>
+<desc>Director: Shusuke Kaneko. Cast: Shinobu Nakayama (Mayumi Nagamine), Ai Maeda (Ayana Hirasaka), Ayako Fujitani (Asagi Kusanagi). A teenager trains the Gyaos birds, Gamera's enemies, to avenge her parents who were killed by the monster.</desc>
+</programme>
+
+<programme start="20260310020400 -0500" stop="20260310035800 -0500" channel="MidnightPulp">
+<title>Gamera 2: Attack of the Legion</title>
+<date>1996</date>
+<category>Horror</category>
+<category>Science fiction</category>
+<category>Thriller</category>
+<desc>Director: Shusuke Kaneko. Cast: Akiji Kobayashi (Soldier), Ayako Fujitani (Asagi Kusanagi), Miki Mizuno (Midori Honami). A flying turtle battles insectlike creatures in Tokyo after they emerge from a meteor.</desc>
+</programme>
+
+<programme start="20260310035800 -0500" stop="20260310054800 -0500" channel="MidnightPulp">
+<title>Torso</title>
+<date>1973</date>
+<category>Horror</category>
+<desc>Director: Sergio Martino. Cast: Suzy Kendall (Jane), Tina Aumont (Daniela), Luc Merenda (Roberto). A hooded killer with a hacksaw stalks college students.</desc>
+</programme>
+
+<programme start="20260310054800 -0500" stop="20260310072800 -0500" channel="MidnightPulp">
+<title>The Attic</title>
+<date>2008</date>
+<category>Horror</category>
+<category>Thriller</category>
+<desc>Director: Mary Lambert. Cast: Elisabeth Moss (Emma Callan), Jason Lewis (John Trevor), Tom Malloy (Frankie Callan). A girl believes her identical twin haunts her family’s new house.</desc>
+</programme>
+
+<programme start="20260310072800 -0500" stop="20260310085600 -0500" channel="MidnightPulp">
+<title>The Bride and the Beast</title>
+<date>1958</date>
+<category>Horror</category>
+<desc>Director: Adrian Weiss. Cast: Charlotte Austin (Laura Carson Fuller), Lance Fuller (Dan Fuller), Johnny Roth (Taro). A newlywed in Africa reveals through hypnosis a mysterious past connection to her husband’s pet gorilla.</desc>
+</programme>
+
+<programme start="20260310085600 -0500" stop="20260310111400 -0500" channel="MidnightPulp">
+<title>Audition</title>
+<date>1999</date>
+<category>Horror</category>
+<desc>Director: Takashi Miike. Cast: Ryo Ishibashi (Shigeharu Aoyama), Eihi Shiina (Asami Yamazaki), Jun Kunimura (Yasuhisa Yoshikawa). A widower stages fake auditions to meet a new partner, but his choice leads to disturbing consequences.</desc>
+</programme>
+
+<programme start="20260310111400 -0500" stop="20260310130400 -0500" channel="MidnightPulp">
+<title>Dead &amp; Buried</title>
+<category>Documentary</category>
+<category>Educational</category>
+<desc>Host: Curly Velasquez. People’s evolving attitudes toward death.</desc>
+</programme>
+
+<programme start="20260310130400 -0500" stop="20260310150300 -0500" channel="MidnightPulp">
+<title>Street Trash</title>
+<date>1987</date>
+<category>Horror</category>
+<category>Comedy</category>
+<desc>Director: Jim Muro. Cast: Mike Lackey (Fred), Vic Noto (Bronson), Bill Chepil (Bill the Cop). Contaminated alcohol has grotesque effects on Brooklyn’s homeless population.</desc>
+</programme>
+
+<programme start="20260310150300 -0500" stop="20260310170800 -0500" channel="MidnightPulp">
+<title>Inferno</title>
+<date>1980</date>
+<category>Horror</category>
+<category>Mystery</category>
+<desc>Director: Dario Argento. Cast: Irene Miracle (Rose Elliot), Leigh McCloskey (Mark Elliot), Eleonora Giorgi (Sara). A man investigates the mysterious death of his sister and uncovers supernatural horrors tied to an ancient evil.</desc>
+</programme>
+
+<programme start="20260310170800 -0500" stop="20260310183800 -0500" channel="MidnightPulp">
+<title>Invasion of the Blood Farmers</title>
+<date>1972</date>
+<category>Horror</category>
+<desc>Director: Ed Adlum. Cast: Norman Kelley (Dr. Roy Anderson), Tanna Hunter (Jenny Anderson), Bruce Detrick (Don Tucker). Modern-day druids search upstate New York for the blood type needed to revive their ancient leader.</desc>
+</programme>
+
+<programme start="20260310183800 -0500" stop="20260310200500 -0500" channel="MidnightPulp">
+<title>The Slime People</title>
+<date>1963</date>
+<category>Science fiction</category>
+<desc>Director: Robert Hutton. Cast: Robert Hutton (Tom Gregory), Les Tremayne (Norman Tolliver), Robert Burton (Prof. Galvin). Nuclear testing awakens underground humanoids that trap Los Angeles under a deadly dome.</desc>
+</programme>
+
+<programme start="20260310200500 -0500" stop="20260310220800 -0500" channel="MidnightPulp">
+<title>Golgo 13</title>
+<date>1973</date>
+<category>Crime drama</category>
+<category>Thriller</category>
+<desc>Director: Junya Satō. Cast: Ken Takakura (Golgo 13). A legendary assassin seeks justice against an international criminal organization.</desc>
+</programme>
+
+<programme start="20260310220800 -0500" stop="20260311000000 -0500" channel="MidnightPulp">
+<title>Caught in Time</title>
+<date>2020</date>
+<category>Action</category>
+<category>Thriller</category>
+<desc>Director: Ho Leung Lau. Cast: Daniel Wu, Wang Qianyuan, Jessie Li. A detective leads a task force to take down a violent gang of thieves responsible for a string of brutal crimes.</desc>
+</programme>
+  <!-- 🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵 WEDNESDAY 2026-03-11 🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵 -->
+
+<programme start="20260311000000 -0500" stop="20260311020500 -0500" channel="MidnightPulp">
+<title>Golgo 13</title>
+<date>1973</date>
+<category>Crime drama</category>
+<category>Thriller</category>
+<desc>Director: Junya Satō. Cast: Ken Takakura (Golgo 13). An assassin seeks justice against an international criminal.</desc>
+</programme>
+
+<programme start="20260311020500 -0500" stop="20260311035400 -0500" channel="MidnightPulp">
+<title>Caught in Time</title>
+<date>2020</date>
+<category>Action</category>
+<category>Thriller</category>
+<desc>Director: Ho Leung Lau. Cast: Daniel Wu, Wang Qianyuan, Jessie Li. A detective leads a task force to take down a violent gang of thieves responsible for brutal crimes.</desc>
+</programme>
+
+<programme start="20260311035400 -0500" stop="20260311053500 -0500" channel="MidnightPulp">
+<title>Mad Cats</title>
+<date>2022</date>
+<category>Comedy drama</category>
+<category>Action</category>
+<desc>Director: Reiki Tsuno. Cast: Sho Mineo (Taka), Yūya Matsuura (Takezo), Sô Yamanaka (Mune). A young drifter searches for his missing brother while confronting bizarre criminal forces.</desc>
+</programme>
+
+<programme start="20260311053500 -0500" stop="20260311071700 -0500" channel="MidnightPulp">
+<title>Free Hand for a Tough Cop</title>
+<date>1976</date>
+<category>Drama</category>
+<category>Action</category>
+<desc>Director: Umberto Lenzi. Cast: Tomas Milian (Sergio Marazzi), Henry Silva (Brescianelli), Claudio Cassinelli (Antonio Sarti). A hardened cop teams with a criminal to rescue a kidnapped child.</desc>
+</programme>
+
+<programme start="20260311071700 -0500" stop="20260311093800 -0500" channel="MidnightPulp">
+<title>High Forces</title>
+<date>2024</date>
+<category>Action</category>
+<desc>A tense action thriller involving a hijacked aircraft and the battle to save its passengers.</desc>
+</programme>
+
+<programme start="20260311093800 -0500" stop="20260311112400 -0500" channel="MidnightPulp">
+<title>Strike Commando</title>
+<date>1987</date>
+<category>Action</category>
+<desc>Director: Vincent Dawn, Bruno Mattei. Cast: Reb Brown (Sgt. Michael Ransom), Christopher Connelly (Col. Radek), Alex Vitale. A soldier returns to the jungle to uncover the truth behind a failed mission.</desc>
+</programme>
+
+<programme start="20260311112400 -0500" stop="20260311135500 -0500" channel="MidnightPulp">
+<title>The Wild Geese</title>
+<date>1978</date>
+<category>Action</category>
+<desc>Director: Andrew V. McLaglen. Cast: Richard Burton (Col. Allen Faulkner), Roger Moore (Lt. Shawn Flynn), Richard Harris (Capt. Rafer Janders). Mercenaries are hired to overthrow an African dictator and restore a deposed president.</desc>
+</programme>
+
+<programme start="20260311135500 -0500" stop="20260311155400 -0500" channel="MidnightPulp">
+<title>Atomic Apocalypse</title>
+<date>2018</date>
+<category>Science fiction</category>
+<desc>Survivors in a devastated world fight to stay alive after nuclear catastrophe reshapes civilization.</desc>
+</programme>
+
+<programme start="20260311155400 -0500" stop="20260311181100 -0500" channel="MidnightPulp">
+<title>Shock Wave 2</title>
+<date>2020</date>
+<category>Action</category>
+<desc>An explosives expert with a mysterious past becomes the prime suspect in a devastating bombing.</desc>
+</programme>
+
+<programme start="20260311181100 -0500" stop="20260311195800 -0500" channel="MidnightPulp">
+<title>Solomon King</title>
+<date>1974</date>
+<category>Action</category>
+<desc>Director: Sal Watts, Jack Bomay. Cast: Sal Watts (Solomon King), Little Jamie Watts (Maney King), Claudia Russo (Princess Onecaba). A man declares war on criminals responsible for the murder of his lover.</desc>
+</programme>
+
+<programme start="20260311195800 -0500" stop="20260311222000 -0500" channel="MidnightPulp">
+<title>Nightbreed: Director's Cut</title>
+<date>1990</date>
+<category>Horror</category>
+<desc>Director: Clive Barker. Cast: Craig Sheffer (Aaron Boone), Anne Bobby (Lori Desinger), David Cronenberg (Dr. Decker). A man discovers a hidden city of monsters and becomes part of their fight for survival.</desc>
+</programme>
+
+<programme start="20260311222000 -0500" stop="20260312000000 -0500" channel="MidnightPulp">
+<title>Blood and Black Lace</title>
+<date>1964</date>
+<category>Horror</category>
+<desc>Director: Mario Bava. Cast: Cameron Mitchell, Eva Bartok, Thomas Reiner. A masked killer stalks models connected to a Roman fashion house.</desc>
+</programme>
+  <!-- 🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵 Thursday 2026-03-12 🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵 -->
+
+<programme start="20260312000000 -0500" stop="20260312022000 -0500" channel="MidnightPulp">
+<title>Nightbreed: Director's Cut</title>
+<date>1990</date>
+<category>Horror</category>
+<desc>Director: Clive Barker. Cast: Craig Sheffer (Aaron Boone/Cabal), Anne Bobby (Lori Desinger), David Cronenberg (Dr. Philip K. Decker). Aaron Boone is plagued by nightmares of a city of monsters and becomes entangled in a battle between humans and the monstrous Nightbreed.</desc>
+</programme>
+
+<programme start="20260312022000 -0500" stop="20260312035500 -0500" channel="MidnightPulp">
+<title>Blood and Black Lace</title>
+<date>1964</date>
+<category>Horror</category>
+<desc>Director: Mario Bava. Cast: Cameron Mitchell (Max Marian), Eva Bartok (Contessa Cristina Como), Thomas Reiner (Inspector Silvestri). A masked killer stalks models tied to a Roman fashion house.</desc>
+</programme>
+
+<programme start="20260312035500 -0500" stop="20260312055000 -0500" channel="MidnightPulp">
+<title>Karmalink</title>
+<date>2021</date>
+<category>Science fiction</category>
+<desc>A boy searching for treasure linked to a past life embarks on a surreal adventure through futuristic Phnom Penh.</desc>
+</programme>
+
+<programme start="20260312055000 -0500" stop="20260312073500 -0500" channel="MidnightPulp">
+<title>Strawberry Mansion</title>
+<date>2021</date>
+<category>Fantasy</category>
+<desc>A government dream auditor uncovers a conspiracy hidden inside people's dreams.</desc>
+</programme>
+
+<programme start="20260312073500 -0500" stop="20260312094300 -0500" channel="MidnightPulp">
+<title>Shin Ultraman</title>
+<date>2022</date>
+<category>Science fiction</category>
+<desc>A giant extraterrestrial hero appears to defend Earth from mysterious kaiju attacks.</desc>
+</programme>
+
+<programme start="20260312094300 -0500" stop="20260312112800 -0500" channel="MidnightPulp">
+<title>Scorched Earth</title>
+<date>2018</date>
+<category>Action</category>
+<desc>A bounty hunter pursues criminals across a devastated future Earth.</desc>
+</programme>
+
+<programme start="20260312112800 -0500" stop="20260312135900 -0500" channel="MidnightPulp">
+<title>Kin-Dza-Dza!</title>
+<date>1986</date>
+<category>Comedy</category>
+<desc>Two men accidentally teleport to a bizarre desert planet governed by absurd social rules.</desc>
+</programme>
+
+<programme start="20260312135900 -0500" stop="20260312161000 -0500" channel="MidnightPulp">
+<title>The Bermuda Triangle</title>
+<date>1978</date>
+<category>Adventure</category>
+<category>Fantasy</category>
+<desc>A family vacation turns terrifying after discovering a mysterious doll tied to deadly forces in the Bermuda Triangle.</desc>
+</programme>
+
+<programme start="20260312161000 -0500" stop="20260312175900 -0500" channel="MidnightPulp">
+<title>The Grand Tour</title>
+<date>1992</date>
+<category>Science fiction</category>
+<desc>Explorers embark on a dangerous interstellar journey.</desc>
+</programme>
+
+<programme start="20260312175900 -0500" stop="20260312200000 -0500" channel="MidnightPulp">
+<title>The Final Countdown</title>
+<date>1980</date>
+<category>Science fiction</category>
+<desc>The crew of a modern U.S. aircraft carrier mysteriously travels back in time to the eve of the attack on Pearl Harbor.</desc>
+</programme>
+
+<programme start="20260312200000 -0500" stop="20260312221400 -0500" channel="MidnightPulp">
+<title>Sword of Desperation</title>
+<date>2010</date>
+<category>Action</category>
+<desc>A disgraced samurai seeks redemption while confronting corruption within his clan.</desc>
+</programme>
+
+<programme start="20260312221400 -0500" stop="20260313000000 -0500" channel="MidnightPulp">
+<title>Fearless Hyena II</title>
+<date>1983</date>
+<category>Adventure</category>
+<desc>Martial artists battle rival schools in a struggle for honor and revenge.</desc>
+</programme>
 </tv>
+
 
 
 
