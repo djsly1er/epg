@@ -2641,7 +2641,7 @@ This XML file does not appear to have any style information associated with it. 
 <category>Science fiction</category>
 <desc>The staff of a historic Kyoto inn find themselves trapped in a repeating two-minute time loop and must uncover the cause before the cycle repeats forever.</desc>
 </programme>
-  <!-- 🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵 SATURDAY 2026-03-07 🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵 -->
+  <!-- 🔵 SATURDAY 2026-03-07 🔵-->
 
 <programme start="20260307000000 -0500" stop="20260307022000 -0500" channel="MidnightPulp">
 <title>Moon Child</title>
@@ -2740,4 +2740,5 @@ This XML file does not appear to have any style information associated with it. 
 <desc>Chen Zhen travels to Thailand hoping to leave violence behind but is forced to confront a deadly criminal gang.</desc>
 </programme>
 </tv>
+
 
