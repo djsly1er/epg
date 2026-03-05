@@ -2641,5 +2641,105 @@
 <category>Science fiction</category>
 <desc>The one-hundred-year-old Fujiya inn stands in the quiet region of Kyoto and is stuck in a time loop.</desc>
 </programme>
+  <!-- 🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵 2026-03-07 🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵 -->
+
+<programme start="20260307000000 -0500" stop="20260307022000 -0500" channel="MidnightPulp">
+<title>Moon Child</title>
+<date>1989</date>
+<category>Drama</category>
+<desc>A mysterious European orphan raised in Africa believes he is destined to become the Messiah and begins gathering followers who believe in his divine mission.</desc>
+</programme>
+
+<programme start="20260307022000 -0500" stop="20260307040000 -0500" channel="MidnightPulp">
+<title>River</title>
+<date>2023</date>
+<category>Comedy</category>
+<category>Drama</category>
+<category>Science fiction</category>
+<desc>Guests and staff at a historic Kyoto inn suddenly find themselves trapped in a time loop repeating the same two minutes over and over again.</desc>
+</programme>
+
+<programme start="20260307040000 -0500" stop="20260307062000 -0500" channel="MidnightPulp">
+<title>Run Man Run</title>
+<date>1968</date>
+<category>Western</category>
+<desc>A small-time thief becomes entangled in the Mexican Revolution while searching for a hidden cache of gold.</desc>
+</programme>
+
+<programme start="20260307062000 -0500" stop="20260307080500 -0500" channel="MidnightPulp">
+<title>Navajo Joe</title>
+<date>1966</date>
+<category>Western</category>
+<desc>A Native American warrior seeks revenge against the gang of outlaws who massacred his tribe.</desc>
+</programme>
+
+<programme start="20260307080500 -0500" stop="20260307100000 -0500" channel="MidnightPulp">
+<title>Django the Bastard</title>
+<date>1969</date>
+<category>Western</category>
+<desc>A mysterious soldier believed to be dead returns to take revenge on the officers who betrayed him.</desc>
+</programme>
+
+<programme start="20260307100000 -0500" stop="20260307115900 -0500" channel="MidnightPulp">
+<title>Keoma</title>
+<date>1976</date>
+<category>Western</category>
+<category>Action</category>
+<desc>A half-breed gunfighter returns to his hometown during a deadly plague and faces his brutal half-brothers.</desc>
+</programme>
+
+<programme start="20260307115900 -0500" stop="20260307135800 -0500" channel="MidnightPulp">
+<title>$100,000 Dollars For Lassiter</title>
+<date>1968</date>
+<category>Western</category>
+<desc>A mysterious gunslinger becomes involved in a violent struggle for control of precious water rights in a desert town.</desc>
+</programme>
+
+<programme start="20260307135800 -0500" stop="20260307154500 -0500" channel="MidnightPulp">
+<title>Get Mean</title>
+<date>1976</date>
+<category>Action</category>
+<category>Western</category>
+<desc>An American mercenary escorts a Spanish princess across hostile territory filled with bandits and soldiers.</desc>
+</programme>
+
+<programme start="20260307154500 -0500" stop="20260307182400 -0500" channel="MidnightPulp">
+<title>Detective Chinatown</title>
+<date>2015</date>
+<category>Comedy</category>
+<category>Mystery</category>
+<desc>A bumbling detective and his eccentric partner investigate a bizarre murder case in Bangkok.</desc>
+</programme>
+  <programme start="20260307182400 -0500" stop="20260307190000 -0500" channel="MidnightPulp">
+<title>Bloody Bites</title>
+<category>Horror</category>
+<category>Comedy</category>
+<desc>Naked Zombie Girl;Season 9; Episode 8; 36 minutes;After losing her friends in a zombie attack, Barbara must survive naked, with only a chainsaw.</desc>
+</programme>
+
+<programme start="20260307190000 -0500" stop="20260307210300 -0500" channel="MidnightPulp">
+<title>The Chinese Connection</title>
+<date>1972</date>
+<category>Adventure</category>
+<category>Martial arts</category>
+<desc>Bruce Lee stars as Chen Zhen, a martial artist who seeks revenge after his master is murdered by a rival Japanese dojo.</desc>
+</programme>
+
+<programme start="20260307210300 -0500" stop="20260307230000 -0500" channel="MidnightPulp">
+<title>Blood of the Dragon</title>
+<date>1971</date>
+<category>Action</category>
+<category>Martial arts</category>
+<desc>A wandering swordsman becomes entangled in a deadly struggle against a ruthless warlord.</desc>
+</programme>
+
+<programme start="20260307230000 -0500" stop="20260308010000 -0500" channel="MidnightPulp">
+<title>The Chinese Connection</title>
+<date>1972</date>
+<category>Adventure</category>
+<category>Martial arts</category>
+<desc>Bruce Lee returns as Chen Zhen in this martial arts classic centered on honor, revenge and national pride.</desc>
+</programme>
 </tv>
+
 
