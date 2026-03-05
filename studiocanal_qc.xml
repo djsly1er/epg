@@ -2618,4 +2618,126 @@ This XML file does not appear to have any style information associated with it. 
 <category>Animated</category>
 <desc>A mysterious piper seeks payment from townspeople after leading the rodents that had been plaguing the town into the sea.</desc>
 </programme>
+ 
+  <programme start="20260306180000 -0500" stop="20260306194500 -0500" channel="MidnightPulp">
+<title>Airpocalypse</title>
+<date>2018</date>
+<category>Action</category>
+<category>Science fiction</category>
+<desc>When a mysterious chemical cloud blankets the city, turning the air toxic, survivors must fight their way through chaos to escape the deadly phenomenon before time runs out.</desc>
+</programme>
+
+<programme start="20260306194500 -0500" stop="20260306213500 -0500" channel="MidnightPulp">
+<title>Moon Child</title>
+<date>1989</date>
+<category>Drama</category>
+<desc>A European orphan raised in Africa believes he is destined to become the savior of humanity and begins gathering followers who believe in his divine mission.</desc>
+</programme>
+
+<programme start="20260306213500 -0500" stop="20260306231500 -0500" channel="MidnightPulp">
+<title>River</title>
+<date>2023</date>
+<category>Comedy</category>
+<category>Science fiction</category>
+<desc>The staff of a historic Kyoto inn find themselves trapped in a repeating two-minute time loop and must uncover the cause before the cycle repeats forever.</desc>
+</programme>
+  <!-- 🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵 SATURDAY 2026-03-07 🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵 -->
+
+<programme start="20260307000000 -0500" stop="20260307022000 -0500" channel="MidnightPulp">
+<title>Moon Child</title>
+<date>1989</date>
+<category>Drama</category>
+<desc>A white European orphan believes himself to be the Messiah destined to unite humanity.</desc>
+</programme>
+
+<programme start="20260307022000 -0500" stop="20260307040000 -0500" channel="MidnightPulp">
+<title>River</title>
+<date>2023</date>
+<category>Comedy</category>
+<category>Science fiction</category>
+<desc>The one-hundred-year-old Fujiya inn in Kyoto becomes trapped in a repeating time loop.</desc>
+</programme>
+
+<programme start="20260307040000 -0500" stop="20260307062000 -0500" channel="MidnightPulp">
+<title>Run Man Run</title>
+<date>1968</date>
+<category>Western</category>
+<desc>An unlucky thief becomes entangled in a dangerous hunt for hidden revolutionary gold.</desc>
+</programme>
+
+<programme start="20260307062000 -0500" stop="20260307080500 -0500" channel="MidnightPulp">
+<title>Navajo Joe</title>
+<date>1966</date>
+<category>Western</category>
+<desc>A Native American warrior seeks revenge against the bandits who slaughtered his tribe.</desc>
+</programme>
+
+<programme start="20260307080500 -0500" stop="20260307100000 -0500" channel="MidnightPulp">
+<title>Django the Bastard</title>
+<date>1969</date>
+<category>Western</category>
+<desc>A mysterious soldier returns from the dead to exact vengeance on the men who betrayed him.</desc>
+</programme>
+
+<programme start="20260307100000 -0500" stop="20260307115900 -0500" channel="MidnightPulp">
+<title>Keoma</title>
+<date>1976</date>
+<category>Western</category>
+<category>Action</category>
+<desc>A half-breed gunfighter returns to his plague-ridden hometown and faces his brutal half-brothers.</desc>
+</programme>
+
+<programme start="20260307115900 -0500" stop="20260307135800 -0500" channel="MidnightPulp">
+<title>$100,000 Dollars for Lassiter</title>
+<date>1968</date>
+<category>Western</category>
+<desc>A ruthless rancher attempts to control water rights but is opposed by a widow and a hired gunslinger.</desc>
+</programme>
+
+<programme start="20260307135800 -0500" stop="20260307154500 -0500" channel="MidnightPulp">
+<title>Get Mean</title>
+<date>1976</date>
+<category>Action</category>
+<category>Adventure</category>
+<category>Western</category>
+<desc>An American gunslinger escorts a princess across Spain while facing bandits, soldiers and revolutionaries.</desc>
+</programme>
+
+<programme start="20260307154500 -0500" stop="20260307174500 -0500" channel="MidnightPulp">
+<title>Detective Chinatown</title>
+<date>2015</date>
+<category>Comedy</category>
+<category>Action</category>
+<category>Mystery</category>
+<desc>A crime-solving duo investigates a bizarre murder case while navigating the chaotic streets of Bangkok.</desc>
+</programme>
+
+<programme start="20260307174500 -0500" stop="20260307182100 -0500" channel="MidnightPulp">
+<title>Bloody Bites</title>
+<category>Horror</category>
+<category>Science fiction</category>
+<desc>After losing her friends in a zombie attack, a woman must survive with nothing but a chainsaw.</desc>
+</programme>
+
+<programme start="20260307182100 -0500" stop="20260307190300 -0500" channel="MidnightPulp">
+<title>Hors d’onde</title>
+<desc>Off air.</desc>
+</programme>
+
+<programme start="20260307190300 -0500" stop="20260307210000 -0500" channel="MidnightPulp">
+<title>Blood of the Dragon</title>
+<date>1971</date>
+<category>Action</category>
+<category>Martial arts</category>
+<desc>A warrior must deliver a secret list of rebel supporters while evading the corrupt prime minister's forces.</desc>
+</programme>
+
+<programme start="20260307210000 -0500" stop="20260307230000 -0500" channel="MidnightPulp">
+<title>The Chinese Connection</title>
+<date>1972</date>
+<category>Adventure</category>
+<category>Martial arts</category>
+<desc>Chen Zhen travels to Thailand hoping to leave violence behind but is forced to confront a deadly criminal gang.</desc>
+</programme>
 </tv>
+
