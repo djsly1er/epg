@@ -2831,7 +2831,108 @@
 <category>Martial arts</category>
 <desc>Director: Wilson Yip. Cast: Donnie Yen (Ip Man), Lynn Hung (Cheung Wing-sing), Sammo Hung (Hung Chun-nam). Ip Man moves to Hong Kong and faces rival martial arts masters while opening a Wing Chun school.</desc>
 </programme>
+  <!-- 🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵 2026-03-09 🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵 -->
+
+<programme start="20260309000000 -0500" stop="20260309015900 -0500" channel="MidnightPulp">
+<title>Ip Man</title>
+<date>2008</date>
+<category>Action</category>
+<category>Martial arts</category>
+<desc>Director: Wilson Yip. Cast: Donnie Yen (Ip Man), Simon Yam (Zhou Qing Quan), Siu-Wong Fan (Jin Shan Zhao). The life story of Yip Man, the first person to teach the Chinese martial art of Wing Chun.</desc>
+</programme>
+
+<programme start="20260309015900 -0500" stop="20260309040500 -0500" channel="MidnightPulp">
+<title>Ip Man 2</title>
+<date>2010</date>
+<category>Action</category>
+<category>Martial arts</category>
+<desc>Director: Wilson Yip. Cast: Donnie Yen (Ip Man), Lynn Hung (Cheung Wing-sing), Sammo Hung (Hung Chun-nam). Ip arrives in Hong Kong and must prove himself to rival masters while opening a Wing Chun school.</desc>
+</programme>
+
+<programme start="20260309040500 -0500" stop="20260309061000 -0500" channel="MidnightPulp">
+<title>Flying Guillotine</title>
+<date>1974</date>
+<category>Adventure</category>
+<category>Action</category>
+<category>Martial arts</category>
+<desc>Director: Ho Meng-hua. Cast: Chen Kuan-tai (Ma Teng), Ku Feng (Xin Kang), Frankie Wei (Ah Kun). An ex-member of the Ch’ing emperor’s flying-blade force develops a similar weapon to repel attacks on innocent commoners.</desc>
+</programme>
+
+<programme start="20260309061000 -0500" stop="20260309075500 -0500" channel="MidnightPulp">
+<title>One-Armed Swordsman vs. Nine Killers</title>
+<date>1976</date>
+<category>Martial arts</category>
+<desc>Director: Teng Hung Hsu. Cast: Jimmy Wang Yu (Liu Ching Wu / One-Armed Swordsman), Hua Tsung (Mung Sing Hung), Ho Wu (Lu Hsiang Po). A one-armed savior battles local goons and reveals some surprising moves up his sleeve.</desc>
+</programme>
+
+<programme start="20260309075500 -0500" stop="20260309095400 -0500" channel="MidnightPulp">
+<title>The Assassin</title>
+<date>2015</date>
+<category>Action</category>
+<category>Martial arts</category>
+<category>Drama</category>
+<desc>Director: Hou Hsiao-hsien. Cast: Shu Qi (Nie Yinniang), Chang Chen (Tian Ji’an), Yun Zhou (Lady Tian). In ninth-century China, an exiled assassin must choose between love or duty when ordered to kill a man from her past.</desc>
+</programme>
+
+<programme start="20260309095400 -0500" stop="20260309114700 -0500" channel="MidnightPulp">
+<title>Treasure Inn</title>
+<date>2011</date>
+<category>Comedy</category>
+<desc>Director: Jing Wong. Cast: Nick Cheung (Brad), Charlene Choi (Lady Water Dragon), Kenny Ho. Two police officers with underrated skills join forces with twin sisters to investigate a murder and the theft of a relic.</desc>
+</programme>
+
+<programme start="20260309114700 -0500" stop="20260309133000 -0500" channel="MidnightPulp">
+<title>VR Fighter</title>
+<date>2021</date>
+<category>Action</category>
+<desc>Director: Tang Qiaojia. Cast: Siu-Wong Fan (Long Wei), Yi-Yi Jiang (Amy), Diego Dati (Steven). After his wife's death a professional bodyguard travels overseas for his daughter but ends up working as a virtual-reality tester.</desc>
+</programme>
+  <programme start="20260309133000 -0500" stop="20260309151500 -0500" channel="MidnightPulp">
+<title>Martial Law</title>
+<date>1990</date>
+<category>Action</category>
+<desc>Director: Steve Cohen. Cast: Chad McQueen (Sean Thompson), Cynthia Rothrock (Billie Blake), David Carradine (Dalton Rhodes). Karate-trained police officers in Los Angeles hunt a career criminal who runs a cartel-for-hire business and is also the master of a deadly technique.</desc>
+</programme>
+
+<programme start="20260309151500 -0500" stop="20260309170000 -0500" channel="MidnightPulp">
+<title>Martial Law II: Undercover</title>
+<date>1991</date>
+<category>Action</category>
+<desc>Director: Kurt Anderson. Cast: Jeff Wincott (Det. Sean Thompson), Cynthia Rothrock (Billie Blake), Paul Johansson (Spencer Hamilton). Undercover cops investigating the death of a fellow officer uncover a ring of murder and corruption at a nightclub where the rich are entertained by seductive women.</desc>
+</programme>
+
+<programme start="20260309170000 -0500" stop="20260309182400 -0500" channel="MidnightPulp">
+<title>Justice Ninja Style</title>
+<date>1985</date>
+<category>Action</category>
+<desc>When a cop murders and rapes a woman, he puts the blame on a local man who must prove his innocence.</desc>
+</programme>
+
+<programme start="20260309182400 -0500" stop="20260309200000 -0500" channel="MidnightPulp">
+<title>World of the Drunken Master</title>
+<date>1982</date>
+<category>Action</category>
+<category>Drama</category>
+<desc>Director: Joseph Kuo. Cast: Hui Lou Chen, Yi-min Li (Young begger Su), Jack Long. A legendary martial artist drinks his way through battles.</desc>
+</programme>
+
+<programme start="20260309200000 -0500" stop="20260309220400 -0500" channel="MidnightPulp">
+<title>Gamera 3: Revenge of Iris</title>
+<date>1999</date>
+<category>Science fiction</category>
+<desc>Director: Shusuke Kaneko. Cast: Shinobu Nakayama (Mayumi Nagamine), Ai Maeda (Ayana Hirasaka), Ayako Fujitani (Asagi Kusanagi). A teenager trains the Gyaos birds, Gamera's enemies, to avenge her parents who were killed by the monster.</desc>
+</programme>
+
+<programme start="20260309220400 -0500" stop="20260310000000 -0500" channel="MidnightPulp">
+<title>Gamera 2: Attack of the Legion</title>
+<date>1996</date>
+<category>Horror</category>
+<category>Science fiction</category>
+<category>Thriller</category>
+<desc>Director: Shusuke Kaneko. Cast: Akiji Kobayashi (Soldier), Ayako Fujitani (Asagi Kusanagi), Miki Mizuno (Midori Honami). A flying turtle battles insectlike creatures in Tokyo after they emerge from a meteor.</desc>
+</programme>
 </tv>
+
 
 
 
