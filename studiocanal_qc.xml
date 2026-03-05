@@ -2618,4 +2618,28 @@
 <category>Animated</category>
 <desc>A mysterious piper seeks payment from townspeople after leading the rodents that had been plaguing the town into the sea.</desc>
 </programme>
+  <programme start="20260306180000 -0500" stop="20260306195900 -0500" channel="MidnightPulp">
+<title>Airpocalypse</title>
+<date>2018</date>
+<category>Action</category>
+<category>Adventure</category>
+<desc>Four fallen gods are responsible for the environmental disaster that engulfs the land.</desc>
+</programme>
+
+<programme start="20260306195900 -0500" stop="20260306222000 -0500" channel="MidnightPulp">
+<title>Moon Child</title>
+<date>1989</date>
+<category>Drama</category>
+<desc>A white European orphan believes himself to be the Messiah.</desc>
+</programme>
+
+<programme start="20260306222000 -0500" stop="20260307001000 -0500" channel="MidnightPulp">
+<title>River</title>
+<date>2023</date>
+<category>Comedy</category>
+<category>Drama</category>
+<category>Science fiction</category>
+<desc>The one-hundred-year-old Fujiya inn stands in the quiet region of Kyoto and is stuck in a time loop.</desc>
+</programme>
 </tv>
+
